@@ -1,61 +1,12 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { importLibrary, setOptions } from "@googlemaps/js-api-loader";
-
-type Review = {
-  author_name: string;
-  rating: number;
-  text: string;
-  relative_time_description: string;
-};
+import { REVIEWS } from "@/data/reviews";
 
 export default function TrustBadgeSlider() {
   const [currentIndex, setCurrentIndex] = useState(0);
-  const [reviews, setReviews] = useState<Review[]>([]);
-  const [isLoading, setIsLoading] = useState(true);
-  const [errorMsg, setErrorMsg] = useState<string | null>(null);
-
-  useEffect(() => {
-    const fetchReviews = async () => {
-      const apiKey = process.env.NEXT_PUBLIC_GOOGLE_PLACES_API_KEY;
-      const placeId = process.env.NEXT_PUBLIC_GOOGLE_PLACE_ID;
-
-      if (!apiKey || !placeId || apiKey === "YOUR_API_KEY_HERE" || placeId === "YOUR_PLACE_ID_HERE") {
-        setErrorMsg("API for not load error");
-        setIsLoading(false);
-        return;
-      }
-
-      // Temporarily use mock data to completely prevent Google Maps Billing Errors
-      // in the Next.js overlay while the billing issue is being resolved.
-      const mockReviews = [
-        {
-          author_name: "Rahul M",
-          rating: 5,
-          text: "Excellent service and top-notch automation quality. Very happy with the installation at our villa.",
-          relative_time_description: "2 weeks ago"
-        },
-        {
-          author_name: "Siva Kumar",
-          rating: 5,
-          text: "Smart IoT Solutions transformed our office. The access control and lighting automation are seamless.",
-          relative_time_description: "a month ago"
-        },
-        {
-          author_name: "Priya Darshini",
-          rating: 5,
-          text: "Very professional team. They finished the home theater and smart lock installation exactly on time.",
-          relative_time_description: "2 months ago"
-        }
-      ];
-
-      setReviews(mockReviews);
-      setIsLoading(false);
-    };
-
-    fetchReviews();
-  }, []);
+  // Static reviews (src/data/reviews.ts) - no Google Places API needed.
+  const reviews = REVIEWS;
 
   useEffect(() => {
     if (reviews.length === 0) return;
@@ -94,20 +45,7 @@ export default function TrustBadgeSlider() {
 
       {/* Review Content Slider */}
       <div className="relative h-[65px] w-full min-w-[260px]">
-        {isLoading ? (
-          <div className="flex items-center h-full">
-            <span className="text-xs font-medium text-white/50 tracking-wide animate-pulse">Loading verified reviews...</span>
-          </div>
-        ) : errorMsg ? (
-          // In dev: API is blocked by referrer restriction (expected). Show nothing.
-          // In prod: this state should never be reached if the API key & place ID are correct.
-          process.env.NODE_ENV === "development" ? null : (
-            <div className="flex items-center h-full">
-              <span className="text-xs font-medium text-red-400/80 tracking-wide">{errorMsg}</span>
-            </div>
-          )
-        ) : (
-          <div className="relative w-full h-full">
+        <div className="relative w-full h-full">
             {reviews.map((review, index) => (
               <div 
                 key={index} 
@@ -130,8 +68,7 @@ export default function TrustBadgeSlider() {
                 </div>
               </div>
             ))}
-          </div>
-        )}
+        </div>
       </div>
     </div>
   );
