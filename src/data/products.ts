@@ -546,6 +546,7 @@ export const products: Product[] = [
     "category": "Boom Barriers",
     "price": 47400,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/bldc-boom-barrier.png",
     "particulars": [
       "BLDC BARRIER - AZBB113",
       "BOOM 2M ROUND LED - AZBT012M",
@@ -570,6 +571,7 @@ export const products: Product[] = [
     "category": "Boom Barriers",
     "price": 72700,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/arm-out-hybrid-bldc-boom.png",
     "particulars": [
       "BLDC BARRIER - AZBB115A",
       "TELESCOPIC BOOM 6 MTR - AZBT01A6M",
@@ -596,6 +598,7 @@ export const products: Product[] = [
     "category": "Boom Barriers",
     "price": 76500,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/arm-out-hybrid-bldc-boom.png",
     "particulars": [
       "BLDC BARRIER - AZBB115A",
       "ARM OUT SQUARE BOOM 6 MTR - AZBA06A",
@@ -622,6 +625,7 @@ export const products: Product[] = [
     "category": "Boom Barriers",
     "price": 93400,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/arm-out-hybrid-bldc-boom.png",
     "particulars": [
       "BLDC BARRIER - AZBB115A",
       "LED BOOM 6 MTR - AZBL07A6M",
@@ -648,6 +652,7 @@ export const products: Product[] = [
     "category": "Boom Barriers",
     "price": 101400,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/arm-out-hybrid-bldc-boom.png",
     "particulars": [
       "BLDC BARRIER - AZBB115A",
       "FOLDING BOOM 4 MTR - AZBF05A90D",
@@ -674,6 +679,7 @@ export const products: Product[] = [
     "category": "Boom Barriers",
     "price": 104500,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/arm-out-hybrid-bldc-boom.png",
     "particulars": [
       "BLDC BARRIER - AZBB115A",
       "FOLDING BOOM 4 MTR - AZBF10A180D",
@@ -700,6 +706,7 @@ export const products: Product[] = [
     "category": "Boom Barriers",
     "price": 98400,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/fence-hybrid.png",
     "particulars": [
       "BLDC BARRIER - AZBB115A",
       "FENCE BOOM 4.5 MTR - AZBFO3A4.5M",
@@ -724,6 +731,7 @@ export const products: Product[] = [
     "category": "Boom Barriers",
     "price": 85000,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/rush-bldc-boom-barrier.png",
     "particulars": [
       "BLDC BARRIER - AZBBL18",
       "TELESCOPIC BOOM 6 MTR - AZBT01A6M",
@@ -750,6 +758,7 @@ export const products: Product[] = [
     "category": "Boom Barriers",
     "price": 89900,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/rush-bldc-boom-barrier.png",
     "particulars": [
       "BLDC BARRIER - AZBBL18",
       "ARM OUT SQUARE BOOM 6 MTR - AZBA06A",
@@ -776,6 +785,7 @@ export const products: Product[] = [
     "category": "Boom Barriers",
     "price": 98200,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/rush-bldc-boom-barrier.png",
     "particulars": [
       "BLDC BARRIER - AZBBL18",
       "LED BOOM 6 MTR - AZBL07A6M",
@@ -802,6 +812,7 @@ export const products: Product[] = [
     "category": "Boom Barriers",
     "price": 109800,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/rush-bldc-boom-barrier.png",
     "particulars": [
       "BLDC BARRIER - AZBBL18",
       "FOLDING BOOM 4 MTR - AZBF05A90D",
@@ -828,6 +839,7 @@ export const products: Product[] = [
     "category": "Boom Barriers",
     "price": 110500,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/rush-bldc-boom-barrier.png",
     "particulars": [
       "BLDC BARRIER - AZBBL18",
       "FOLDING BOOM 4 MTR - AZBF10A180D",
@@ -854,6 +866,7 @@ export const products: Product[] = [
     "category": "Boom Barriers",
     "price": 107000,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/fence-bldc-boom-barrier-non-spring.png",
     "particulars": [
       "BLDC BARRIER - AZBBL18",
       "FENCE BOOM 4.5 MTR - AZBF03A4.5M",
@@ -878,6 +891,7 @@ export const products: Product[] = [
     "category": "Boom Barriers",
     "price": 113200,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/star-fence-bldc-boom-barrier.png",
     "particulars": [
       "BLDC BARRIER - AZBB115",
       "FENCE BOOM 6MTR - AZBF036M",
@@ -902,6 +916,7 @@ export const products: Product[] = [
     "category": "Boom Barriers",
     "price": 187000,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/8m-telescopic-bldc-boom-barrier.png",
     "particulars": [
       "BLDC BARRIER - AZBB119",
       "TELESCOPIC BOOM 8 MTR - AZBT088M (1+7 = 8M)",
@@ -925,6 +940,7 @@ export const products: Product[] = [
     "code": "AZBBA117B/AZBA09A",
     "series": "ADD",
     "name": "Advertising BLDC Boom Barrier",
+    "image": "/images/products/advertising-bldc-boom.png",
     "category": "Boom Barriers",
     "price": 230000,
     "priceNote": "+18% TAX EXTRA",
@@ -2227,6 +2243,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 2000,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/bldc-transmitter-1.png",
     "particulars": [
       "1 No Transmitter"
     ],
@@ -2246,6 +2263,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 3100,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/bldc-transmitter-2.png",
     "particulars": [
       "1 No Transmitter"
     ],
@@ -2265,6 +2283,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 2610,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/transmitter-boom.png",
     "particulars": [
       "1 No Transmitter"
     ],
@@ -2284,6 +2303,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 4990,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/loop-detector.png",
     "particulars": [
       "1 No Single Channel Loop Detector"
     ],
@@ -2303,6 +2323,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 11350,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/loop-detector.png",
     "particulars": [
       "1 No Double Channel Loop Detector"
     ],
@@ -2322,6 +2343,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 4020,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/vhoolder-silveer.png",
     "particulars": [
       "1 No V-Holder"
     ],
@@ -2341,6 +2363,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 5020,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/vholder-gold.png",
     "particulars": [
       "1 No V-Holder"
     ],
@@ -2360,6 +2383,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 1990,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/telescope-boom.png",
     "particulars": [
       "1 No Mobile Stand"
     ],
@@ -2379,6 +2403,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 14382,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/telescope-boom.png",
     "particulars": [
       "1 No 6m Telescopic Boom"
     ],
@@ -2398,6 +2423,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 10700,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/telescope-boom.png",
     "particulars": [
       "1 No 4m Telescopic Boom"
     ],
@@ -2417,6 +2443,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 57400,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/folding-boom.png",
     "particulars": [
       "1 No 6m 90° Folding Boom"
     ],
@@ -2436,6 +2463,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 36000,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/led-boom-6mtr.png",
     "particulars": [
       "1 No 6m LED Boom"
     ],
@@ -2455,6 +2483,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 17900,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/arm-out-hybrid-bldc-boom.png",
     "particulars": [
       "1 No 4m Round Boom"
     ],
@@ -2474,6 +2503,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 43800,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/two-fence-boom.png",
     "particulars": [
       "1 No 4.5m Fence Boom"
     ],
@@ -2493,6 +2523,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 58200,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/two-fence-boom.png",
     "particulars": [
       "1 No 6m Fence Boom"
     ],
@@ -2512,6 +2543,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 15900,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/bldc-control-board.png",
     "particulars": [
       "1 No Control Board"
     ],
@@ -2531,6 +2563,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 18500,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/bldc-control-board.png",
     "particulars": [
       "1 No Control Board"
     ],
@@ -2550,6 +2583,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 2230,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/arrow-indication-light.png",
     "particulars": [
       "1 No Arrow Indication LED Light"
     ],
@@ -2569,6 +2603,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 24800,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/telescope-boom.png",
     "particulars": [
       "1 No 6m Telescopic Boom"
     ],
@@ -2588,6 +2623,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 39500,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/led-boom-6mtr.png",
     "particulars": [
       "1 No 6m LED Boom"
     ],
@@ -2607,6 +2643,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 43800,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/two-fence-boom.png",
     "particulars": [
       "1 No 4.5m Two Fence Boom"
     ],
@@ -2626,6 +2663,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 46800,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/folding-boom.png",
     "particulars": [
       "1 No 4m 90° Folding Boom"
     ],
@@ -2645,6 +2683,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 48200,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/folding-boom.png",
     "particulars": [
       "1 No 4m 180° Folding Boom"
     ],
@@ -2664,6 +2703,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 38800,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/telescope-boom.png",
     "particulars": [
       "1 No 8m Telescopic Boom"
     ],
@@ -2683,6 +2723,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 89700,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/advertisement-boom.png",
     "particulars": [
       "1 No 2.8m Advertisement Boom"
     ],
@@ -2702,6 +2743,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 25500,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/arm-out-square-boom-6mtr.png",
     "particulars": [
       "1 No 6m Square Boom"
     ],
@@ -2721,6 +2763,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 21200,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/controller-1.png",
     "particulars": [
       "1 No Controller"
     ],
@@ -2740,6 +2783,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 35866,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/controller-suitable-for-azbb119a.png",
     "particulars": [
       "1 No Controller"
     ],
@@ -2759,6 +2803,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 21200,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/controller-suitable-for-azbb115a.png",
     "particulars": [
       "1 No Controller"
     ],
@@ -2778,6 +2823,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 17500,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/power-failure-module.png",
     "particulars": [
       "1 No Auto Opening Module"
     ],
@@ -2797,6 +2843,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 6200,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/battery-backup-module.png",
     "particulars": [
       "1 No Battery Backup Module"
     ],
@@ -2816,6 +2863,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 6900,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/power-supply-24v-10a.png",
     "particulars": [
       "1 No 24V 8A Power Supply"
     ],
@@ -2835,6 +2883,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 7500,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/power-supply-24v-10a.png",
     "particulars": [
       "1 No 24V 20.8A Power Supply"
     ],
@@ -2854,6 +2903,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 6900,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/power-supply-12v-15a.png",
     "particulars": [
       "1 No 12V 15A Power Supply"
     ],
@@ -2873,6 +2923,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 7500,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/power-supply-24v-10a.png",
     "particulars": [
       "1 No 24V 10A Power Supply"
     ],
@@ -2892,6 +2943,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 10450,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/led-strip-6-meter.png",
     "particulars": [
       "6 Mtr (1 No) LED Strip"
     ],
@@ -2911,6 +2963,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 4450,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/edge-rubber.png",
     "particulars": [
       "3 Mtr Edge Rubber"
     ],
@@ -2930,6 +2983,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 450,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/stop-sign-board.png",
     "particulars": [
       "1 No Stop Sign Board"
     ],
