@@ -90,7 +90,7 @@ export const products: Product[] = [
     "category": "Swing Gate Operators",
     "price": 51970,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/swing-gate-single-operator.png",
+    "image": "/images/products/icon-swing-gate-single-operator-2.png",
     "particulars": [
       "AZSW1063/300KG-L - 1 No (Including Mounting bracket Acc)",
       "Control Panel (AZSW229A) - 1 No",
@@ -115,7 +115,7 @@ export const products: Product[] = [
     "category": "Swing Gate Operators",
     "price": 49678,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/swing-gate-single-operator.png",
+    "image": "/images/products/icon-swing-gate-single-operator-right-2.png",
     "particulars": [
       "AZSW1062.5/250KG-R - 1 No (Including Mounting bracket Acc)",
       "Control Panel (AZSW229A) - 1 No",
@@ -140,7 +140,7 @@ export const products: Product[] = [
     "category": "Swing Gate Operators",
     "price": 51970,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/swing-gate-single-operator.png",
+    "image": "/images/products/icon-swing-gate-single-operator-right-2-new.png",
     "particulars": [
       "AZSW1063/300KG-R - 1 No (Including Mounting bracket Acc)",
       "Control Panel (AZSW229A) - 1 No",
@@ -160,12 +160,12 @@ export const products: Product[] = [
   },
   {
     "id": "azsw110a-300kg-3mtr-1",
-    "code": "AZSW110A/300KG/3MTR/1",
+    "code": "AZSW110A/300KG/3MTR/1 OPERATOR KIT",
     "name": "Swing Gate Single Operator DC 3 Mtr 300 kg",
     "category": "Swing Gate Operators",
     "price": 52700,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/swing-gate-articulator-single-operator.png",
+    "image": "/images/products/link-swing-gate-operator-DC.png",
     "particulars": [
       "AZSW110A/300KG/3MTR/1 OPERATOR KIT - 1 No (Including Mounting bracket Acc)",
       "Control Panel (AZSWDC227A) - 1 No",
@@ -315,7 +315,7 @@ export const products: Product[] = [
     "category": "Swing Gate Operators",
     "price": 71500,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/exterior.jpg",
+    "image": "/images/products/icon-swing-gate-two-operator.png",
     "particulars": [
       "AZSW1062.5/250KG Operator - 2 No (Including Mounting bracket Acc)",
       "Control Panel (AZSW229A) - 1 No",
@@ -344,7 +344,7 @@ export const products: Product[] = [
     "category": "Swing Gate Operators",
     "price": 74400,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/exterior.jpg",
+    "image": "/images/products/icon-swing-gate-two-operator.png",
     "particulars": [
       "AZSW1063/300KG Operator - 2 No (Including Mounting bracket Acc)",
       "Control Panel (AZSW229A) - 1 No",
@@ -373,7 +373,7 @@ export const products: Product[] = [
     "category": "Swing Gate Operators",
     "price": 73500,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/exterior.jpg",
+    "image": "/images/products/link-swing-gate-operator-DC.png",
     "particulars": [
       "AZSW110A/3MTR/300KG Operator - 2 No (Including Mounting bracket Acc)",
       "Control Panel (AZSWDC227A) - 1 No",
@@ -400,7 +400,7 @@ export const products: Product[] = [
     "category": "Swing Gate Operators",
     "price": 106500,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/exterior.jpg",
+    "image": "/images/products/lite-swing-gate-articulator-operator-dc.png",
     "particulars": [
       "AZSW107B/2 OPERATOR - 2 No (Including Mounting bracket + Arm 2 Nos)",
       "Control Panel (AZSWCP107B) - 1 No",
@@ -427,7 +427,7 @@ export const products: Product[] = [
     "category": "Swing Gate Operators",
     "price": 57200,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/exterior.jpg",
+    "image": "/images/products/eco-swing-gate-single-roller-operator.png",
     "particulars": [
       "Operator - 2 No (Including Mounting bracket Acc)",
       "Control Panel (AZSWDC227A) - 1 No",
@@ -454,7 +454,7 @@ export const products: Product[] = [
     "category": "Swing Gate Operators",
     "price": 66175,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/exterior.jpg",
+    "image": "/images/products/eco-swing-gate-single-roller-operator.png",
     "particulars": [
       "Operator - 2 No (Including Mounting bracket Acc)",
       "Control Panel (AZSWDC227A) - 1 No",
@@ -481,7 +481,7 @@ export const products: Product[] = [
     "category": "Swing Gate Operators",
     "price": 134000,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/exterior.jpg",
+    "image": "/images/products/swing-gate-roller-operator-2000kg.png",
     "particulars": [
       "Operator - 2 No (Including Mounting bracket Acc)",
       "Control Panel (AZSWDC227A) - 1 No",
@@ -504,11 +504,11 @@ export const products: Product[] = [
   {
     "id": "azsw111pgo",
     "code": "AZSW111PGO",
-    "name": "Pedestrian Gate Operator 75KG",
+    "name": "Pedestrian Gate Operator 75 kg",
     "category": "Swing Gate Operators",
     "price": 48724,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/exterior.jpg",
+    "image": "/images/products/pedestrian-gate-operator-75kg.png",
     "particulars": [
       "AZ-SW-111 PGO PEDESTRIAN 75KG",
       "AZ-PGO CB-751 CONTROL BOARD + CONTROLLER POWER SUPPLY",
@@ -541,11 +541,11 @@ export const products: Product[] = [
   {
     "id": "azt30a",
     "code": "AZT30A",
-    "name": "IND TRANSMITTER",
+    "name": "IND Transmitter",
     "category": "Accessories",
     "price": 1850,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
+    "image": "/images/products/ind-transmitter.png",
     "particulars": [
       "1 No Transmitter"
     ],
@@ -561,11 +561,11 @@ export const products: Product[] = [
   {
     "id": "azt23b",
     "code": "AZT23B",
-    "name": "IND TRANSMITTER",
+    "name": "IND Transmitter",
     "category": "Accessories",
     "price": 1850,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
+    "image": "/images/products/ind-transmitter-autozon.png",
     "particulars": [
       "1 No Transmitter"
     ],
@@ -581,11 +581,11 @@ export const products: Product[] = [
   {
     "id": "azt23g",
     "code": "AZT23G",
-    "name": "IND TRANSMITTER",
+    "name": "IND Transmitter",
     "category": "Accessories",
     "price": 1850,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
+    "image": "/images/products/ind-transmitter-autozon-black.png",
     "particulars": [
       "1 No Transmitter"
     ],
@@ -605,7 +605,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 2350,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
+    "image": "/images/products/multi-brand-transmiter.png",
     "particulars": [
       "1 No Transmitter"
     ],
@@ -621,11 +621,11 @@ export const products: Product[] = [
   {
     "id": "azpgot757",
     "code": "AZPGOT757",
-    "name": "TRANSMITTER PG",
+    "name": "Transmitter PG",
     "category": "Accessories",
     "price": 1850,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
+    "image": "/images/products/transmitter-pg-green.png",
     "particulars": [
       "1 No Transmitter"
     ],
@@ -641,11 +641,11 @@ export const products: Product[] = [
   {
     "id": "azt600",
     "code": "AZT600",
-    "name": "TRANSMITTER SUITABLE FOR (AZSW600)",
+    "name": "Transmitter (Suitable for AZSW600)",
     "category": "Accessories",
     "price": 1850,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
+    "image": "/images/products/transmitter-pg-for-yellow.png",
     "particulars": [
       "1 No Transmitter"
     ],
@@ -661,11 +661,11 @@ export const products: Product[] = [
   {
     "id": "azt31",
     "code": "AZT31",
-    "name": "TRANSMITTER SUITABLE FOR (AZSW107B)",
+    "name": "Transmitter (Suitable for AZSW107B)",
     "category": "Accessories",
     "price": 1850,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
+    "image": "/images/products/transmitter-suitable-for-AZSW107B.png",
     "particulars": [
       "1 No Transmitter"
     ],
@@ -685,7 +685,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 3650,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
+    "image": "/images/products/bolt-Photocell.png",
     "particulars": [
       "1 Pair Photocell Sensors"
     ],
@@ -705,7 +705,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 6188,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
+    "image": "/images/products/bolt-Photocell.png",
     "particulars": [
       "1 Pair Wireless Photocell Sensors"
     ],
@@ -725,7 +725,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 10450,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
+    "image": "/images/products/laser-photocell.png",
     "particulars": [
       "1 No Laser Photocell Sensor"
     ],
@@ -745,7 +745,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 6540,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
+    "image": "/images/products/infrared-photocell.png",
     "particulars": [
       "1 No Infrared Photocell"
     ],
@@ -761,11 +761,11 @@ export const products: Product[] = [
   {
     "id": "azis4f20",
     "code": "AZIS4F20",
-    "name": "Infrared Sensor 4 BEAM 20M",
+    "name": "Infrared Sensor 4 Beam 20M",
     "category": "Accessories",
     "price": 11900,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
+    "image": "/images/products/infrared-sensor-4-beam-20m.png",
     "particulars": [
       "1 Pair 4-Beam 20M Infrared Sensor"
     ],
@@ -781,11 +781,11 @@ export const products: Product[] = [
   {
     "id": "azis6f20",
     "code": "AZIS6F20",
-    "name": "Infrared Sensor 6 BEAM 20M",
+    "name": "Infrared Sensor 6 Beam 20M",
     "category": "Accessories",
     "price": 15900,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
+    "image": "/images/products/infrared-sensor-6-beam-20m.png",
     "particulars": [
       "1 Pair 6-Beam 20M Infrared Sensor"
     ],
@@ -801,11 +801,11 @@ export const products: Product[] = [
   {
     "id": "azrfpc41a8m",
     "code": "AZRFPC41A8M",
-    "name": "REFLECTIVE PHOTOCELL",
+    "name": "Reflective Photocell",
     "category": "Accessories",
     "price": 6150,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
+    "image": "/images/products/reflective-photocell.png",
     "particulars": [
       "1 Pair Reflective Photocell"
     ],
@@ -825,7 +825,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 9550,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
+    "image": "/images/products/smart-receiver.png",
     "particulars": [
       "1 No Smart Receiver"
     ],
@@ -845,7 +845,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 6800,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
+    "image": "/images/products/samart-tag.png",
     "particulars": [
       "1 No Smart Tag"
     ],
@@ -861,11 +861,11 @@ export const products: Product[] = [
   {
     "id": "azer141",
     "code": "AZER141",
-    "name": "External Receiver (4 CHANNEL)",
+    "name": "External Receiver (4 Channel)",
     "category": "Accessories",
     "price": 6785,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
+    "image": "/images/products/external-receiver.png",
     "particulars": [
       "1 No 4-Channel External Receiver"
     ],
@@ -881,11 +881,11 @@ export const products: Product[] = [
   {
     "id": "azrfwifi31a",
     "code": "AZRFWIFI31A",
-    "name": "RF WIFI MODULE",
+    "name": "RF WiFi Module",
     "category": "Accessories",
     "price": 7500,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
+    "image": "/images/products/rf-wifi-module.png",
     "particulars": [
       "1 No RF Wi-Fi Module"
     ],
@@ -905,7 +905,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 11350,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
+    "image": "/images/products/long-range-external-reciver.png",
     "particulars": [
       "1 Pair Long Range External Receiver"
     ],
@@ -921,11 +921,11 @@ export const products: Product[] = [
   {
     "id": "azgsm30",
     "code": "AZGSM30",
-    "name": "GSM MODULE 2G",
+    "name": "GSM Module 2G",
     "category": "Accessories",
     "price": 7515,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
+    "image": "/images/products/gsm-module-2g.png",
     "particulars": [
       "1 No GSM Module 2G"
     ],
@@ -941,11 +941,11 @@ export const products: Product[] = [
   {
     "id": "azks15",
     "code": "AZKS15",
-    "name": "KEYSWITCH",
+    "name": "Keyswitch",
     "category": "Accessories",
     "price": 3264,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
+    "image": "/images/products/keyswitch.png",
     "particulars": [
       "1 No Keyswitch with Keys"
     ],
@@ -961,11 +961,11 @@ export const products: Product[] = [
   {
     "id": "azwlkp17",
     "code": "AZWLKP17",
-    "name": "WIRELESS KEY PAD",
+    "name": "Wireless Keypad",
     "category": "Accessories",
     "price": 8200,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
+    "image": "/images/products/wireless-key-pad.png",
     "particulars": [
       "1 No Wireless Keypad"
     ],
@@ -981,11 +981,11 @@ export const products: Product[] = [
   {
     "id": "azpb16a",
     "code": "AZPB16A",
-    "name": "PUSHBUTTON",
+    "name": "Push Button",
     "category": "Accessories",
     "price": 3100,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
+    "image": "/images/products/pushbutton.png",
     "particulars": [
       "1 No Pushbutton Switch"
     ],
@@ -1001,11 +1001,11 @@ export const products: Product[] = [
   {
     "id": "azpbip65",
     "code": "AZPBIP65",
-    "name": "PUSHBUTTON WATERPROOF",
+    "name": "Push Button Waterproof",
     "category": "Accessories",
     "price": 5225,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
+    "image": "/images/products/pushbutton-waterproof.png",
     "particulars": [
       "1 No IP65 Waterproof Pushbutton"
     ],
@@ -1021,11 +1021,11 @@ export const products: Product[] = [
   {
     "id": "azpbk16b",
     "code": "AZPBK16B",
-    "name": "PUSHBUTTON WITH KEY",
+    "name": "Push Button with Key",
     "category": "Accessories",
     "price": 3900,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
+    "image": "/images/products/pushbutton-with-key.png",
     "particulars": [
       "1 No Pushbutton with Key Lock"
     ],
@@ -1041,11 +1041,11 @@ export const products: Product[] = [
   {
     "id": "azpb16c",
     "code": "AZPB16C",
-    "name": "PUSHBUTTON",
+    "name": "Push Button",
     "category": "Accessories",
     "price": 2100,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
+    "image": "/images/products/push-button-simple.png",
     "particulars": [
       "1 No Pushbutton Switch"
     ],
@@ -1061,11 +1061,11 @@ export const products: Product[] = [
   {
     "id": "azpb16e",
     "code": "AZPB16E",
-    "name": "PCB PUSHBUTTON",
+    "name": "PCB Push Button",
     "category": "Accessories",
     "price": 1400,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
+    "image": "/images/products/pcb-push-button.png",
     "particulars": [
       "1 No PCB Pushbutton"
     ],
@@ -1081,11 +1081,11 @@ export const products: Product[] = [
   {
     "id": "azpb16f",
     "code": "AZPB16F",
-    "name": "TWO BUTTON PUSHBUTTON",
+    "name": "Two Button Push Button",
     "category": "Accessories",
     "price": 960,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
+    "image": "/images/products/two-button-push-button.png",
     "particulars": [
       "1 No Two-Button Pushbutton"
     ],
@@ -1105,7 +1105,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 15100,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
+    "image": "/images/products/fingerprint-passwordcard.png",
     "particulars": [
       "1 No Fingerprint, Password & Card Access Reader"
     ],
@@ -1121,11 +1121,11 @@ export const products: Product[] = [
   {
     "id": "azfl19",
     "code": "AZFL19",
-    "name": "FLASH LAMP",
+    "name": "Flash Lamp",
     "category": "Accessories",
     "price": 4113,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
+    "image": "/images/products/flash-lamp.png",
     "particulars": [
       "1 No Warning Flash Lamp"
     ],
@@ -1141,11 +1141,11 @@ export const products: Product[] = [
   {
     "id": "azfl20",
     "code": "AZFL20",
-    "name": "FLASH LAMP",
+    "name": "Flash Lamp",
     "category": "Accessories",
     "price": 3482,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
+    "image": "/images/products/flash-lamp-orange.png",
     "particulars": [
       "1 No Warning Flash Lamp"
     ],
@@ -1161,11 +1161,11 @@ export const products: Product[] = [
   {
     "id": "azaflac19a",
     "code": "AZAFLAC19A",
-    "name": "ALARM FLASH LAMP AC",
+    "name": "Alarm Flash Lamp AC",
     "category": "Accessories",
     "price": 2930,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
+    "image": "/images/products/alarm-lamp.png",
     "particulars": [
       "1 No AC Alarm Flash Lamp"
     ],
@@ -1181,11 +1181,11 @@ export const products: Product[] = [
   {
     "id": "azaflcdc19b",
     "code": "AZAFLDC19B",
-    "name": "ALARM FLASH LAMP DC",
+    "name": "Alarm Flash Lamp DC",
     "category": "Accessories",
     "price": 2930,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
+    "image": "/images/products/alarm-lamp.png",
     "particulars": [
       "1 No DC Alarm Flash Lamp"
     ],
@@ -1201,11 +1201,11 @@ export const products: Product[] = [
   {
     "id": "azflac21",
     "code": "AZFLAC21",
-    "name": "FLASH LAMP",
+    "name": "Flash Lamp",
     "category": "Accessories",
     "price": 3990,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
+    "image": "/images/products/flash-lamp-rectangle.png",
     "particulars": [
       "1 No Flash Lamp"
     ],
@@ -1221,11 +1221,11 @@ export const products: Product[] = [
   {
     "id": "azsl12aadc",
     "code": "AZSL12AADC",
-    "name": "SIGNAL LIGHT 24V",
+    "name": "Signal Light 24V",
     "category": "Accessories",
     "price": 23921,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
+    "image": "/images/products/singnal-light.png",
     "particulars": [
       "1 No 24V Signal Light"
     ],
@@ -1241,11 +1241,11 @@ export const products: Product[] = [
   {
     "id": "azsl12aac",
     "code": "AZSL12AAC",
-    "name": "SIGNAL LIGHT 230V",
+    "name": "Signal Light 230V",
     "category": "Accessories",
     "price": 29900,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
+    "image": "/images/products/singnal-light.png",
     "particulars": [
       "1 No 230V Signal Light"
     ],
@@ -1261,11 +1261,11 @@ export const products: Product[] = [
   {
     "id": "azswelbl32",
     "code": "AZSWELBL32",
-    "name": "ELECTRONIC BOTTOM LOCK",
+    "name": "Electronic Bottom Lock",
     "category": "Accessories",
     "price": 15100,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
+    "image": "/images/products/electric-bottom-lock.png",
     "particulars": [
       "1 No Electronic Bottom Lock for Gates"
     ],
@@ -1281,11 +1281,11 @@ export const products: Product[] = [
   {
     "id": "azswelcl33",
     "code": "AZSWELCL33",
-    "name": "ELECTRONIC CENTER LOCK",
+    "name": "Electronic Center Lock",
     "category": "Accessories",
     "price": 18090,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
+    "image": "/images/products/electronic-center-lock.png",
     "particulars": [
       "1 No Electronic Center Lock for Gates"
     ],
@@ -1301,11 +1301,11 @@ export const products: Product[] = [
   {
     "id": "azsw231a",
     "code": "AZSW231A",
-    "name": "CONTROLLER - SUITABLE FOR AC (AZSW112, AZSW107)",
+    "name": "Controller - Suitable for AC (AZSW112, AZSW107)",
     "category": "Accessories",
     "price": 21111,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
+    "image": "/images/products/controller-suitable-for-ac.png",
     "particulars": [
       "1 No AC Controller Board (AZSW112, AZSW107)"
     ],
@@ -1321,11 +1321,11 @@ export const products: Product[] = [
   {
     "id": "azsw229a",
     "code": "AZSW229A",
-    "name": "CONTROLLER - SUITABLE FOR (106-2.5, 106-3)",
+    "name": "Controller - Suitable for (106-2.5, 106-3)",
     "category": "Accessories",
     "price": 24125,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
+    "image": "/images/products/controller-suitable-for-ac.png",
     "particulars": [
       "1 No Controller Board (106-2.5, 106-3)"
     ],
@@ -1341,11 +1341,11 @@ export const products: Product[] = [
   {
     "id": "azswdc227a",
     "code": "AZSWDC227A",
-    "name": "CONTROLLER - SUITABLE FOR (AZSW110A)",
+    "name": "Controller - Suitable for (AZSW110A)",
     "category": "Accessories",
     "price": 24125,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
+    "image": "/images/products/controller-suitable-dark.png",
     "particulars": [
       "1 No Controller Board (AZSW110A)"
     ],
@@ -1361,11 +1361,11 @@ export const products: Product[] = [
   {
     "id": "azswdc227b",
     "code": "AZSWDC227B",
-    "name": "CONTROLLER (Transformer AZSWRTT 304 + PCB AZSWPCB580C) - SUITABLE FOR (AZSW108A)",
+    "name": "Controller (Transformer AZSWRTT 304 + PCB AZSWPCB580C) - Suitable for (AZSW108A)",
     "category": "Accessories",
     "price": 24125,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
+    "image": "/images/products/controller-suitable-dark.png",
     "particulars": [
       "Transformer AZSWRTT 304",
       "PCB AZSWPCB580C",
@@ -1385,11 +1385,11 @@ export const products: Product[] = [
   {
     "id": "azswdc227c",
     "code": "AZSWDC227C",
-    "name": "CONTROLLER (Transformer AZSWRTT 304A + PCB AZSWPCB580C) - SUITABLE FOR (AZSW108B)",
+    "name": "Controller (Transformer AZSWRTT 304A + PCB AZSWPCB580C) - Suitable for (AZSW108B)",
     "category": "Accessories",
     "price": 24125,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
+    "image": "/images/products/controller-suitable-dark.png",
     "particulars": [
       "Transformer AZSWRTT 304A",
       "PCB AZSWPCB580C",
@@ -1409,11 +1409,11 @@ export const products: Product[] = [
   {
     "id": "azswdc228",
     "code": "AZSWDC228",
-    "name": "CONTROLLER (Transformer AZSWRTT 305 + PCB AZSWDPCB228) - SUITABLE (109A)",
+    "name": "Controller (Transformer AZSWRTT 305 + PCB AZSWDPCB228) - Suitable for (109A)",
     "category": "Accessories",
     "price": 24625,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
+    "image": "/images/products/controller-suitable-dark.png",
     "particulars": [
       "Transformer AZSWRTT 305",
       "PCB AZSWDPCB228",
@@ -1433,11 +1433,11 @@ export const products: Product[] = [
   {
     "id": "azswcp107b",
     "code": "AZSWCP107B",
-    "name": "CONTROLLER (Transformer AZSWRTT 305B + PCB AZSWPCB107B) - SUITABLE FOR (107B)",
+    "name": "Controller (Transformer AZSWRTT 305B + PCB AZSWPCB107B) - Suitable for (107B)",
     "category": "Accessories",
     "price": 20657,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
+    "image": "/images/products/controller-suitable-dark.png",
     "particulars": [
       "Transformer AZSWRTT 305B",
       "PCB AZSWPCB107B",
@@ -1457,11 +1457,11 @@ export const products: Product[] = [
   {
     "id": "azswpcb600",
     "code": "AZSWPCB600",
-    "name": "PCB ONLY (SUITABLE FOR AZSW600)",
+    "name": "PCB Only (Suitable for AZSW600)",
     "category": "Accessories",
     "price": 11500,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
+    "image": "/images/products/pcb-only.png",
     "particulars": [
       "1 No PCB Board for AZSW600"
     ],
@@ -1477,11 +1477,11 @@ export const products: Product[] = [
   {
     "id": "azswsmps600",
     "code": "AZSWSMPS600",
-    "name": "SMPS (SUITABLE FOR AZSW600)",
+    "name": "SMPS (Suitable for AZSW600)",
     "category": "Accessories",
     "price": 7900,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
+    "image": "/images/products/smps.png",
     "particulars": [
       "1 No SMPS Power Supply for AZSW600"
     ],
@@ -1497,11 +1497,11 @@ export const products: Product[] = [
   {
     "id": "azswdpcb200a",
     "code": "AZSWDPCB200A",
-    "name": "PCB ONLY DIGITAL BOARD - ID200 SUITABLE (106-2.5, 106-3)",
+    "name": "PCB Only Digital Board - ID200 Suitable for (106-2.5, 106-3)",
     "category": "Accessories",
     "price": 12062,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
+    "image": "/images/products/pcb-only-digital-board.png",
     "particulars": [
       "1 No Digital Board ID200 for (106-2.5, 106-3)"
     ],
@@ -1517,11 +1517,11 @@ export const products: Product[] = [
   {
     "id": "azswpcb580c",
     "code": "AZSWPCB580C",
-    "name": "PCB ONLY (SUITABLE FOR 108A, 108B, 110A)",
+    "name": "PCB Only (Suitable for 108A, 108B, 110A)",
     "category": "Accessories",
     "price": 12490,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
+    "image": "/images/products/pcb-only-2.png",
     "particulars": [
       "1 No PCB Board for (108A, 108B, 110A)"
     ],
@@ -1537,11 +1537,11 @@ export const products: Product[] = [
   {
     "id": "azswdpcb228",
     "code": "AZSWDPCB228",
-    "name": "PCB ONLY DC ANALOG BOARD - T90 SUITABLE FOR (109A)",
+    "name": "PCB Only DC Analog Board - T90 Suitable for (109A)",
     "category": "Accessories",
     "price": 12562,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
+    "image": "/images/products/pcb-only-analog-board.png",
     "particulars": [
       "1 No DC Analog Board T90 for 109A"
     ],
@@ -1557,11 +1557,11 @@ export const products: Product[] = [
   {
     "id": "azswacpcb231a",
     "code": "AZSWACPCB231A",
-    "name": "PCB ONLY AC SUITABLE FOR (112, 107)",
+    "name": "PCB Only AC Suitable for (112, 107)",
     "category": "Accessories",
     "price": 16500,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
+    "image": "/images/products/pcb-only-ac.png",
     "particulars": [
       "1 No AC PCB Board for (112, 107)"
     ],
@@ -1577,11 +1577,11 @@ export const products: Product[] = [
   {
     "id": "azswpcb107b",
     "code": "AZSWPCB107B",
-    "name": "PCB ONLY - K280 (SUITABLE FOR 107B)",
+    "name": "PCB Only - K280 (Suitable for 107B)",
     "category": "Accessories",
     "price": 13393,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
+    "image": "/images/products/pcb-only-k280.png",
     "particulars": [
       "1 No PCB Board K280 for 107B"
     ],
@@ -1597,11 +1597,11 @@ export const products: Product[] = [
   {
     "id": "azpgocb751",
     "code": "AZPGOCB751",
-    "name": "PEDESTRIAN CONTROL BOARD (PCB) SUITABLE (AZSW111PGO)",
+    "name": "Pedestrian Control Board (PCB) Suitable for (AZSW111PGO)",
     "category": "Accessories",
     "price": 4500,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
+    "image": "/images/products/pedestrian-control-board.png",
     "particulars": [
       "1 No Pedestrian Control Board (PCB) for AZSW111PGO"
     ],
@@ -1621,7 +1621,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 1850,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
+    "image": "/images/products/gate-rubber-stopper.png",
     "particulars": [
       "1 No Gate Rubber Stopper"
     ],
@@ -1637,11 +1637,11 @@ export const products: Product[] = [
   {
     "id": "azsegr206",
     "code": "AZSEGR206",
-    "name": "RUBBER PROFILE (60*40)",
+    "name": "Rubber Profile (60*40)",
     "category": "Accessories",
     "price": 4086,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
+    "image": "/images/products/rubber-profile.png",
     "particulars": [
       "1 Meter Rubber Profile (60*40)"
     ],
@@ -1657,11 +1657,11 @@ export const products: Product[] = [
   {
     "id": "azsegat106",
     "code": "AZSEGAT106",
-    "name": "ALUMINIUM TRACK (60*40)",
+    "name": "Aluminium Track (60*40)",
     "category": "Accessories",
     "price": 2156,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
+    "image": "/images/products/alumnium-track.png",
     "particulars": [
       "1 No (2m) Aluminium Track (60*40)"
     ],
@@ -1681,7 +1681,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 3518,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
+    "image": "/images/products/sensor-tape.png",
     "particulars": [
       "1 Meter Sensor Tape"
     ],
@@ -1701,7 +1701,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 1135,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
+    "image": "/images/products/end-plug.png",
     "particulars": [
       "1 Pair End Plug"
     ],
@@ -1721,7 +1721,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 908,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
+    "image": "/images/products/end-cap.png",
     "particulars": [
       "1 Pair End Cap"
     ],
@@ -1737,11 +1737,11 @@ export const products: Product[] = [
   {
     "id": "azhsdbes64b",
     "code": "AZHSDBES64B",
-    "name": "SAFETY EDGE SENSOR STRIP",
+    "name": "Safety Edge Sensor Strip",
     "category": "Accessories",
     "price": 8172,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
+    "image": "/images/products/safety-sensor-strip.png",
     "particulars": [
       "1 No Safety Edge Sensor Strip"
     ],
@@ -1757,11 +1757,11 @@ export const products: Product[] = [
   {
     "id": "azsegr304",
     "code": "AZSEGR304",
-    "name": "RUBBER PROFILE (40*30)",
+    "name": "Rubber Profile (40*30)",
     "category": "Accessories",
     "price": 2338,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
+    "image": "/images/products/rubber-profile.png",
     "particulars": [
       "1 Meter Rubber Profile (40*30)"
     ],
@@ -1777,11 +1777,11 @@ export const products: Product[] = [
   {
     "id": "azsegat113",
     "code": "AZSEGAT113",
-    "name": "ALUMINIUM TRACK (40*30)",
+    "name": "Aluminium Track (40*30)",
     "category": "Accessories",
     "price": 1589,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
+    "image": "/images/products/aluminum-track.png",
     "particulars": [
       "1 No (2m/pc) Aluminium Track (40*30)"
     ],
@@ -1797,11 +1797,11 @@ export const products: Product[] = [
   {
     "id": "azseep113",
     "code": "AZSEEP113",
-    "name": "End piece",
+    "name": "End Piece",
     "category": "Accessories",
     "price": 1135,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
+    "image": "/images/products/end-piece.png",
     "particulars": [
       "1 Pair End Piece"
     ],

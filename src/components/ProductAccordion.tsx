@@ -63,11 +63,11 @@ export default function ProductAccordion({
               aria-expanded={isOpen}
               className={`w-full flex items-center justify-between px-3 py-2 text-left transition-colors duration-150 cursor-pointer ${
                 isOpen
-                  ? "bg-[#d0a353]/15 text-[#8f6217] border-b border-[#ca9740]/20 font-bold"
-                  : "text-[#0c121e] font-bold"
+                  ? "bg-[#d0a353]/15 text-[#8f6217] border-b border-[#ca9740]/20 font-semibold"
+                  : "text-gray-800 font-semibold"
               }`}
             >
-              <span className="text-[0.68rem] tracking-wider uppercase font-heading font-bold">
+              <span className="text-[0.68rem] tracking-wider uppercase font-heading font-semibold">
                 {section.title}
               </span>
               <span
@@ -91,14 +91,14 @@ export default function ProductAccordion({
                         <span className="w-3.5 h-3.5 rounded-full bg-[#d0a353]/15 text-[#ca9740] flex items-center justify-center text-[7px] mt-0.5 shrink-0">
                           <i className="fas fa-check"></i>
                         </span>
-                        <span className="font-medium text-gray-800 leading-tight">
+                        <span className="font-normal text-gray-700 leading-normal">
                           {item}
                         </span>
                       </li>
                     ))}
                   </ul>
                 ) : (
-                  <p className="font-medium text-gray-800 leading-tight">
+                  <p className="font-normal text-gray-700 leading-normal">
                     {section.content}
                   </p>
                 )}

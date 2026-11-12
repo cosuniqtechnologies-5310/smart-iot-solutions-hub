@@ -136,52 +136,59 @@ export default function ProductsPage() {
                   >
                     <div className="bg-white rounded-[15px] overflow-hidden flex flex-col h-full relative group">
                       
-                      {/* Image Area - Pure White Background with centered object-contain */}
-                      <div className="w-full aspect-[16/10] bg-white relative flex items-center justify-center border-b border-gray-100 overflow-hidden pt-9 pb-3 px-4">
-                        {/* Top-Left Series Tag (QUIK, ICON, etc.) */}
-                        <div className="absolute top-2.5 left-2.5 bg-[#0c121e]/90 backdrop-blur-sm text-[#d0a353] text-[0.62rem] font-bold tracking-widest uppercase px-2.5 py-1 rounded-full shadow-sm border border-[#d0a353]/35 z-20">
-                          {getProductTag(product)}
-                        </div>
-                        
-                        {/* Top-Right Code Badge */}
-                        <div className="absolute top-2.5 right-2.5 bg-gray-100 text-gray-800 text-[0.6rem] font-mono font-bold tracking-wider px-2.5 py-1 rounded-full shadow-sm border border-gray-200 z-20">
-                          {product.code}
+                      {/* Image Area - Pure White Background with centered object-contain and dedicated top/bottom space */}
+                      <div className="w-full h-56 sm:h-60 bg-white relative flex flex-col justify-between p-3 border-b border-gray-100 overflow-hidden">
+                        {/* Top-Left Series Tag */}
+                        <div className="flex items-center justify-between w-full z-10">
+                          <span className="bg-[#0c121e]/90 backdrop-blur-sm text-[#d0a353] text-[0.62rem] font-bold tracking-widest uppercase px-2.5 py-1 rounded-full shadow-sm border border-[#d0a353]/35">
+                            {getProductTag(product)}
+                          </span>
                         </div>
 
-                        {product.image ? (
-                          <img
-                            src={product.image}
-                            alt={product.name}
-                            className="max-h-full max-w-full w-auto h-auto object-contain object-center m-auto group-hover:scale-105 transition-transform duration-500 ease-in-out"
-                          />
-                        ) : (
-                          <i className="fas fa-box text-gray-300 text-4xl group-hover:scale-105 transition-transform duration-300 m-auto"></i>
-                        )}
+                        {/* Center Image Container - Guaranteed clear space above and below */}
+                        <div className="flex-1 w-full flex items-center justify-center px-3 py-2 min-h-0 overflow-hidden">
+                          {product.image ? (
+                            <img
+                              src={product.image}
+                              alt={product.name}
+                              className="max-h-full max-w-full w-auto h-auto object-contain object-center group-hover:scale-105 transition-transform duration-500 ease-in-out"
+                            />
+                          ) : (
+                            <i className="fas fa-box text-gray-300 text-4xl group-hover:scale-105 transition-transform duration-300 m-auto"></i>
+                          )}
+                        </div>
+                        
+                        {/* Bottom-Right Code Badge - Positioned below the image area */}
+                        <div className="flex items-center justify-end w-full z-10">
+                          <span className="bg-gray-100/95 backdrop-blur-sm text-gray-800 text-[0.58rem] sm:text-[0.6rem] font-mono font-bold tracking-wider px-2.5 py-1 rounded-full shadow-sm border border-gray-200 truncate max-w-full">
+                            {product.code}
+                          </span>
+                        </div>
                       </div>
                       
-                      {/* Content Area - Compact Padding */}
+                      {/* Content Area - Compact Padding with Clear Font Hierarchy */}
                       <div className="p-4 flex flex-col flex-grow relative bg-white">
                         
-                        {/* Category Label */}
-                        <span className="text-[0.6rem] font-bold text-[#ca9740] uppercase tracking-wider block mb-1">
+                        {/* Category Label - refined font-medium */}
+                        <span className="text-[0.62rem] font-medium tracking-widest text-[#ca9740] uppercase block mb-1">
                           {product.category}
                         </span>
 
-                        {/* Title - strictly one line */}
+                        {/* Title - strictly one line with clean font-semibold */}
                         <div className="mb-2.5">
                           <Link href={`/products/${product.id}`} className="group/title block" title={product.name}>
                             <h3
-                              className="text-[0.92rem] font-bold text-[#0c121e] leading-snug group-hover/title:text-[#ca9740] transition-colors truncate font-heading"
+                              className="text-[0.95rem] font-semibold text-gray-900 leading-snug group-hover/title:text-[#ca9740] transition-colors truncate font-heading tracking-tight"
                             >
                               {product.name}
                             </h3>
                           </Link>
                         </div>
 
-                        {/* Price & Tax UI - Clean Seamless Typography */}
+                        {/* Price & Tax UI - Clean Differentiated Typography */}
                         <div className="mb-3.5 pb-2.5 border-b border-gray-100 flex items-baseline justify-between gap-2">
                           <div>
-                            <span className="text-[0.55rem] font-bold uppercase tracking-widest text-gray-400 block mb-0.5 font-heading">
+                            <span className="text-[0.55rem] font-medium uppercase tracking-widest text-gray-400 block mb-0.5 font-heading">
                               List Price
                             </span>
                             <div className="flex items-baseline gap-2">
@@ -189,7 +196,7 @@ export default function ProductsPage() {
                                 {typeof product.price === "number" ? `₹${product.price.toLocaleString("en-IN")}` : (product.price || "Quote Req.")}
                               </span>
                               {product.priceNote && (
-                                <span className="text-[0.65rem] font-bold text-[#b5852f] tracking-wide uppercase">
+                                <span className="text-[0.68rem] font-normal text-amber-700/90 tracking-normal">
                                   ({product.priceNote.replace(/^LIST\s*PRICE\s*\+?\s*/i, "+").trim()})
                                 </span>
                               )}
@@ -206,11 +213,11 @@ export default function ProductsPage() {
                           />
                         </div>
                         
-                        {/* Compact CTA Button */}
+                        {/* Compact CTA Button - font-semibold */}
                         <div className="mt-auto pt-2.5 border-t border-gray-100">
                           <Link
                             href={`/contact?product=${encodeURIComponent(product.code)}`}
-                            className="w-full group/btn relative flex items-center justify-between px-3.5 py-2.5 rounded-lg border border-[#d0a353]/40 bg-[#fdfcf9] hover:bg-gradient-to-r hover:from-[#ca9740] hover:to-[#dfb45e] text-[#0c121e] hover:text-[#0c121e] font-bold text-[0.7rem] uppercase tracking-wider transition-all duration-200 shadow-sm hover:shadow-md"
+                            className="w-full group/btn relative flex items-center justify-between px-3.5 py-2.5 rounded-lg border border-[#d0a353]/40 bg-[#fdfcf9] hover:bg-gradient-to-r hover:from-[#ca9740] hover:to-[#dfb45e] text-[#0c121e] hover:text-[#0c121e] font-semibold text-[0.7rem] uppercase tracking-wider transition-all duration-200 shadow-sm hover:shadow-md"
                           >
                             <span className="flex items-center gap-2">
                               <i className="fas fa-file-invoice text-[#ca9740] group-hover/btn:text-[#0c121e] transition-colors text-[11px]"></i>

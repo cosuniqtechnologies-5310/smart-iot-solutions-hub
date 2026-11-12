@@ -7,7 +7,7 @@
     "category": "Swing Gate Operators",
     "price": 41200,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/quik-single-pedestrian-gate-operator.jpg",
+    "image": "/images/products/quik-single-pedestrian-gate-operator.png",
     "particulars": [
       "OPERATOR(AZSW600-1.2M) - 1 NO (INCLUDING +MOUNTING BRACKET Acc)",
       "SMPS(AZSWSMPS600) - 1 No",
@@ -31,7 +31,6 @@
     "category": "Swing Gate Operators",
     "price": 49678,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/exterior.jpg",
     "particulars": [
       "AZSW1062.5/250KG-L - 1 No (Including Mounting bracket Acc)",
       "Control Panel (AZSW229A) - 1 No",
@@ -47,7 +46,8 @@
         ]
       }
     ],
-    "series": "ICON"
+    "series": "ICON",
+    "image": "/images/products/swing-gate-single-operator.png"
   },
   {
     "id": "azsw1063-300kg-l",
@@ -56,7 +56,6 @@
     "category": "Swing Gate Operators",
     "price": 51970,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/exterior.jpg",
     "particulars": [
       "AZSW1063/300KG-L - 1 No (Including Mounting bracket Acc)",
       "Control Panel (AZSW229A) - 1 No",
@@ -72,7 +71,8 @@
         ]
       }
     ],
-    "series": "ICON"
+    "series": "ICON",
+    "image": "/images/products/icon-swing-gate-single-operator-2.png"
   },
   {
     "id": "azsw1062-5-250kg-r",
@@ -81,7 +81,6 @@
     "category": "Swing Gate Operators",
     "price": 49678,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/exterior.jpg",
     "particulars": [
       "AZSW1062.5/250KG-R - 1 No (Including Mounting bracket Acc)",
       "Control Panel (AZSW229A) - 1 No",
@@ -97,7 +96,8 @@
         ]
       }
     ],
-    "series": "ICON"
+    "series": "ICON",
+    "image": "/images/products/icon-swing-gate-single-operator-right-2.png"
   },
   {
     "id": "azsw1063-300kg-r",
@@ -106,7 +106,6 @@
     "category": "Swing Gate Operators",
     "price": 51970,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/exterior.jpg",
     "particulars": [
       "AZSW1063/300KG-R - 1 No (Including Mounting bracket Acc)",
       "Control Panel (AZSW229A) - 1 No",
@@ -122,16 +121,16 @@
         ]
       }
     ],
-    "series": "ICON"
+    "series": "ICON",
+    "image": "/images/products/icon-swing-gate-single-operator-right-2-new.png"
   },
   {
     "id": "azsw110a-300kg-3mtr-1",
-    "code": "AZSW110A/300KG/3MTR/1",
+    "code": "AZSW110A/300KG/3MTR/1 OPERATOR KIT",
     "name": "Swing Gate Single Operator DC 3 Mtr 300 kg",
     "category": "Swing Gate Operators",
     "price": 52700,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/exterior.jpg",
     "particulars": [
       "AZSW110A/300KG/3MTR/1 OPERATOR KIT - 1 No (Including Mounting bracket Acc)",
       "Control Panel (AZSWDC227A) - 1 No",
@@ -147,7 +146,8 @@
         ]
       }
     ],
-    "series": "LINK"
+    "series": "LINK",
+    "image": "/images/products/link-swing-gate-operator-DC.png"
   },
   {
     "id": "azsw107b-4mtr-400kg-l",
@@ -156,7 +156,6 @@
     "category": "Swing Gate Operators",
     "price": 59150,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/exterior.jpg",
     "particulars": [
       "Left AZSW107B/4MTR 400KG-L - 1 No (Including Mounting bracket + Arm - 2 Nos)",
       "Control Panel (AZSWCP107B) - 1 No",
@@ -172,7 +171,8 @@
         ]
       }
     ],
-    "series": "LITE"
+    "series": "LITE",
+    "image": "/images/products/lite-swing-gate-articulator-single-operator.png"
   },
   {
     "id": "azsw107b-4mtr-400kg-r",
@@ -181,7 +181,6 @@
     "category": "Swing Gate Operators",
     "price": 59150,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/exterior.jpg",
     "particulars": [
       "Right AZSW107B/4MTR 400KG-R - 1 No (Including Mounting bracket + Arm - 2 Nos)",
       "Control Panel (AZSWCP107B) - 1 No",
@@ -197,7 +196,8 @@
         ]
       }
     ],
-    "series": "LITE"
+    "series": "LITE",
+    "image": "/images/products/lite-swing-gate-articulator-single-operator-1.png"
   },
   {
     "id": "azsw108a-400kg-1-kit",
@@ -206,7 +206,6 @@
     "category": "Swing Gate Operators",
     "price": 48200,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/exterior.jpg",
     "particulars": [
       "AZSW108A/400KG 1 OPERATOR KIT - 1 No",
       "Control Panel (AZSWDC227A) - 1 No",
@@ -222,7 +221,8 @@
         ]
       }
     ],
-    "series": "ECO"
+    "series": "ECO",
+    "image": "/images/products/eco-swing-gate-single-roller-operator.png"
   },
   {
     "id": "azsw108b-800kg-1-kit",
@@ -231,7 +231,6 @@
     "category": "Swing Gate Operators",
     "price": 55200,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/exterior.jpg",
     "particulars": [
       "AZSW108B/800KG 1 OPERATOR KIT - 1 No",
       "Control Panel (AZSWDC227A) - 1 No",
@@ -247,7 +246,8 @@
         ]
       }
     ],
-    "series": "ECO"
+    "series": "ECO",
+    "image": "/images/products/eco-swing-gate-single-roller-operator.png"
   },
   {
     "id": "azsw109a-1000kg-1-kit",
@@ -256,7 +256,6 @@
     "category": "Swing Gate Operators",
     "price": 89200,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/exterior.jpg",
     "particulars": [
       "AZSW109A/1000KG 1 OPERATOR KIT - 1 No",
       "Control Panel (AZSWDC227A) - 1 No",
@@ -272,7 +271,8 @@
         ]
       }
     ],
-    "series": "ROBO"
+    "series": "ROBO",
+    "image": "/images/products/eco-swing-gate-single-roller-operator.png"
   },
   {
     "id": "azsw1062-5-250kg-2-kit",
@@ -281,7 +281,6 @@
     "category": "Swing Gate Operators",
     "price": 71500,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/exterior.jpg",
     "particulars": [
       "AZSW1062.5/250KG Operator - 2 No (Including Mounting bracket Acc)",
       "Control Panel (AZSW229A) - 1 No",
@@ -301,7 +300,8 @@
         ]
       }
     ],
-    "series": "ICON"
+    "series": "ICON",
+    "image": "/images/products/icon-swing-gate-two-operator.png"
   },
   {
     "id": "azsw1063-300kg-2-kit",
@@ -310,7 +310,6 @@
     "category": "Swing Gate Operators",
     "price": 74400,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/exterior.jpg",
     "particulars": [
       "AZSW1063/300KG Operator - 2 No (Including Mounting bracket Acc)",
       "Control Panel (AZSW229A) - 1 No",
@@ -330,7 +329,8 @@
         ]
       }
     ],
-    "series": "ICON"
+    "series": "ICON",
+    "image": "/images/products/icon-swing-gate-two-operator.png"
   },
   {
     "id": "azsw110a-3mtr-300kg-2-kit",
@@ -339,7 +339,6 @@
     "category": "Swing Gate Operators",
     "price": 73500,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/exterior.jpg",
     "particulars": [
       "AZSW110A/3MTR/300KG Operator - 2 No (Including Mounting bracket Acc)",
       "Control Panel (AZSWDC227A) - 1 No",
@@ -357,7 +356,8 @@
         ]
       }
     ],
-    "series": "LINK"
+    "series": "LINK",
+    "image": "/images/products/link-swing-gate-operator-DC.png"
   },
   {
     "id": "azsw107b-2-kit",
@@ -366,7 +366,6 @@
     "category": "Swing Gate Operators",
     "price": 106500,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/exterior.jpg",
     "particulars": [
       "AZSW107B/2 OPERATOR - 2 No (Including Mounting bracket + Arm 2 Nos)",
       "Control Panel (AZSWCP107B) - 1 No",
@@ -384,7 +383,8 @@
         ]
       }
     ],
-    "series": "LITE"
+    "series": "LITE",
+    "image": "/images/products/lite-swing-gate-articulator-operator-dc.png"
   },
   {
     "id": "azsw108a-400kg-2-kit",
@@ -393,7 +393,6 @@
     "category": "Swing Gate Operators",
     "price": 57200,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/exterior.jpg",
     "particulars": [
       "Operator - 2 No (Including Mounting bracket Acc)",
       "Control Panel (AZSWDC227A) - 1 No",
@@ -411,7 +410,8 @@
         ]
       }
     ],
-    "series": "ECO"
+    "series": "ECO",
+    "image": "/images/products/eco-swing-gate-single-roller-operator.png"
   },
   {
     "id": "azsw108b-800kg-2-kit",
@@ -420,7 +420,6 @@
     "category": "Swing Gate Operators",
     "price": 66175,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/exterior.jpg",
     "particulars": [
       "Operator - 2 No (Including Mounting bracket Acc)",
       "Control Panel (AZSWDC227A) - 1 No",
@@ -438,7 +437,8 @@
         ]
       }
     ],
-    "series": "ECO"
+    "series": "ECO",
+    "image": "/images/products/eco-swing-gate-single-roller-operator.png"
   },
   {
     "id": "azsw109a-1000kg-2-kit",
@@ -447,7 +447,6 @@
     "category": "Swing Gate Operators",
     "price": 134000,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/exterior.jpg",
     "particulars": [
       "Operator - 2 No (Including Mounting bracket Acc)",
       "Control Panel (AZSWDC227A) - 1 No",
@@ -465,16 +464,16 @@
         ]
       }
     ],
-    "series": "ROBO"
+    "series": "ROBO",
+    "image": "/images/products/eco-swing-gate-single-roller-operator.png"
   },
   {
     "id": "azsw111pgo",
     "code": "AZSW111PGO",
-    "name": "Pedestrian Gate Operator 75KG",
+    "name": "Pedestrian Gate Operator 75 kg",
     "category": "Swing Gate Operators",
     "price": 48724,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/exterior.jpg",
     "particulars": [
       "AZ-SW-111 PGO PEDESTRIAN 75KG",
       "AZ-PGO CB-751 CONTROL BOARD + CONTROLLER POWER SUPPLY",
@@ -507,11 +506,10 @@
   {
     "id": "azt30a",
     "code": "AZT30A",
-    "name": "IND TRANSMITTER",
+    "name": "IND Transmitter",
     "category": "Accessories",
     "price": 1850,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
     "particulars": [
       "1 No Transmitter"
     ],
@@ -527,11 +525,10 @@
   {
     "id": "azt23b",
     "code": "AZT23B",
-    "name": "IND TRANSMITTER",
+    "name": "IND Transmitter",
     "category": "Accessories",
     "price": 1850,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
     "particulars": [
       "1 No Transmitter"
     ],
@@ -547,11 +544,10 @@
   {
     "id": "azt23g",
     "code": "AZT23G",
-    "name": "IND TRANSMITTER",
+    "name": "IND Transmitter",
     "category": "Accessories",
     "price": 1850,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
     "particulars": [
       "1 No Transmitter"
     ],
@@ -571,7 +567,6 @@
     "category": "Accessories",
     "price": 2350,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
     "particulars": [
       "1 No Transmitter"
     ],
@@ -587,11 +582,10 @@
   {
     "id": "azpgot757",
     "code": "AZPGOT757",
-    "name": "TRANSMITTER PG",
+    "name": "Transmitter PG",
     "category": "Accessories",
     "price": 1850,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
     "particulars": [
       "1 No Transmitter"
     ],
@@ -607,11 +601,10 @@
   {
     "id": "azt600",
     "code": "AZT600",
-    "name": "TRANSMITTER SUITABLE FOR (AZSW600)",
+    "name": "Transmitter (Suitable for AZSW600)",
     "category": "Accessories",
     "price": 1850,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
     "particulars": [
       "1 No Transmitter"
     ],
@@ -627,11 +620,10 @@
   {
     "id": "azt31",
     "code": "AZT31",
-    "name": "TRANSMITTER SUITABLE FOR (AZSW107B)",
+    "name": "Transmitter (Suitable for AZSW107B)",
     "category": "Accessories",
     "price": 1850,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
     "particulars": [
       "1 No Transmitter"
     ],
@@ -651,7 +643,6 @@
     "category": "Accessories",
     "price": 3650,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
     "particulars": [
       "1 Pair Photocell Sensors"
     ],
@@ -671,7 +662,6 @@
     "category": "Accessories",
     "price": 6188,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
     "particulars": [
       "1 Pair Wireless Photocell Sensors"
     ],
@@ -691,7 +681,6 @@
     "category": "Accessories",
     "price": 10450,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
     "particulars": [
       "1 No Laser Photocell Sensor"
     ],
@@ -711,7 +700,6 @@
     "category": "Accessories",
     "price": 6540,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
     "particulars": [
       "1 No Infrared Photocell"
     ],
@@ -727,11 +715,10 @@
   {
     "id": "azis4f20",
     "code": "AZIS4F20",
-    "name": "Infrared Sensor 4 BEAM 20M",
+    "name": "Infrared Sensor 4 Beam 20M",
     "category": "Accessories",
     "price": 11900,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
     "particulars": [
       "1 Pair 4-Beam 20M Infrared Sensor"
     ],
@@ -747,11 +734,10 @@
   {
     "id": "azis6f20",
     "code": "AZIS6F20",
-    "name": "Infrared Sensor 6 BEAM 20M",
+    "name": "Infrared Sensor 6 Beam 20M",
     "category": "Accessories",
     "price": 15900,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
     "particulars": [
       "1 Pair 6-Beam 20M Infrared Sensor"
     ],
@@ -767,11 +753,10 @@
   {
     "id": "azrfpc41a8m",
     "code": "AZRFPC41A8M",
-    "name": "REFLECTIVE PHOTOCELL",
+    "name": "Reflective Photocell",
     "category": "Accessories",
     "price": 6150,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
     "particulars": [
       "1 Pair Reflective Photocell"
     ],
@@ -791,7 +776,6 @@
     "category": "Accessories",
     "price": 9550,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
     "particulars": [
       "1 No Smart Receiver"
     ],
@@ -811,7 +795,6 @@
     "category": "Accessories",
     "price": 6800,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
     "particulars": [
       "1 No Smart Tag"
     ],
@@ -827,11 +810,10 @@
   {
     "id": "azer141",
     "code": "AZER141",
-    "name": "External Receiver (4 CHANNEL)",
+    "name": "External Receiver (4 Channel)",
     "category": "Accessories",
     "price": 6785,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
     "particulars": [
       "1 No 4-Channel External Receiver"
     ],
@@ -847,11 +829,10 @@
   {
     "id": "azrfwifi31a",
     "code": "AZRFWIFI31A",
-    "name": "RF WIFI MODULE",
+    "name": "RF WiFi Module",
     "category": "Accessories",
     "price": 7500,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
     "particulars": [
       "1 No RF Wi-Fi Module"
     ],
@@ -871,7 +852,6 @@
     "category": "Accessories",
     "price": 11350,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
     "particulars": [
       "1 Pair Long Range External Receiver"
     ],
@@ -887,11 +867,10 @@
   {
     "id": "azgsm30",
     "code": "AZGSM30",
-    "name": "GSM MODULE 2G",
+    "name": "GSM Module 2G",
     "category": "Accessories",
     "price": 7515,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
     "particulars": [
       "1 No GSM Module 2G"
     ],
@@ -907,11 +886,10 @@
   {
     "id": "azks15",
     "code": "AZKS15",
-    "name": "KEYSWITCH",
+    "name": "Keyswitch",
     "category": "Accessories",
     "price": 3264,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
     "particulars": [
       "1 No Keyswitch with Keys"
     ],
@@ -927,11 +905,10 @@
   {
     "id": "azwlkp17",
     "code": "AZWLKP17",
-    "name": "WIRELESS KEY PAD",
+    "name": "Wireless Keypad",
     "category": "Accessories",
     "price": 8200,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
     "particulars": [
       "1 No Wireless Keypad"
     ],
@@ -947,11 +924,10 @@
   {
     "id": "azpb16a",
     "code": "AZPB16A",
-    "name": "PUSHBUTTON",
+    "name": "Push Button",
     "category": "Accessories",
     "price": 3100,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
     "particulars": [
       "1 No Pushbutton Switch"
     ],
@@ -967,11 +943,10 @@
   {
     "id": "azpbip65",
     "code": "AZPBIP65",
-    "name": "PUSHBUTTON WATERPROOF",
+    "name": "Push Button Waterproof",
     "category": "Accessories",
     "price": 5225,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
     "particulars": [
       "1 No IP65 Waterproof Pushbutton"
     ],
@@ -987,11 +962,10 @@
   {
     "id": "azpbk16b",
     "code": "AZPBK16B",
-    "name": "PUSHBUTTON WITH KEY",
+    "name": "Push Button with Key",
     "category": "Accessories",
     "price": 3900,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
     "particulars": [
       "1 No Pushbutton with Key Lock"
     ],
@@ -1007,11 +981,10 @@
   {
     "id": "azpb16c",
     "code": "AZPB16C",
-    "name": "PUSHBUTTON",
+    "name": "Push Button",
     "category": "Accessories",
     "price": 2100,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
     "particulars": [
       "1 No Pushbutton Switch"
     ],
@@ -1027,11 +1000,10 @@
   {
     "id": "azpb16e",
     "code": "AZPB16E",
-    "name": "PCB PUSHBUTTON",
+    "name": "PCB Push Button",
     "category": "Accessories",
     "price": 1400,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
     "particulars": [
       "1 No PCB Pushbutton"
     ],
@@ -1047,11 +1019,10 @@
   {
     "id": "azpb16f",
     "code": "AZPB16F",
-    "name": "TWO BUTTON PUSHBUTTON",
+    "name": "Two Button Push Button",
     "category": "Accessories",
     "price": 960,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
     "particulars": [
       "1 No Two-Button Pushbutton"
     ],
@@ -1071,7 +1042,6 @@
     "category": "Accessories",
     "price": 15100,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
     "particulars": [
       "1 No Fingerprint, Password & Card Access Reader"
     ],
@@ -1087,11 +1057,10 @@
   {
     "id": "azfl19",
     "code": "AZFL19",
-    "name": "FLASH LAMP",
+    "name": "Flash Lamp",
     "category": "Accessories",
     "price": 4113,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
     "particulars": [
       "1 No Warning Flash Lamp"
     ],
@@ -1107,11 +1076,10 @@
   {
     "id": "azfl20",
     "code": "AZFL20",
-    "name": "FLASH LAMP",
+    "name": "Flash Lamp",
     "category": "Accessories",
     "price": 3482,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
     "particulars": [
       "1 No Warning Flash Lamp"
     ],
@@ -1127,11 +1095,10 @@
   {
     "id": "azaflac19a",
     "code": "AZAFLAC19A",
-    "name": "ALARM FLASH LAMP AC",
+    "name": "Alarm Flash Lamp AC",
     "category": "Accessories",
     "price": 2930,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
     "particulars": [
       "1 No AC Alarm Flash Lamp"
     ],
@@ -1147,11 +1114,10 @@
   {
     "id": "azaflcdc19b",
     "code": "AZAFLDC19B",
-    "name": "ALARM FLASH LAMP DC",
+    "name": "Alarm Flash Lamp DC",
     "category": "Accessories",
     "price": 2930,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
     "particulars": [
       "1 No DC Alarm Flash Lamp"
     ],
@@ -1167,11 +1133,10 @@
   {
     "id": "azflac21",
     "code": "AZFLAC21",
-    "name": "FLASH LAMP",
+    "name": "Flash Lamp",
     "category": "Accessories",
     "price": 3990,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
     "particulars": [
       "1 No Flash Lamp"
     ],
@@ -1187,11 +1152,10 @@
   {
     "id": "azsl12aadc",
     "code": "AZSL12AADC",
-    "name": "SIGNAL LIGHT 24V",
+    "name": "Signal Light 24V",
     "category": "Accessories",
     "price": 23921,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
     "particulars": [
       "1 No 24V Signal Light"
     ],
@@ -1207,11 +1171,10 @@
   {
     "id": "azsl12aac",
     "code": "AZSL12AAC",
-    "name": "SIGNAL LIGHT 230V",
+    "name": "Signal Light 230V",
     "category": "Accessories",
     "price": 29900,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
     "particulars": [
       "1 No 230V Signal Light"
     ],
@@ -1227,11 +1190,10 @@
   {
     "id": "azswelbl32",
     "code": "AZSWELBL32",
-    "name": "ELECTRONIC BOTTOM LOCK",
+    "name": "Electronic Bottom Lock",
     "category": "Accessories",
     "price": 15100,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
     "particulars": [
       "1 No Electronic Bottom Lock for Gates"
     ],
@@ -1247,11 +1209,10 @@
   {
     "id": "azswelcl33",
     "code": "AZSWELCL33",
-    "name": "ELECTRONIC CENTER LOCK",
+    "name": "Electronic Center Lock",
     "category": "Accessories",
     "price": 18090,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
     "particulars": [
       "1 No Electronic Center Lock for Gates"
     ],
@@ -1267,11 +1228,10 @@
   {
     "id": "azsw231a",
     "code": "AZSW231A",
-    "name": "CONTROLLER - SUITABLE FOR AC (AZSW112, AZSW107)",
+    "name": "Controller - Suitable for AC (AZSW112, AZSW107)",
     "category": "Accessories",
     "price": 21111,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
     "particulars": [
       "1 No AC Controller Board (AZSW112, AZSW107)"
     ],
@@ -1287,11 +1247,10 @@
   {
     "id": "azsw229a",
     "code": "AZSW229A",
-    "name": "CONTROLLER - SUITABLE FOR (106-2.5, 106-3)",
+    "name": "Controller - Suitable for (106-2.5, 106-3)",
     "category": "Accessories",
     "price": 24125,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
     "particulars": [
       "1 No Controller Board (106-2.5, 106-3)"
     ],
@@ -1307,11 +1266,10 @@
   {
     "id": "azswdc227a",
     "code": "AZSWDC227A",
-    "name": "CONTROLLER - SUITABLE FOR (AZSW110A)",
+    "name": "Controller - Suitable for (AZSW110A)",
     "category": "Accessories",
     "price": 24125,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
     "particulars": [
       "1 No Controller Board (AZSW110A)"
     ],
@@ -1327,11 +1285,10 @@
   {
     "id": "azswdc227b",
     "code": "AZSWDC227B",
-    "name": "CONTROLLER (Transformer AZSWRTT 304 + PCB AZSWPCB580C) - SUITABLE FOR (AZSW108A)",
+    "name": "Controller (Transformer AZSWRTT 304 + PCB AZSWPCB580C) - Suitable for (AZSW108A)",
     "category": "Accessories",
     "price": 24125,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
     "particulars": [
       "Transformer AZSWRTT 304",
       "PCB AZSWPCB580C",
@@ -1351,11 +1308,10 @@
   {
     "id": "azswdc227c",
     "code": "AZSWDC227C",
-    "name": "CONTROLLER (Transformer AZSWRTT 304A + PCB AZSWPCB580C) - SUITABLE FOR (AZSW108B)",
+    "name": "Controller (Transformer AZSWRTT 304A + PCB AZSWPCB580C) - Suitable for (AZSW108B)",
     "category": "Accessories",
     "price": 24125,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
     "particulars": [
       "Transformer AZSWRTT 304A",
       "PCB AZSWPCB580C",
@@ -1375,11 +1331,10 @@
   {
     "id": "azswdc228",
     "code": "AZSWDC228",
-    "name": "CONTROLLER (Transformer AZSWRTT 305 + PCB AZSWDPCB228) - SUITABLE (109A)",
+    "name": "Controller (Transformer AZSWRTT 305 + PCB AZSWDPCB228) - Suitable for (109A)",
     "category": "Accessories",
     "price": 24625,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
     "particulars": [
       "Transformer AZSWRTT 305",
       "PCB AZSWDPCB228",
@@ -1399,11 +1354,10 @@
   {
     "id": "azswcp107b",
     "code": "AZSWCP107B",
-    "name": "CONTROLLER (Transformer AZSWRTT 305B + PCB AZSWPCB107B) - SUITABLE FOR (107B)",
+    "name": "Controller (Transformer AZSWRTT 305B + PCB AZSWPCB107B) - Suitable for (107B)",
     "category": "Accessories",
     "price": 20657,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
     "particulars": [
       "Transformer AZSWRTT 305B",
       "PCB AZSWPCB107B",
@@ -1423,11 +1377,10 @@
   {
     "id": "azswpcb600",
     "code": "AZSWPCB600",
-    "name": "PCB ONLY (SUITABLE FOR AZSW600)",
+    "name": "PCB Only (Suitable for AZSW600)",
     "category": "Accessories",
     "price": 11500,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
     "particulars": [
       "1 No PCB Board for AZSW600"
     ],
@@ -1443,11 +1396,10 @@
   {
     "id": "azswsmps600",
     "code": "AZSWSMPS600",
-    "name": "SMPS (SUITABLE FOR AZSW600)",
+    "name": "SMPS (Suitable for AZSW600)",
     "category": "Accessories",
     "price": 7900,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
     "particulars": [
       "1 No SMPS Power Supply for AZSW600"
     ],
@@ -1463,11 +1415,10 @@
   {
     "id": "azswdpcb200a",
     "code": "AZSWDPCB200A",
-    "name": "PCB ONLY DIGITAL BOARD - ID200 SUITABLE (106-2.5, 106-3)",
+    "name": "PCB Only Digital Board - ID200 Suitable for (106-2.5, 106-3)",
     "category": "Accessories",
     "price": 12062,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
     "particulars": [
       "1 No Digital Board ID200 for (106-2.5, 106-3)"
     ],
@@ -1483,11 +1434,10 @@
   {
     "id": "azswpcb580c",
     "code": "AZSWPCB580C",
-    "name": "PCB ONLY (SUITABLE FOR 108A, 108B, 110A)",
+    "name": "PCB Only (Suitable for 108A, 108B, 110A)",
     "category": "Accessories",
     "price": 12490,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
     "particulars": [
       "1 No PCB Board for (108A, 108B, 110A)"
     ],
@@ -1503,11 +1453,10 @@
   {
     "id": "azswdpcb228",
     "code": "AZSWDPCB228",
-    "name": "PCB ONLY DC ANALOG BOARD - T90 SUITABLE FOR (109A)",
+    "name": "PCB Only DC Analog Board - T90 Suitable for (109A)",
     "category": "Accessories",
     "price": 12562,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
     "particulars": [
       "1 No DC Analog Board T90 for 109A"
     ],
@@ -1523,11 +1472,10 @@
   {
     "id": "azswacpcb231a",
     "code": "AZSWACPCB231A",
-    "name": "PCB ONLY AC SUITABLE FOR (112, 107)",
+    "name": "PCB Only AC Suitable for (112, 107)",
     "category": "Accessories",
     "price": 16500,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
     "particulars": [
       "1 No AC PCB Board for (112, 107)"
     ],
@@ -1543,11 +1491,10 @@
   {
     "id": "azswpcb107b",
     "code": "AZSWPCB107B",
-    "name": "PCB ONLY - K280 (SUITABLE FOR 107B)",
+    "name": "PCB Only - K280 (Suitable for 107B)",
     "category": "Accessories",
     "price": 13393,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
     "particulars": [
       "1 No PCB Board K280 for 107B"
     ],
@@ -1563,11 +1510,10 @@
   {
     "id": "azpgocb751",
     "code": "AZPGOCB751",
-    "name": "PEDESTRIAN CONTROL BOARD (PCB) SUITABLE (AZSW111PGO)",
+    "name": "Pedestrian Control Board (PCB) Suitable for (AZSW111PGO)",
     "category": "Accessories",
     "price": 4500,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/interior.jpg",
     "particulars": [
       "1 No Pedestrian Control Board (PCB) for AZSW111PGO"
     ],
@@ -1587,7 +1533,6 @@
     "category": "Accessories",
     "price": 1850,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
     "particulars": [
       "1 No Gate Rubber Stopper"
     ],
@@ -1603,11 +1548,10 @@
   {
     "id": "azsegr206",
     "code": "AZSEGR206",
-    "name": "RUBBER PROFILE (60*40)",
+    "name": "Rubber Profile (60*40)",
     "category": "Accessories",
     "price": 4086,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
     "particulars": [
       "1 Meter Rubber Profile (60*40)"
     ],
@@ -1623,11 +1567,10 @@
   {
     "id": "azsegat106",
     "code": "AZSEGAT106",
-    "name": "ALUMINIUM TRACK (60*40)",
+    "name": "Aluminium Track (60*40)",
     "category": "Accessories",
     "price": 2156,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
     "particulars": [
       "1 No (2m) Aluminium Track (60*40)"
     ],
@@ -1647,7 +1590,6 @@
     "category": "Accessories",
     "price": 3518,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
     "particulars": [
       "1 Meter Sensor Tape"
     ],
@@ -1667,7 +1609,6 @@
     "category": "Accessories",
     "price": 1135,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
     "particulars": [
       "1 Pair End Plug"
     ],
@@ -1687,7 +1628,6 @@
     "category": "Accessories",
     "price": 908,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
     "particulars": [
       "1 Pair End Cap"
     ],
@@ -1703,11 +1643,10 @@
   {
     "id": "azhsdbes64b",
     "code": "AZHSDBES64B",
-    "name": "SAFETY EDGE SENSOR STRIP",
+    "name": "Safety Edge Sensor Strip",
     "category": "Accessories",
     "price": 8172,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
     "particulars": [
       "1 No Safety Edge Sensor Strip"
     ],
@@ -1723,11 +1662,10 @@
   {
     "id": "azsegr304",
     "code": "AZSEGR304",
-    "name": "RUBBER PROFILE (40*30)",
+    "name": "Rubber Profile (40*30)",
     "category": "Accessories",
     "price": 2338,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
     "particulars": [
       "1 Meter Rubber Profile (40*30)"
     ],
@@ -1743,11 +1681,10 @@
   {
     "id": "azsegat113",
     "code": "AZSEGAT113",
-    "name": "ALUMINIUM TRACK (40*30)",
+    "name": "Aluminium Track (40*30)",
     "category": "Accessories",
     "price": 1589,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
     "particulars": [
       "1 No (2m/pc) Aluminium Track (40*30)"
     ],
@@ -1763,11 +1700,10 @@
   {
     "id": "azseep113",
     "code": "AZSEEP113",
-    "name": "End piece",
+    "name": "End Piece",
     "category": "Accessories",
     "price": 1135,
     "priceNote": "+18% TAX EXTRA",
-    "image": "/images/products/security.jpg",
     "particulars": [
       "1 Pair End Piece"
     ],

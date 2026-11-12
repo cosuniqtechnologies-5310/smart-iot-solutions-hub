@@ -69,43 +69,54 @@ export default async function ProductPage({ params }: Props) {
           </div>
 
           <div className="flex flex-col lg:flex-row gap-10 bg-white p-6 sm:p-10 rounded-2xl shadow-sm border border-gray-100">
-            {/* Product Image Area */}
-            <div className="lg:w-5/12 flex items-center justify-center bg-white rounded-2xl pt-14 pb-8 px-8 border border-gray-100 relative overflow-hidden min-h-[340px]">
-              <div className="absolute top-4 left-4 bg-[#0c121e]/90 backdrop-blur-sm text-[#d0a353] text-[0.65rem] font-bold tracking-widest uppercase px-3 py-1.5 rounded-full border border-[#d0a353]/35 z-10">
-                {getProductTag(product)}
+            {/* Product Image Area - Guaranteed space above and below image */}
+            <div className="lg:w-5/12 flex flex-col justify-between bg-white rounded-2xl p-6 border border-gray-100 relative overflow-hidden min-h-[350px] sm:min-h-[380px]">
+              {/* Top Row: Series Tag */}
+              <div className="flex items-center justify-between w-full z-10">
+                <span className="bg-[#0c121e]/90 backdrop-blur-sm text-[#d0a353] text-[0.65rem] font-bold tracking-widest uppercase px-3 py-1.5 rounded-full border border-[#d0a353]/35">
+                  {getProductTag(product)}
+                </span>
               </div>
-              <div className="absolute top-4 right-4 bg-white/95 backdrop-blur-sm text-[#0c121e] text-[0.65rem] font-mono font-bold tracking-widest uppercase px-3 py-1.5 rounded-full border border-gray-200 shadow-sm z-10">
-                {product.code}
+
+              {/* Center Image Container - Guaranteed clear space above and below */}
+              <div className="flex-1 w-full flex items-center justify-center p-4 min-h-0">
+                {product.image ? (
+                  <img
+                    src={product.image.startsWith("images/") ? `/${product.image}` : product.image}
+                    alt={product.name}
+                    className="max-h-[260px] sm:max-h-[290px] max-w-full w-auto h-auto object-contain object-center drop-shadow-md"
+                  />
+                ) : (
+                  <div className="w-full h-64 flex items-center justify-center text-gray-300">
+                    <i className="fas fa-box text-6xl"></i>
+                  </div>
+                )}
               </div>
-              {product.image ? (
-                <img
-                  src={product.image.startsWith("images/") ? `/${product.image}` : product.image}
-                  alt={product.name}
-                  className="max-h-[320px] max-w-full w-auto h-auto object-contain object-center m-auto drop-shadow-md"
-                />
-              ) : (
-                <div className="w-full h-64 flex items-center justify-center text-gray-300">
-                  <i className="fas fa-box text-6xl"></i>
-                </div>
-              )}
+
+              {/* Bottom Row: Product Code Badge */}
+              <div className="flex items-center justify-end w-full z-10">
+                <span className="bg-gray-100/95 backdrop-blur-sm text-[#0c121e] text-[0.65rem] font-mono font-bold tracking-widest uppercase px-3 py-1.5 rounded-full border border-gray-200 shadow-sm truncate max-w-full">
+                  {product.code}
+                </span>
+              </div>
             </div>
 
             {/* Product Details Area */}
             <div className="lg:w-7/12 flex flex-col justify-center">
-              <div className="inline-block bg-[#d0a353]/15 text-[#8c6017] border border-[#ca9740]/30 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider mb-3 w-fit">
+              <div className="inline-block bg-[#d0a353]/15 text-[#8c6017] border border-[#ca9740]/30 text-xs font-medium px-3 py-1 rounded-full uppercase tracking-wider mb-3 w-fit">
                 {product.category}
               </div>
 
               <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-gray-900 mb-2 font-heading leading-tight">
                 {product.name}
               </h1>
-              <p className="text-sm font-mono text-gray-500 mb-5 font-semibold">
-                Model: <span className="text-[#0c121e]">{product.code}</span>
+              <p className="text-sm font-mono text-gray-500 mb-5 font-normal">
+                Model: <span className="text-[#0c121e] font-semibold">{product.code}</span>
               </p>
 
               {/* Price Banner */}
               <div className="mb-6 pb-4 border-b border-gray-100">
-                <span className="text-[0.65rem] font-bold text-gray-400 uppercase tracking-widest block mb-1 font-heading">
+                <span className="text-[0.65rem] font-medium text-gray-400 uppercase tracking-widest block mb-1 font-heading">
                   List Price
                 </span>
                 <div className="flex flex-wrap items-baseline gap-3">
@@ -115,7 +126,7 @@ export default async function ProductPage({ params }: Props) {
                       : product.price || "Quote on Request"}
                   </span>
                   {product.priceNote && (
-                    <span className="text-sm font-bold text-[#b5852f] tracking-wide uppercase">
+                    <span className="text-sm font-normal text-amber-700/90 tracking-wide uppercase">
                       ({product.priceNote.replace(/^LIST\s*PRICE\s*\+?\s*/i, "+").trim()})
                     </span>
                   )}
