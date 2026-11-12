@@ -31,6 +31,7 @@
     "category": "Swing Gate Operators",
     "price": 49678,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/swing-gate-single-operator.png",
     "particulars": [
       "AZSW1062.5/250KG-L - 1 No (Including Mounting bracket Acc)",
       "Control Panel (AZSW229A) - 1 No",
@@ -46,8 +47,7 @@
         ]
       }
     ],
-    "series": "ICON",
-    "image": "/images/products/swing-gate-single-operator.png"
+    "series": "ICON"
   },
   {
     "id": "azsw1063-300kg-l",
@@ -56,6 +56,7 @@
     "category": "Swing Gate Operators",
     "price": 51970,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/icon-swing-gate-single-operator-2.png",
     "particulars": [
       "AZSW1063/300KG-L - 1 No (Including Mounting bracket Acc)",
       "Control Panel (AZSW229A) - 1 No",
@@ -71,8 +72,7 @@
         ]
       }
     ],
-    "series": "ICON",
-    "image": "/images/products/icon-swing-gate-single-operator-2.png"
+    "series": "ICON"
   },
   {
     "id": "azsw1062-5-250kg-r",
@@ -81,6 +81,7 @@
     "category": "Swing Gate Operators",
     "price": 49678,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/icon-swing-gate-single-operator-right-2.png",
     "particulars": [
       "AZSW1062.5/250KG-R - 1 No (Including Mounting bracket Acc)",
       "Control Panel (AZSW229A) - 1 No",
@@ -96,8 +97,7 @@
         ]
       }
     ],
-    "series": "ICON",
-    "image": "/images/products/icon-swing-gate-single-operator-right-2.png"
+    "series": "ICON"
   },
   {
     "id": "azsw1063-300kg-r",
@@ -106,6 +106,7 @@
     "category": "Swing Gate Operators",
     "price": 51970,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/icon-swing-gate-single-operator-right-2-new.png",
     "particulars": [
       "AZSW1063/300KG-R - 1 No (Including Mounting bracket Acc)",
       "Control Panel (AZSW229A) - 1 No",
@@ -121,8 +122,7 @@
         ]
       }
     ],
-    "series": "ICON",
-    "image": "/images/products/icon-swing-gate-single-operator-right-2-new.png"
+    "series": "ICON"
   },
   {
     "id": "azsw110a-300kg-3mtr-1",
@@ -131,6 +131,7 @@
     "category": "Swing Gate Operators",
     "price": 52700,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/link-swing-gate-operator-DC.png",
     "particulars": [
       "AZSW110A/300KG/3MTR/1 OPERATOR KIT - 1 No (Including Mounting bracket Acc)",
       "Control Panel (AZSWDC227A) - 1 No",
@@ -146,8 +147,7 @@
         ]
       }
     ],
-    "series": "LINK",
-    "image": "/images/products/link-swing-gate-operator-DC.png"
+    "series": "LINK"
   },
   {
     "id": "azsw107b-4mtr-400kg-l",
@@ -156,6 +156,7 @@
     "category": "Swing Gate Operators",
     "price": 59150,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/lite-swing-gate-articulator-single-operator.png",
     "particulars": [
       "Left AZSW107B/4MTR 400KG-L - 1 No (Including Mounting bracket + Arm - 2 Nos)",
       "Control Panel (AZSWCP107B) - 1 No",
@@ -171,8 +172,7 @@
         ]
       }
     ],
-    "series": "LITE",
-    "image": "/images/products/lite-swing-gate-articulator-single-operator.png"
+    "series": "LITE"
   },
   {
     "id": "azsw107b-4mtr-400kg-r",
@@ -181,6 +181,7 @@
     "category": "Swing Gate Operators",
     "price": 59150,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/lite-swing-gate-articulator-single-operator-1.png",
     "particulars": [
       "Right AZSW107B/4MTR 400KG-R - 1 No (Including Mounting bracket + Arm - 2 Nos)",
       "Control Panel (AZSWCP107B) - 1 No",
@@ -196,8 +197,7 @@
         ]
       }
     ],
-    "series": "LITE",
-    "image": "/images/products/lite-swing-gate-articulator-single-operator-1.png"
+    "series": "LITE"
   },
   {
     "id": "azsw108a-400kg-1-kit",
@@ -206,6 +206,7 @@
     "category": "Swing Gate Operators",
     "price": 48200,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/eco-swing-gate-single-roller-operator.png",
     "particulars": [
       "AZSW108A/400KG 1 OPERATOR KIT - 1 No",
       "Control Panel (AZSWDC227A) - 1 No",
@@ -221,8 +222,7 @@
         ]
       }
     ],
-    "series": "ECO",
-    "image": "/images/products/eco-swing-gate-single-roller-operator.png"
+    "series": "ECO"
   },
   {
     "id": "azsw108b-800kg-1-kit",
@@ -231,6 +231,7 @@
     "category": "Swing Gate Operators",
     "price": 55200,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/eco-swing-gate-single-roller-operator.png",
     "particulars": [
       "AZSW108B/800KG 1 OPERATOR KIT - 1 No",
       "Control Panel (AZSWDC227A) - 1 No",
@@ -246,8 +247,7 @@
         ]
       }
     ],
-    "series": "ECO",
-    "image": "/images/products/eco-swing-gate-single-roller-operator.png"
+    "series": "ECO"
   },
   {
     "id": "azsw109a-1000kg-1-kit",
@@ -256,6 +256,7 @@
     "category": "Swing Gate Operators",
     "price": 89200,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/eco-swing-gate-single-roller-operator.png",
     "particulars": [
       "AZSW109A/1000KG 1 OPERATOR KIT - 1 No",
       "Control Panel (AZSWDC227A) - 1 No",
@@ -271,8 +272,7 @@
         ]
       }
     ],
-    "series": "ROBO",
-    "image": "/images/products/eco-swing-gate-single-roller-operator.png"
+    "series": "ROBO"
   },
   {
     "id": "azsw1062-5-250kg-2-kit",
@@ -281,6 +281,7 @@
     "category": "Swing Gate Operators",
     "price": 71500,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/icon-swing-gate-two-operator.png",
     "particulars": [
       "AZSW1062.5/250KG Operator - 2 No (Including Mounting bracket Acc)",
       "Control Panel (AZSW229A) - 1 No",
@@ -300,8 +301,7 @@
         ]
       }
     ],
-    "series": "ICON",
-    "image": "/images/products/icon-swing-gate-two-operator.png"
+    "series": "ICON"
   },
   {
     "id": "azsw1063-300kg-2-kit",
@@ -310,6 +310,7 @@
     "category": "Swing Gate Operators",
     "price": 74400,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/icon-swing-gate-two-operator.png",
     "particulars": [
       "AZSW1063/300KG Operator - 2 No (Including Mounting bracket Acc)",
       "Control Panel (AZSW229A) - 1 No",
@@ -329,8 +330,7 @@
         ]
       }
     ],
-    "series": "ICON",
-    "image": "/images/products/icon-swing-gate-two-operator.png"
+    "series": "ICON"
   },
   {
     "id": "azsw110a-3mtr-300kg-2-kit",
@@ -339,6 +339,7 @@
     "category": "Swing Gate Operators",
     "price": 73500,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/link-swing-gate-operator-DC.png",
     "particulars": [
       "AZSW110A/3MTR/300KG Operator - 2 No (Including Mounting bracket Acc)",
       "Control Panel (AZSWDC227A) - 1 No",
@@ -356,8 +357,7 @@
         ]
       }
     ],
-    "series": "LINK",
-    "image": "/images/products/link-swing-gate-operator-DC.png"
+    "series": "LINK"
   },
   {
     "id": "azsw107b-2-kit",
@@ -366,6 +366,7 @@
     "category": "Swing Gate Operators",
     "price": 106500,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/lite-swing-gate-articulator-operator-dc.png",
     "particulars": [
       "AZSW107B/2 OPERATOR - 2 No (Including Mounting bracket + Arm 2 Nos)",
       "Control Panel (AZSWCP107B) - 1 No",
@@ -383,8 +384,7 @@
         ]
       }
     ],
-    "series": "LITE",
-    "image": "/images/products/lite-swing-gate-articulator-operator-dc.png"
+    "series": "LITE"
   },
   {
     "id": "azsw108a-400kg-2-kit",
@@ -393,6 +393,7 @@
     "category": "Swing Gate Operators",
     "price": 57200,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/eco-swing-gate-single-roller-operator.png",
     "particulars": [
       "Operator - 2 No (Including Mounting bracket Acc)",
       "Control Panel (AZSWDC227A) - 1 No",
@@ -410,8 +411,7 @@
         ]
       }
     ],
-    "series": "ECO",
-    "image": "/images/products/eco-swing-gate-single-roller-operator.png"
+    "series": "ECO"
   },
   {
     "id": "azsw108b-800kg-2-kit",
@@ -420,6 +420,7 @@
     "category": "Swing Gate Operators",
     "price": 66175,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/eco-swing-gate-single-roller-operator.png",
     "particulars": [
       "Operator - 2 No (Including Mounting bracket Acc)",
       "Control Panel (AZSWDC227A) - 1 No",
@@ -437,8 +438,7 @@
         ]
       }
     ],
-    "series": "ECO",
-    "image": "/images/products/eco-swing-gate-single-roller-operator.png"
+    "series": "ECO"
   },
   {
     "id": "azsw109a-1000kg-2-kit",
@@ -447,6 +447,7 @@
     "category": "Swing Gate Operators",
     "price": 134000,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/swing-gate-roller-operator-2000kg.png",
     "particulars": [
       "Operator - 2 No (Including Mounting bracket Acc)",
       "Control Panel (AZSWDC227A) - 1 No",
@@ -464,8 +465,7 @@
         ]
       }
     ],
-    "series": "ROBO",
-    "image": "/images/products/eco-swing-gate-single-roller-operator.png"
+    "series": "ROBO"
   },
   {
     "id": "azsw111pgo",
@@ -474,6 +474,7 @@
     "category": "Swing Gate Operators",
     "price": 48724,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/pedestrian-gate-operator-75kg.png",
     "particulars": [
       "AZ-SW-111 PGO PEDESTRIAN 75KG",
       "AZ-PGO CB-751 CONTROL BOARD + CONTROLLER POWER SUPPLY",
@@ -504,12 +505,419 @@
     "series": "GRID"
   },
   {
+    "id": "azbb113-azbto12m",
+    "code": "AZBB113/AZBTO12M",
+    "series": "ZEN",
+    "name": "BLDC Boom Barrier",
+    "category": "Boom Barriers",
+    "price": 47400,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "BLDC BARRIER - AZBB113",
+      "BOOM 2M ROUND LED - AZBT012M",
+      "TRANSMITTER - AZBLDCTX22 (2 NOS)"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "BLDC BARRIER - AZBB113",
+          "BOOM 2M ROUND LED - AZBT012M",
+          "TRANSMITTER - AZBLDCTX22 (2 NOS)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbb115a-azbt01a6m",
+    "code": "AZBB115A/AZBT01A6M",
+    "series": "ROD",
+    "name": "Telescopic Hybrid BLDC Boom Barrier",
+    "category": "Boom Barriers",
+    "price": 72700,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "BLDC BARRIER - AZBB115A",
+      "TELESCOPIC BOOM 6 MTR - AZBT01A6M",
+      "TRANSMITTER - AZBLDCTX23 (2 Nos)",
+      "V HOLDER - AZBBVH01A"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "BLDC BARRIER - AZBB115A",
+          "TELESCOPIC BOOM 6 MTR - AZBT01A6M",
+          "TRANSMITTER - AZBLDCTX23 (2 Nos)",
+          "V HOLDER - AZBBVH01A"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbb115a-azba06a",
+    "code": "AZBB115A/AZBA06A",
+    "series": "ROD",
+    "name": "Arm Out Hybrid BLDC Boom Barrier",
+    "category": "Boom Barriers",
+    "price": 76500,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "BLDC BARRIER - AZBB115A",
+      "ARM OUT SQUARE BOOM 6 MTR - AZBA06A",
+      "TRANSMITTER - AZBLDCTX23 (2 Nos)",
+      "V HOLDER - AZBBVH01A"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "BLDC BARRIER - AZBB115A",
+          "ARM OUT SQUARE BOOM 6 MTR - AZBA06A",
+          "TRANSMITTER - AZBLDCTX23 (2 Nos)",
+          "V HOLDER - AZBBVH01A"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbb115a-azblo7a6m",
+    "code": "AZBB115A/AZBLO7A6M",
+    "series": "ROD",
+    "name": "LED BLDC Hybrid Boom Barrier",
+    "category": "Boom Barriers",
+    "price": 93400,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "BLDC BARRIER - AZBB115A",
+      "LED BOOM 6 MTR - AZBL07A6M",
+      "TRANSMITTER - AZBLDCTX23 (2 Nos)",
+      "V HOLDER - AZBBVH01A"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "BLDC BARRIER - AZBB115A",
+          "LED BOOM 6 MTR - AZBL07A6M",
+          "TRANSMITTER - AZBLDCTX23 (2 Nos)",
+          "V HOLDER - AZBBVH01A"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbb115a-azbf05a90d",
+    "code": "AZBB115A/AZBF05A90D",
+    "series": "ROD",
+    "name": "Folding Hybrid BLDC Boom Barrier 90 Degree",
+    "category": "Boom Barriers",
+    "price": 101400,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "BLDC BARRIER - AZBB115A",
+      "FOLDING BOOM 4 MTR - AZBF05A90D",
+      "TRANSMITTER - AZBLDCTX23 (2 Nos)",
+      "V HOLDER - AZBBVH01A"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "BLDC BARRIER - AZBB115A",
+          "FOLDING BOOM 4 MTR - AZBF05A90D",
+          "TRANSMITTER - AZBLDCTX23 (2 Nos)",
+          "V HOLDER - AZBBVH01A"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbb115a-azbf10a180d",
+    "code": "AZBB115A/AZBF10A180D",
+    "series": "ROD",
+    "name": "Folding Hybrid BLDC Boom Barrier 180 Degree",
+    "category": "Boom Barriers",
+    "price": 104500,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "BLDC BARRIER - AZBB115A",
+      "FOLDING BOOM 4 MTR - AZBF10A180D",
+      "TRANSMITTER - AZBLDCTX23 (2 Nos)",
+      "V HOLDER - AZBBVH01A"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "BLDC BARRIER - AZBB115A",
+          "FOLDING BOOM 4 MTR - AZBF10A180D",
+          "TRANSMITTER - AZBLDCTX23 (2 Nos)",
+          "V HOLDER - AZBBVH01A"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbb115a-azbfo3a4-5m",
+    "code": "AZBB115A/AZBFO3A4.5M",
+    "series": "ROD",
+    "name": "Fence Hybrid BLDC Boom Barrier",
+    "category": "Boom Barriers",
+    "price": 98400,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "BLDC BARRIER - AZBB115A",
+      "FENCE BOOM 4.5 MTR - AZBFO3A4.5M",
+      "TRANSMITTER - AZBLDCTX23 (2 Nos)"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "BLDC BARRIER - AZBB115A",
+          "FENCE BOOM 4.5 MTR - AZBFO3A4.5M",
+          "TRANSMITTER - AZBLDCTX23 (2 Nos)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbbl18-azbt01a6m",
+    "code": "AZBBL18/AZBT01A6M",
+    "series": "RUSH",
+    "name": "Telescopic BLDC Boom Barrier (Non Spring)",
+    "category": "Boom Barriers",
+    "price": 85000,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "BLDC BARRIER - AZBBL18",
+      "TELESCOPIC BOOM 6 MTR - AZBT01A6M",
+      "TRANSMITTER - AZBLDCTX23 (2 Nos)",
+      "V HOLDER - AZBBVH01A"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "BLDC BARRIER - AZBBL18",
+          "TELESCOPIC BOOM 6 MTR - AZBT01A6M",
+          "TRANSMITTER - AZBLDCTX23 (2 Nos)",
+          "V HOLDER - AZBBVH01A"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbbl18-azba06a",
+    "code": "AZBBL18/AZBA06A",
+    "series": "RUSH",
+    "name": "Arm Out BLDC Boom Barrier (Non Spring)",
+    "category": "Boom Barriers",
+    "price": 89900,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "BLDC BARRIER - AZBBL18",
+      "ARM OUT SQUARE BOOM 6 MTR - AZBA06A",
+      "TRANSMITTER - AZBLDCTX23 (2 Nos)",
+      "V HOLDER - AZBBVH01A"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "BLDC BARRIER - AZBBL18",
+          "ARM OUT SQUARE BOOM 6 MTR - AZBA06A",
+          "TRANSMITTER - AZBLDCTX23 (2 Nos)",
+          "V HOLDER - AZBBVH01A"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbbl18-azblo7a6m",
+    "code": "AZBBL18/AZBLO7A6M",
+    "series": "RUSH",
+    "name": "LED BLDC Boom Barrier (Non Spring)",
+    "category": "Boom Barriers",
+    "price": 98200,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "BLDC BARRIER - AZBBL18",
+      "LED BOOM 6 MTR - AZBL07A6M",
+      "TRANSMITTER - AZBLDCTX23 (2 Nos)",
+      "V HOLDER - AZBBVH01A"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "BLDC BARRIER - AZBBL18",
+          "LED BOOM 6 MTR - AZBL07A6M",
+          "TRANSMITTER - AZBLDCTX23 (2 Nos)",
+          "V HOLDER - AZBBVH01A"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbbl18-azbf05a90d",
+    "code": "AZBBL18/AZBF05A90D",
+    "series": "RUSH",
+    "name": "Folding BLDC Boom Barrier 90 Degree (Non Spring)",
+    "category": "Boom Barriers",
+    "price": 109800,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "BLDC BARRIER - AZBBL18",
+      "FOLDING BOOM 4 MTR - AZBF05A90D",
+      "TRANSMITTER - AZBLDCTX23 (2 Nos)",
+      "V HOLDER - AZBBVH01A"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "BLDC BARRIER - AZBBL18",
+          "FOLDING BOOM 4 MTR - AZBF05A90D",
+          "TRANSMITTER - AZBLDCTX23 (2 Nos)",
+          "V HOLDER - AZBBVH01A"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbbl18-azbf10a180d",
+    "code": "AZBBL18/AZBF10A180D",
+    "series": "RUSH",
+    "name": "Folding BLDC Boom Barrier 180 Degree (Non Spring)",
+    "category": "Boom Barriers",
+    "price": 110500,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "BLDC BARRIER - AZBBL18",
+      "FOLDING BOOM 4 MTR - AZBF10A180D",
+      "TRANSMITTER - AZBLDCTX23 (2 Nos)",
+      "V HOLDER - AZBBVH01A"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "BLDC BARRIER - AZBBL18",
+          "FOLDING BOOM 4 MTR - AZBF10A180D",
+          "TRANSMITTER - AZBLDCTX23 (2 Nos)",
+          "V HOLDER - AZBBVH01A"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbbl18-azbfo3a4-5m",
+    "code": "AZBBL18/AZBFO3A4.5M",
+    "series": "RUSH",
+    "name": "Fence BLDC Boom Barrier (Non Spring)",
+    "category": "Boom Barriers",
+    "price": 107000,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "BLDC BARRIER - AZBBL18",
+      "FENCE BOOM 4.5 MTR - AZBF03A4.5M",
+      "TRANSMITTER - AZBLDCTX23 (2 Nos)"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "BLDC BARRIER - AZBBL18",
+          "FENCE BOOM 4.5 MTR - AZBF03A4.5M",
+          "TRANSMITTER - AZBLDCTX23 (2 Nos)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbb115-azbf036m",
+    "code": "AZBB115/AZBF036M",
+    "series": "STAR",
+    "name": "Fence BLDC Boom Barrier",
+    "category": "Boom Barriers",
+    "price": 113200,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "BLDC BARRIER - AZBB115",
+      "FENCE BOOM 6MTR - AZBF036M",
+      "TRANSMITTER - AZBLDCTX22 - 2 NOS"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "BLDC BARRIER - AZBB115",
+          "FENCE BOOM 6MTR - AZBF036M",
+          "TRANSMITTER - AZBLDCTX22 - 2 NOS"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbb119-azbt088m",
+    "code": "AZBB119/AZBT088M",
+    "series": "TITAN",
+    "name": "8M Telescopic BLDC Boom Barrier",
+    "category": "Boom Barriers",
+    "price": 187000,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "BLDC BARRIER - AZBB119",
+      "TELESCOPIC BOOM 8 MTR - AZBT088M (1+7 = 8M)",
+      "TRANSMITTER - AZBLDCTX23 (2 Nos)",
+      "V HOLDER - AZBBVH01A"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "BLDC BARRIER - AZBB119",
+          "TELESCOPIC BOOM 8 MTR - AZBT088M (1+7 = 8M)",
+          "TRANSMITTER - AZBLDCTX23 (2 Nos)",
+          "V HOLDER - AZBBVH01A"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbba117b-azba09a",
+    "code": "AZBBA117B/AZBA09A",
+    "series": "ADD",
+    "name": "Advertising BLDC Boom Barrier",
+    "category": "Boom Barriers",
+    "price": 230000,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "BLDC BARRIER - AZBB117B",
+      "BOOM - 4 MTR 6SEC - AZBA09A",
+      "TRANSMITTER - AZBLDCTX23 (2 Nos)"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "BLDC BARRIER - AZBB117B",
+          "BOOM - 4 MTR 6SEC - AZBA09A",
+          "TRANSMITTER - AZBLDCTX23 (2 Nos)"
+        ]
+      }
+    ]
+  },
+  {
     "id": "azt30a",
     "code": "AZT30A",
     "name": "IND Transmitter",
     "category": "Accessories",
     "price": 1850,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/ind-transmitter.png",
     "particulars": [
       "1 No Transmitter"
     ],
@@ -529,6 +937,7 @@
     "category": "Accessories",
     "price": 1850,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/ind-transmitter-autozon.png",
     "particulars": [
       "1 No Transmitter"
     ],
@@ -548,6 +957,7 @@
     "category": "Accessories",
     "price": 1850,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/ind-transmitter-autozon-black.png",
     "particulars": [
       "1 No Transmitter"
     ],
@@ -567,6 +977,7 @@
     "category": "Accessories",
     "price": 2350,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/multi-brand-transmiter.png",
     "particulars": [
       "1 No Transmitter"
     ],
@@ -586,6 +997,7 @@
     "category": "Accessories",
     "price": 1850,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/transmitter-pg-green.png",
     "particulars": [
       "1 No Transmitter"
     ],
@@ -605,6 +1017,7 @@
     "category": "Accessories",
     "price": 1850,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/transmitter-pg-for-yellow.png",
     "particulars": [
       "1 No Transmitter"
     ],
@@ -624,6 +1037,7 @@
     "category": "Accessories",
     "price": 1850,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/transmitter-suitable-for-AZSW107B.png",
     "particulars": [
       "1 No Transmitter"
     ],
@@ -643,6 +1057,7 @@
     "category": "Accessories",
     "price": 3650,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/bolt-Photocell.png",
     "particulars": [
       "1 Pair Photocell Sensors"
     ],
@@ -662,6 +1077,7 @@
     "category": "Accessories",
     "price": 6188,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/bolt-Photocell.png",
     "particulars": [
       "1 Pair Wireless Photocell Sensors"
     ],
@@ -681,6 +1097,7 @@
     "category": "Accessories",
     "price": 10450,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/laser-photocell.png",
     "particulars": [
       "1 No Laser Photocell Sensor"
     ],
@@ -700,6 +1117,7 @@
     "category": "Accessories",
     "price": 6540,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/infrared-photocell.png",
     "particulars": [
       "1 No Infrared Photocell"
     ],
@@ -719,6 +1137,7 @@
     "category": "Accessories",
     "price": 11900,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/infrared-sensor-4-beam-20m.png",
     "particulars": [
       "1 Pair 4-Beam 20M Infrared Sensor"
     ],
@@ -738,6 +1157,7 @@
     "category": "Accessories",
     "price": 15900,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/infrared-sensor-6-beam-20m.png",
     "particulars": [
       "1 Pair 6-Beam 20M Infrared Sensor"
     ],
@@ -757,6 +1177,7 @@
     "category": "Accessories",
     "price": 6150,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/reflective-photocell.png",
     "particulars": [
       "1 Pair Reflective Photocell"
     ],
@@ -776,6 +1197,7 @@
     "category": "Accessories",
     "price": 9550,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/smart-receiver.png",
     "particulars": [
       "1 No Smart Receiver"
     ],
@@ -795,6 +1217,7 @@
     "category": "Accessories",
     "price": 6800,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/samart-tag.png",
     "particulars": [
       "1 No Smart Tag"
     ],
@@ -814,6 +1237,7 @@
     "category": "Accessories",
     "price": 6785,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/external-receiver.png",
     "particulars": [
       "1 No 4-Channel External Receiver"
     ],
@@ -833,6 +1257,7 @@
     "category": "Accessories",
     "price": 7500,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/rf-wifi-module.png",
     "particulars": [
       "1 No RF Wi-Fi Module"
     ],
@@ -852,6 +1277,7 @@
     "category": "Accessories",
     "price": 11350,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/long-range-external-reciver.png",
     "particulars": [
       "1 Pair Long Range External Receiver"
     ],
@@ -871,6 +1297,7 @@
     "category": "Accessories",
     "price": 7515,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/gsm-module-2g.png",
     "particulars": [
       "1 No GSM Module 2G"
     ],
@@ -890,6 +1317,7 @@
     "category": "Accessories",
     "price": 3264,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/keyswitch.png",
     "particulars": [
       "1 No Keyswitch with Keys"
     ],
@@ -909,6 +1337,7 @@
     "category": "Accessories",
     "price": 8200,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/wireless-key-pad.png",
     "particulars": [
       "1 No Wireless Keypad"
     ],
@@ -928,6 +1357,7 @@
     "category": "Accessories",
     "price": 3100,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/pushbutton.png",
     "particulars": [
       "1 No Pushbutton Switch"
     ],
@@ -947,6 +1377,7 @@
     "category": "Accessories",
     "price": 5225,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/pushbutton-waterproof.png",
     "particulars": [
       "1 No IP65 Waterproof Pushbutton"
     ],
@@ -966,6 +1397,7 @@
     "category": "Accessories",
     "price": 3900,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/pushbutton-with-key.png",
     "particulars": [
       "1 No Pushbutton with Key Lock"
     ],
@@ -985,6 +1417,7 @@
     "category": "Accessories",
     "price": 2100,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/push-button-simple.png",
     "particulars": [
       "1 No Pushbutton Switch"
     ],
@@ -1004,6 +1437,7 @@
     "category": "Accessories",
     "price": 1400,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/pcb-push-button.png",
     "particulars": [
       "1 No PCB Pushbutton"
     ],
@@ -1023,6 +1457,7 @@
     "category": "Accessories",
     "price": 960,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/two-button-push-button.png",
     "particulars": [
       "1 No Two-Button Pushbutton"
     ],
@@ -1042,6 +1477,7 @@
     "category": "Accessories",
     "price": 15100,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/fingerprint-passwordcard.png",
     "particulars": [
       "1 No Fingerprint, Password & Card Access Reader"
     ],
@@ -1061,6 +1497,7 @@
     "category": "Accessories",
     "price": 4113,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/flash-lamp.png",
     "particulars": [
       "1 No Warning Flash Lamp"
     ],
@@ -1080,6 +1517,7 @@
     "category": "Accessories",
     "price": 3482,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/flash-lamp-orange.png",
     "particulars": [
       "1 No Warning Flash Lamp"
     ],
@@ -1099,6 +1537,7 @@
     "category": "Accessories",
     "price": 2930,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/alarm-lamp.png",
     "particulars": [
       "1 No AC Alarm Flash Lamp"
     ],
@@ -1118,6 +1557,7 @@
     "category": "Accessories",
     "price": 2930,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/alarm-lamp.png",
     "particulars": [
       "1 No DC Alarm Flash Lamp"
     ],
@@ -1137,6 +1577,7 @@
     "category": "Accessories",
     "price": 3990,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/flash-lamp-rectangle.png",
     "particulars": [
       "1 No Flash Lamp"
     ],
@@ -1151,11 +1592,12 @@
   },
   {
     "id": "azsl12aadc",
-    "code": "AZSL12AADC",
+    "code": "AZSL12ADC",
     "name": "Signal Light 24V",
     "category": "Accessories",
     "price": 23921,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/singnal-light.png",
     "particulars": [
       "1 No 24V Signal Light"
     ],
@@ -1175,6 +1617,7 @@
     "category": "Accessories",
     "price": 29900,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/singnal-light.png",
     "particulars": [
       "1 No 230V Signal Light"
     ],
@@ -1194,6 +1637,7 @@
     "category": "Accessories",
     "price": 15100,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/electric-bottom-lock.png",
     "particulars": [
       "1 No Electronic Bottom Lock for Gates"
     ],
@@ -1213,6 +1657,7 @@
     "category": "Accessories",
     "price": 18090,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/electronic-center-lock.png",
     "particulars": [
       "1 No Electronic Center Lock for Gates"
     ],
@@ -1232,6 +1677,7 @@
     "category": "Accessories",
     "price": 21111,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/controller-suitable-for-ac.png",
     "particulars": [
       "1 No AC Controller Board (AZSW112, AZSW107)"
     ],
@@ -1251,6 +1697,7 @@
     "category": "Accessories",
     "price": 24125,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/controller-suitable-for-ac.png",
     "particulars": [
       "1 No Controller Board (106-2.5, 106-3)"
     ],
@@ -1270,6 +1717,7 @@
     "category": "Accessories",
     "price": 24125,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/controller-suitable-dark.png",
     "particulars": [
       "1 No Controller Board (AZSW110A)"
     ],
@@ -1289,6 +1737,7 @@
     "category": "Accessories",
     "price": 24125,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/controller-suitable-dark.png",
     "particulars": [
       "Transformer AZSWRTT 304",
       "PCB AZSWPCB580C",
@@ -1312,6 +1761,7 @@
     "category": "Accessories",
     "price": 24125,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/controller-suitable-dark.png",
     "particulars": [
       "Transformer AZSWRTT 304A",
       "PCB AZSWPCB580C",
@@ -1335,6 +1785,7 @@
     "category": "Accessories",
     "price": 24625,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/controller-suitable-dark.png",
     "particulars": [
       "Transformer AZSWRTT 305",
       "PCB AZSWDPCB228",
@@ -1358,6 +1809,7 @@
     "category": "Accessories",
     "price": 20657,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/controller-suitable-dark.png",
     "particulars": [
       "Transformer AZSWRTT 305B",
       "PCB AZSWPCB107B",
@@ -1381,6 +1833,7 @@
     "category": "Accessories",
     "price": 11500,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/pcb-only.png",
     "particulars": [
       "1 No PCB Board for AZSW600"
     ],
@@ -1400,6 +1853,7 @@
     "category": "Accessories",
     "price": 7900,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/smps.png",
     "particulars": [
       "1 No SMPS Power Supply for AZSW600"
     ],
@@ -1419,6 +1873,7 @@
     "category": "Accessories",
     "price": 12062,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/pcb-only-digital-board.png",
     "particulars": [
       "1 No Digital Board ID200 for (106-2.5, 106-3)"
     ],
@@ -1438,6 +1893,7 @@
     "category": "Accessories",
     "price": 12490,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/pcb-only-2.png",
     "particulars": [
       "1 No PCB Board for (108A, 108B, 110A)"
     ],
@@ -1457,6 +1913,7 @@
     "category": "Accessories",
     "price": 12562,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/pcb-only-analog-board.png",
     "particulars": [
       "1 No DC Analog Board T90 for 109A"
     ],
@@ -1476,6 +1933,7 @@
     "category": "Accessories",
     "price": 16500,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/pcb-only-ac.png",
     "particulars": [
       "1 No AC PCB Board for (112, 107)"
     ],
@@ -1495,6 +1953,7 @@
     "category": "Accessories",
     "price": 13393,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/pcb-only-k280.png",
     "particulars": [
       "1 No PCB Board K280 for 107B"
     ],
@@ -1514,6 +1973,7 @@
     "category": "Accessories",
     "price": 4500,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/pedestrian-control-board.png",
     "particulars": [
       "1 No Pedestrian Control Board (PCB) for AZSW111PGO"
     ],
@@ -1533,6 +1993,7 @@
     "category": "Accessories",
     "price": 1850,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/gate-rubber-stopper.png",
     "particulars": [
       "1 No Gate Rubber Stopper"
     ],
@@ -1552,6 +2013,7 @@
     "category": "Accessories",
     "price": 4086,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/rubber-profile.png",
     "particulars": [
       "1 Meter Rubber Profile (60*40)"
     ],
@@ -1571,6 +2033,7 @@
     "category": "Accessories",
     "price": 2156,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/alumnium-track.png",
     "particulars": [
       "1 No (2m) Aluminium Track (60*40)"
     ],
@@ -1590,6 +2053,7 @@
     "category": "Accessories",
     "price": 3518,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/sensor-tape.png",
     "particulars": [
       "1 Meter Sensor Tape"
     ],
@@ -1609,6 +2073,7 @@
     "category": "Accessories",
     "price": 1135,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/end-plug.png",
     "particulars": [
       "1 Pair End Plug"
     ],
@@ -1628,6 +2093,7 @@
     "category": "Accessories",
     "price": 908,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/end-cap.png",
     "particulars": [
       "1 Pair End Cap"
     ],
@@ -1647,6 +2113,7 @@
     "category": "Accessories",
     "price": 8172,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/safety-sensor-strip.png",
     "particulars": [
       "1 No Safety Edge Sensor Strip"
     ],
@@ -1666,6 +2133,7 @@
     "category": "Accessories",
     "price": 2338,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/rubber-profile.png",
     "particulars": [
       "1 Meter Rubber Profile (40*30)"
     ],
@@ -1685,6 +2153,7 @@
     "category": "Accessories",
     "price": 1589,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/aluminum-track.png",
     "particulars": [
       "1 No (2m/pc) Aluminium Track (40*30)"
     ],
@@ -1704,6 +2173,7 @@
     "category": "Accessories",
     "price": 1135,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/end-piece.png",
     "particulars": [
       "1 Pair End Piece"
     ],
@@ -1712,6 +2182,728 @@
         "title": "PARTICULARS",
         "items": [
           "1 Pair End Piece"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbldctx22",
+    "code": "AZBLDCTX22",
+    "name": "BLDC Transmitter (Suitable for AZBB113, AZBB114, AZBB115, AZBB116)",
+    "category": "Accessories",
+    "price": 2000,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No Transmitter"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Transmitter"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbldctx23",
+    "code": "AZBLDCTX23",
+    "name": "BLDC Transmitter (Suitable for AZBL18, AZBB119, AZBB117B, AZBB115A)",
+    "category": "Accessories",
+    "price": 3100,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No Transmitter"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Transmitter"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azt142",
+    "code": "AZT142",
+    "name": "Transmitter",
+    "category": "Accessories",
+    "price": 2610,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No Transmitter"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Transmitter"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azlb33",
+    "code": "AZLB33",
+    "name": "Loop Detector Single Channel",
+    "category": "Accessories",
+    "price": 4990,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No Single Channel Loop Detector"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Single Channel Loop Detector"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azlb34",
+    "code": "AZLB34",
+    "name": "Loop Detector Double Channel",
+    "category": "Accessories",
+    "price": 11350,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No Double Channel Loop Detector"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Double Channel Loop Detector"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbbvh01",
+    "code": "AZBBVH01",
+    "name": "V-Holder",
+    "category": "Accessories",
+    "price": 4020,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No V-Holder"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No V-Holder"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbbvh01a",
+    "code": "AZBBVH01A",
+    "name": "V-Holder",
+    "category": "Accessories",
+    "price": 5020,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No V-Holder"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No V-Holder"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbbmvh02",
+    "code": "AZBBMVH02",
+    "name": "Boom Barrier Mobile Stand",
+    "category": "Accessories",
+    "price": 1990,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No Mobile Stand"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Mobile Stand"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbt016m",
+    "code": "AZBT016M",
+    "name": "Telescopic Boom 6 Mtr (Suitable for AZBB114, AZBB115)",
+    "category": "Accessories",
+    "price": 14382,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No 6m Telescopic Boom"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No 6m Telescopic Boom"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbt014m",
+    "code": "AZBT014M",
+    "name": "Telescopic Boom 4 Mtr (Suitable for AZBB114, AZBB115)",
+    "category": "Accessories",
+    "price": 10700,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No 4m Telescopic Boom"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No 4m Telescopic Boom"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbf0590d",
+    "code": "AZBF0590D",
+    "name": "Folding Boom 90 Degree 6Mtr (Suitable for AZBB114, AZBB115)",
+    "category": "Accessories",
+    "price": 57400,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No 6m 90° Folding Boom"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No 6m 90° Folding Boom"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbl076m",
+    "code": "AZBL076M",
+    "name": "LED Boom 6Mtr (Suitable for AZBB114, AZBB115)",
+    "category": "Accessories",
+    "price": 36000,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No 6m LED Boom"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No 6m LED Boom"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azba04",
+    "code": "AZBA04",
+    "name": "Arm Out Round Boom 4Mtr (Suitable for AZBB114, AZBB115)",
+    "category": "Accessories",
+    "price": 17900,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No 4m Round Boom"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No 4m Round Boom"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbf034-5m",
+    "code": "AZBF034.5M",
+    "name": "Fence Boom 4.5Mtr (Suitable for AZBB114, AZBB115)",
+    "category": "Accessories",
+    "price": 43800,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No 4.5m Fence Boom"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No 4.5m Fence Boom"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbf036m",
+    "code": "AZBF036M",
+    "name": "Fence Boom 6Mtr (Suitable for AZBB114, AZBB115)",
+    "category": "Accessories",
+    "price": 58200,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No 6m Fence Boom"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No 6m Fence Boom"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbbldccb730",
+    "code": "AZBBLDCCB730",
+    "name": "BLDC Control Board (Suitable for AZBB113)",
+    "category": "Accessories",
+    "price": 15900,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No Control Board"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Control Board"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbbldccb704",
+    "code": "AZBBLDCCB704",
+    "name": "BLDC Control Board (Suitable for AZBB114, AZBB115, AZBB116)",
+    "category": "Accessories",
+    "price": 18500,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No Control Board"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Control Board"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbbai606",
+    "code": "AZBBAI606",
+    "name": "Arrow Indication LED Light",
+    "category": "Accessories",
+    "price": 2230,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No Arrow Indication LED Light"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Arrow Indication LED Light"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbt01a6m",
+    "code": "AZBT01A6M",
+    "name": "Telescopic Boom 6 Mtr (Suitable for AZBBL18, AZBB115A)",
+    "category": "Accessories",
+    "price": 24800,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No 6m Telescopic Boom"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No 6m Telescopic Boom"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbl07a6m",
+    "code": "AZBL07A6M",
+    "name": "LED Boom 6Mtr (Suitable for AZBBL18, AZBB115A)",
+    "category": "Accessories",
+    "price": 39500,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No 6m LED Boom"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No 6m LED Boom"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbf03a4-5m",
+    "code": "AZBF03A4.5M",
+    "name": "Two Fence Boom 4.5 Mtr (Suitable for AZBBL18, AZBB115A)",
+    "category": "Accessories",
+    "price": 43800,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No 4.5m Two Fence Boom"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No 4.5m Two Fence Boom"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbf05a90d",
+    "code": "AZBF05A90D",
+    "name": "Folding Boom 90 Degree 4Mtr (Suitable for AZBBL18, AZBB115A)",
+    "category": "Accessories",
+    "price": 46800,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No 4m 90° Folding Boom"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No 4m 90° Folding Boom"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbf10a180d",
+    "code": "AZBF10A180D",
+    "name": "Folding Boom 180 Degree 4Mtr (Suitable for AZBBL18, AZBB115A)",
+    "category": "Accessories",
+    "price": 48200,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No 4m 180° Folding Boom"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No 4m 180° Folding Boom"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbt088m",
+    "code": "AZBT088M",
+    "name": "Telescopic Boom 8M (7+1) (Suitable for AZBBL119)",
+    "category": "Accessories",
+    "price": 38800,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No 8m Telescopic Boom"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No 8m Telescopic Boom"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azba09a",
+    "code": "AZBA09A",
+    "name": "Advertisement Boom 2.8 Mtr (Suitable for AZBBA117B)",
+    "category": "Accessories",
+    "price": 89700,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No 2.8m Advertisement Boom"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No 2.8m Advertisement Boom"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azba06a",
+    "code": "AZBA06A",
+    "name": "Arm Out Square Boom 6Mtr (Suitable for AZBBL18)",
+    "category": "Accessories",
+    "price": 25500,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No 6m Square Boom"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No 6m Square Boom"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbbcbns03",
+    "code": "AZBBCBNS03",
+    "name": "Controller (Suitable for AZBBL18, AZBB117B)",
+    "category": "Accessories",
+    "price": 21200,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No Controller"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Controller"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbbcbns04",
+    "code": "AZBBCBNS04",
+    "name": "Controller (Suitable for AZBB119)",
+    "category": "Accessories",
+    "price": 35866,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No Controller"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Controller"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbbcbns05",
+    "code": "AZBBCBNS05",
+    "name": "Controller (Suitable for AZBB115A)",
+    "category": "Accessories",
+    "price": 21200,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No Controller"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Controller"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbbaom01",
+    "code": "AZBBAOM01",
+    "name": "Power Failure Auto Opening Module (Suitable for AZBB115A, AZBBL18, AZBB119)",
+    "category": "Accessories",
+    "price": 17500,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No Auto Opening Module"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Auto Opening Module"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbbbm19",
+    "code": "AZBBBM19",
+    "name": "Battery Backup Module (Suitable for AZBB115A, AZBBL18)",
+    "category": "Accessories",
+    "price": 6200,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No Battery Backup Module"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Battery Backup Module"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbbps708",
+    "code": "AZBBPS708",
+    "name": "Power Supply 24V 8A (Suitable for AZBBL18)",
+    "category": "Accessories",
+    "price": 6900,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No 24V 8A Power Supply"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No 24V 8A Power Supply"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbbps720",
+    "code": "AZBBPS720",
+    "name": "Power Supply 24V 20.8A (Suitable for AZBB117B)",
+    "category": "Accessories",
+    "price": 7500,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No 24V 20.8A Power Supply"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No 24V 20.8A Power Supply"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbbps709",
+    "code": "AZBBPS709",
+    "name": "Power Supply for LED 12V 15A (Suitable for AZBB117B)",
+    "category": "Accessories",
+    "price": 6900,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No 12V 15A Power Supply"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No 12V 15A Power Supply"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbbps710",
+    "code": "AZBBPS710",
+    "name": "Power Supply 24V 10A (Suitable for AZBB119)",
+    "category": "Accessories",
+    "price": 7500,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No 24V 10A Power Supply"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No 24V 10A Power Supply"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbbleds20",
+    "code": "AZBBLEDS20",
+    "name": "LED Strip 6 Meter",
+    "category": "Accessories",
+    "price": 10450,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "6 Mtr (1 No) LED Strip"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "6 Mtr (1 No) LED Strip"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbted21",
+    "code": "AZBTED21",
+    "name": "Edge Rubber (Suitable for AZBT01A6M, AZBT088M, AZBA06A)",
+    "category": "Accessories",
+    "price": 4450,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "3 Mtr Edge Rubber"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "3 Mtr Edge Rubber"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azbbssb01",
+    "code": "AZBBSSB01",
+    "name": "Stop Sign Board",
+    "category": "Accessories",
+    "price": 450,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No Stop Sign Board"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Stop Sign Board"
         ]
       }
     ]
