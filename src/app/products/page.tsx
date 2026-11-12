@@ -1,8 +1,24 @@
 "use client";
 
 import { useState } from "react";
-import { products } from "@/data/products";
+import { products, Product } from "@/data/products";
+import ProductAccordion from "@/components/ProductAccordion";
 import Link from "next/link";
+
+function getProductTag(product: Product): string {
+  if (product.tag) return product.tag;
+  if (product.series) return product.series;
+  if (product.name.includes(" - ")) {
+    return product.name.split(" - ")[0].trim();
+  }
+  if (product.name.startsWith("BOLT-")) {
+    return "BOLT";
+  }
+  if (product.category === "Accessories") {
+    return "ACCESSORY";
+  }
+  return product.name.split(" ")[0].trim();
+}
 
 export default function ProductsPage() {
   const categories = [
@@ -103,7 +119,7 @@ export default function ProductsPage() {
             {/* Product Grid */}
             <main className="w-full lg:flex-1 min-w-0">
               
-              <div className="flex justify-between items-center mb-6 pb-4 border-b border-gray-200">
+              <div className="flex justify-between items-center mb-6">
                 <h2 className="text-2xl font-bold text-gray-900 font-heading">
                   {selectedCategory}
                 </h2>
@@ -112,20 +128,23 @@ export default function ProductsPage() {
                 </div>
               </div>
               
-              <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
                 {filteredProducts.map((product) => (
-                  <div key={product.id} className="bg-gradient-to-r from-[#ca9740] via-[#fdf0a6] to-[#ca9740] p-[1.5px] rounded-[1.1rem] hover:shadow-[0_20px_50px_rgba(208,163,83,0.3)] transition-all duration-500 transform hover:-translate-y-1 h-full group/wrapper">
-                    <div className="bg-white rounded-2xl overflow-hidden flex flex-col h-full relative group">
+                  <div
+                    key={product.id}
+                    className="bg-gradient-to-r from-[#ca9740]/30 via-[#fdf0a6]/25 to-[#ca9740]/30 p-[1px] rounded-2xl hover:shadow-[0_12px_30px_rgba(208,163,83,0.2)] transition-all duration-300 transform hover:-translate-y-1 h-full flex flex-col group/wrapper"
+                  >
+                    <div className="bg-white rounded-[15px] overflow-hidden flex flex-col h-full relative group">
                       
-                      {/* Image Area */}
-                      <div className="w-full aspect-[4/3] bg-[#f9f8f4] relative flex items-center justify-center border-b border-gray-100 overflow-hidden">
-                        {product.isFeatured && (
-                          <div className="absolute top-3 left-3 bg-gradient-to-r from-red-600 to-red-500 text-white text-[0.6rem] font-bold px-3 py-1 rounded-full shadow-lg z-10 uppercase tracking-widest">
-                            Featured
-                          </div>
-                        )}
+                      {/* Image Area - Pure White Background with centered object-contain */}
+                      <div className="w-full aspect-[16/10] bg-white relative flex items-center justify-center border-b border-gray-100 overflow-hidden pt-9 pb-3 px-4">
+                        {/* Top-Left Series Tag (QUIK, ICON, etc.) */}
+                        <div className="absolute top-2.5 left-2.5 bg-[#0c121e]/90 backdrop-blur-sm text-[#d0a353] text-[0.62rem] font-bold tracking-widest uppercase px-2.5 py-1 rounded-full shadow-sm border border-[#d0a353]/35 z-20">
+                          {getProductTag(product)}
+                        </div>
                         
-                        <div className="absolute top-3 right-3 bg-white/90 backdrop-blur-sm text-[#0c121e] text-[0.6rem] font-bold tracking-widest uppercase px-3 py-1.5 rounded-full shadow-sm border border-gray-200/50 z-20">
+                        {/* Top-Right Code Badge */}
+                        <div className="absolute top-2.5 right-2.5 bg-gray-100 text-gray-800 text-[0.6rem] font-mono font-bold tracking-wider px-2.5 py-1 rounded-full shadow-sm border border-gray-200 z-20">
                           {product.code}
                         </div>
 
@@ -133,46 +152,76 @@ export default function ProductsPage() {
                           <img
                             src={product.image}
                             alt={product.name}
-                            className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 ease-in-out"
+                            className="max-h-full max-w-full w-auto h-auto object-contain object-center m-auto group-hover:scale-105 transition-transform duration-500 ease-in-out"
                           />
                         ) : (
-                          <i className="fas fa-box text-gray-300 text-5xl group-hover:scale-105 transition-transform duration-500"></i>
+                          <i className="fas fa-box text-gray-300 text-4xl group-hover:scale-105 transition-transform duration-300 m-auto"></i>
                         )}
                       </div>
                       
-                      {/* Content Area */}
-                      <div className="p-5 flex flex-col flex-grow relative bg-white">
+                      {/* Content Area - Compact Padding */}
+                      <div className="p-4 flex flex-col flex-grow relative bg-white">
                         
-                        <div className="flex justify-between items-start gap-3 mb-4 flex-grow">
-                          <h3 className="text-[0.95rem] font-bold text-[#0c121e] leading-snug group-hover:text-[#d0a353] transition-colors truncate pt-1" style={{ fontFamily: "var(--font-heading)" }}>
-                            {product.name}
-                          </h3>
-                          
-                          <div className="relative group/tooltip shrink-0 z-20">
-                              <div className="cursor-help bg-[#fdfcf9] w-7 h-7 rounded-full flex items-center justify-center border border-[#d0a353]/30 shadow-sm group-hover/tooltip:bg-[#d0a353] group-hover/tooltip:text-white transition-colors text-[#d0a353]">
-                                <i className="fas fa-info text-[10px] transition-colors"></i>
-                              </div>
-                              
-                              <div className="absolute bottom-full right-0 mb-2 w-56 p-3 bg-[#0c121e] text-white text-[0.7rem] leading-relaxed rounded-lg shadow-xl opacity-0 group-hover/tooltip:opacity-100 transition-opacity duration-300 pointer-events-none border border-white/10">
-                                <div className="font-bold text-[#d0a353] mb-1 uppercase tracking-widest text-[0.6rem]">Specifications</div>
-                                {product.particulars || "Standard configuration. Contact us for detailed specifications."}
-                                <div className="absolute top-full right-2 border-4 border-transparent border-t-[#0c121e]"></div>
-                              </div>
-                          </div>
-                        </div>
-                        
-                        <div className="mt-auto pt-4 border-t border-gray-100 flex items-center justify-between gap-2">
-                          <div className="flex flex-col min-w-0">
-                            <span className="text-[0.6rem] font-bold text-gray-400 uppercase tracking-widest mb-0.5">Price</span>
-                            <span className="text-[#0c121e] font-bold text-[0.8rem] truncate">Quote Req.</span>
-                          </div>
-                          <Link
-                            href={`/contact?product=${product.code}`}
-                            className="shrink-0 bg-gradient-to-r from-[#ca9740] to-[#dfb45e] hover:from-[#b58635] hover:to-[#ca9740] text-[#0c121e] text-[0.65rem] font-bold uppercase tracking-wider px-4 py-2 rounded-lg transition-all shadow-[0_4px_10px_rgba(208,163,83,0.3)] hover:shadow-[0_6px_15px_rgba(208,163,83,0.4)] hover:-translate-y-0.5 flex items-center gap-1.5"
-                          >
-                            Request <i className="fas fa-arrow-right text-[0.5rem]"></i>
+                        {/* Category Label */}
+                        <span className="text-[0.6rem] font-bold text-[#ca9740] uppercase tracking-wider block mb-1">
+                          {product.category}
+                        </span>
+
+                        {/* Title - strictly one line */}
+                        <div className="mb-2.5">
+                          <Link href={`/products/${product.id}`} className="group/title block" title={product.name}>
+                            <h3
+                              className="text-[0.92rem] font-bold text-[#0c121e] leading-snug group-hover/title:text-[#ca9740] transition-colors truncate font-heading"
+                            >
+                              {product.name}
+                            </h3>
                           </Link>
                         </div>
+
+                        {/* Price & Tax UI - Clean Seamless Typography */}
+                        <div className="mb-3.5 pb-2.5 border-b border-gray-100 flex items-baseline justify-between gap-2">
+                          <div>
+                            <span className="text-[0.55rem] font-bold uppercase tracking-widest text-gray-400 block mb-0.5 font-heading">
+                              List Price
+                            </span>
+                            <div className="flex items-baseline gap-2">
+                              <span className="text-xl sm:text-2xl font-black text-gray-900 font-heading tracking-tight leading-none">
+                                {typeof product.price === "number" ? `₹${product.price.toLocaleString("en-IN")}` : (product.price || "Quote Req.")}
+                              </span>
+                              {product.priceNote && (
+                                <span className="text-[0.65rem] font-bold text-[#b5852f] tracking-wide uppercase">
+                                  ({product.priceNote.replace(/^LIST\s*PRICE\s*\+?\s*/i, "+").trim()})
+                                </span>
+                              )}
+                            </div>
+                          </div>
+                        </div>
+
+                        {/* Accordion (Default Closed) */}
+                        <div className="mb-3 flex-grow">
+                          <ProductAccordion
+                            sections={product.accordions}
+                            particulars={product.particulars}
+                            defaultOpenIndex={null}
+                          />
+                        </div>
+                        
+                        {/* Compact CTA Button */}
+                        <div className="mt-auto pt-2.5 border-t border-gray-100">
+                          <Link
+                            href={`/contact?product=${encodeURIComponent(product.code)}`}
+                            className="w-full group/btn relative flex items-center justify-between px-3.5 py-2.5 rounded-lg border border-[#d0a353]/40 bg-[#fdfcf9] hover:bg-gradient-to-r hover:from-[#ca9740] hover:to-[#dfb45e] text-[#0c121e] hover:text-[#0c121e] font-bold text-[0.7rem] uppercase tracking-wider transition-all duration-200 shadow-sm hover:shadow-md"
+                          >
+                            <span className="flex items-center gap-2">
+                              <i className="fas fa-file-invoice text-[#ca9740] group-hover/btn:text-[#0c121e] transition-colors text-[11px]"></i>
+                              <span>Request Quote & Info</span>
+                            </span>
+                            <span className="w-5 h-5 rounded-full bg-[#d0a353]/20 group-hover/btn:bg-white/50 flex items-center justify-center text-[9px] group-hover/btn:translate-x-0.5 transition-all">
+                              <i className="fas fa-arrow-right"></i>
+                            </span>
+                          </Link>
+                        </div>
+
                       </div>
                     </div>
                   </div>

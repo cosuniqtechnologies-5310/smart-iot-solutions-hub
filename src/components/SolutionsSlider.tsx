@@ -13,6 +13,9 @@ export default function SolutionsSlider({ solutions }: { solutions: any[] }) {
 
     // Triple-copy for seamless looping in both directions
     const loopedSolutions = [...filteredSolutions, ...filteredSolutions, ...filteredSolutions];
+    const CARD_WIDTH = 320; // px per card (300px card + 20px gap)
+    // Exact pixel width of one full copy — used for loop reset boundaries
+    const copyWidth = filteredSolutions.length * CARD_WIDTH;
 
     // Seed scroll to the middle copy on mount and on category change
     useEffect(() => {
@@ -22,11 +25,7 @@ export default function SolutionsSlider({ solutions }: { solutions: any[] }) {
         el.style.scrollBehavior = 'auto';
         el.scrollLeft = filteredSolutions.length * CARD_WIDTH;
         el.style.scrollBehavior = '';
-    }, [activeCategory, solutions]);
-
-    const CARD_WIDTH = 320; // px per card (300px card + 20px gap)
-    // Exact pixel width of one full copy — used for loop reset boundaries
-    const copyWidth = filteredSolutions.length * CARD_WIDTH;
+    }, [activeCategory, solutions, filteredSolutions.length, CARD_WIDTH]);
 
     const scrollLeft = () => {
         const el = sliderRef.current;

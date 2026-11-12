@@ -1,1157 +1,1783 @@
 [
-    {
-        "code":  "DS-RFT-1N",
-        "name":  "ZigBee 1 Node Heavy Duty Retrofit switch module 5000W",
-        "id":  "sh-64b583b0",
-        "particulars":  "",
-        "category":  "Switches \u0026 Controls"
-    },
-    {
-        "code":  "DS-RFT-2N",
-        "name":  "ZigBee 2 Node Heavy Duty Retrofit switch module 1500W",
-        "id":  "sh-b447d2c9",
-        "particulars":  "",
-        "category":  "Switches \u0026 Controls"
-    },
-    {
-        "code":  "DS-RFT-3N",
-        "name":  "ZigBee 3 Node Heavy Duty Retrofit switch module 800W",
-        "id":  "sh-f798c1fe",
-        "particulars":  "",
-        "category":  "Switches \u0026 Controls"
-    },
-    {
-        "code":  "DS-RFT-4N",
-        "name":  "ZigBee 4 Node Heavy Duty Retrofit switch module 800W",
-        "id":  "sh-c75001bb",
-        "particulars":  "",
-        "category":  "Switches \u0026 Controls"
-    },
-    {
-        "code":  "DS-RFT-CRT",
-        "name":  "ZigBee Retrofit In-Wall 1 Node Curtain module 3A",
-        "id":  "sh-2a6303c4",
-        "particulars":  "",
-        "category":  "Smart Curtains"
-    },
-    {
-        "code":  "DS-RFT-2CRT",
-        "name":  "ZigBee Retrofit In-Wall 2 Node Curtain module 3A",
-        "id":  "sh-d84280d4",
-        "particulars":  "",
-        "category":  "Smart Curtains"
-    },
-    {
-        "code":  "DS-RFT-3N+1F",
-        "name":  "ZigBee Retrofit In-Wall 3 Node 800W Relay + 1 FAN 150W AC",
-        "id":  "sh-50c4d04d",
-        "particulars":  "",
-        "category":  "Accessories"
-    },
-    {
-        "code":  "DS-GAT-1MM",
-        "name":  "Dsmartz Socket Fits Wireless Compact ZigBee Gateway",
-        "id":  "sh-31543173",
-        "particulars":  "",
-        "category":  "Switches \u0026 Controls"
-    },
-    {
-        "code":  "DS-GAT-1MWG",
-        "name":  "Wired Apple Homekit \u0026 Matter Supported Zigbee Gateway",
-        "id":  "sh-9771b0c5",
-        "particulars":  "",
-        "category":  "Smart Curtains"
-    },
-    {
-        "code":  "DS-GAT-1WMMG",
-        "name":  "250m Outdoor Pro Wired Dual Zigbee Gateway",
-        "id":  "sh-ff2c4b24",
-        "particulars":  "",
-        "category":  "Smart Curtains"
-    },
-    {
-        "code":  "DS-GAT-1R",
-        "name":  "ZigBee Signal Repeater",
-        "id":  "sh-895b76c8",
-        "particulars":  "",
-        "category":  "Gateways \u0026 Controllers"
-    },
-    {
-        "code":  "DS-CPS-3.5INCH",
-        "name":  "Dsmartz Touch Screen Panel In build Gateway 3.5 Inch",
-        "id":  "sh-e01786dc",
-        "particulars":  "",
-        "category":  "Smart Curtains"
-    },
-    {
-        "code":  "DS-CPS-4INCH",
-        "name":  "Dsmartz Touch Screen Panel In build Gateway 4 Inch",
-        "id":  "sh-5f55262d",
-        "particulars":  "",
-        "category":  "Smart Curtains"
-    },
-    {
-        "code":  "DS-CPS-8INCH",
-        "name":  "Dsmartz Touch Screen Panel In build Gateway 8 Inch",
-        "id":  "sh-cdca19e7",
-        "particulars":  "",
-        "category":  "Smart Curtains"
-    },
-    {
-        "code":  "DS-CPS-10INCH",
-        "name":  "Dsmartz Touch Screen Panel In build Gateway 10 Inch",
-        "id":  "sh-202ad76e",
-        "particulars":  "",
-        "category":  "Smart Curtains"
-    },
-    {
-        "code":  "DS-UIR-01",
-        "name":  "ZigBee Universal IR Smart Remote Control",
-        "id":  "sh-140cbdb1",
-        "particulars":  "",
-        "category":  "Gateways \u0026 Controllers"
-    },
-    {
-        "code":  "DS-UIR-02",
-        "name":  "WiFi Universal IR Smart Remote Control",
-        "id":  "sh-f7334ea3",
-        "particulars":  "",
-        "category":  "Gateways \u0026 Controllers"
-    },
-    {
-        "code":  "DS-WMS-12SW",
-        "name":  "Wireless ZigBee 4 Button",
-        "id":  "sh-b954e283",
-        "particulars":  "",
-        "category":  "Accessories"
-    },
-    {
-        "code":  "DS-WMS-18SW",
-        "name":  "Wireless ZigBee 6 Button",
-        "id":  "sh-fc5e1543",
-        "particulars":  "",
-        "category":  "Accessories"
-    },
-    {
-        "code":  "DS-ROT-02",
-        "name":  "Dsmartz ZigBee Wireless Rotary Knob",
-        "id":  "sh-3197720d",
-        "particulars":  "",
-        "category":  "Accessories"
-    },
-    {
-        "code":  "DS-ZLD-812",
-        "name":  "8W-12W ZigBee dimmable Led Downlight Driver",
-        "id":  "sh-7a4d50f3",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-ZLD-1218",
-        "name":  "12W-18W ZigBee dimmable Led Downlight Driver",
-        "id":  "sh-33226d33",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-ZLD-715",
-        "name":  "7W-15W Zigbee dimmable Led Downlight Driver",
-        "id":  "sh-e076750d",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-ZLD-1624",
-        "name":  "16W-24W Zigbee dimmable Led Downlight Driver",
-        "id":  "sh-a71bbba2",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-ZSD-2CH16A",
-        "name":  "Constant Voltage ZigBee Smart dimmable Strip Driver",
-        "id":  "sh-0cad3668",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-ZSD-5CH16A",
-        "name":  "Constant Voltage ZigBee RGB+CCT Strip Driver",
-        "id":  "sh-3cae9c02",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-PL-CCTDS12",
-        "name":  "Deep Square panel 12W",
-        "id":  "sh-2971d3e6",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-PL-CCTDS18",
-        "name":  "Deep Square panel 18W",
-        "id":  "sh-0736a080",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-PL-CCTDR12",
-        "name":  "Deep Round panel 12W",
-        "id":  "sh-2051f5be",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-PL-CCTDR18",
-        "name":  "Deep Round panel 18W",
-        "id":  "sh-b7089838",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB1",
-        "name":  "Glowria 12W",
-        "id":  "sh-c0707919",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB2",
-        "name":  "Glowria 18W",
-        "id":  "sh-667441dc",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB3",
-        "name":  "Spectra Down 12W",
-        "id":  "sh-6b12df27",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB4",
-        "name":  "Spectra Down 18W",
-        "id":  "sh-5d71726d",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB5",
-        "name":  "ZigBee 16W Glow Fall Surface Down Light",
-        "id":  "sh-ce7a91a9",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB6",
-        "name":  "ZigBee 12w Luma Drop Surface Down Light",
-        "id":  "sh-c3f97630",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB7",
-        "name":  "ZigBee 18w Luma Drop Surface Down Light",
-        "id":  "sh-0c9b0f32",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB8",
-        "name":  "SURFACE CYLINDER 12W",
-        "id":  "sh-6f8dd468",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB9",
-        "name":  "SURFACE CYLINDER 18W",
-        "id":  "sh-833cfda8",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB10",
-        "name":  "SURFACE ANGLE MOVABLE CYLINDER 12W",
-        "id":  "sh-c2da44c5",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB11",
-        "name":  "Lux Ease 12W",
-        "id":  "sh-3e41a124",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB12",
-        "name":  "Lux Ease 24W",
-        "id":  "sh-94aab2ec",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB13",
-        "name":  "Eye Zen 12W",
-        "id":  "sh-a1e95ec7",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB14",
-        "name":  "Eye Zen 24W",
-        "id":  "sh-b1382307",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB15",
-        "name":  "Vision Safe 12W",
-        "id":  "sh-5f9825c2",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB16",
-        "name":  "Nimbus 12W",
-        "id":  "sh-c6ef22d9",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB17",
-        "name":  "Glare Guard 12W",
-        "id":  "sh-580f875e",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB18",
-        "name":  "Glare Guard 24W",
-        "id":  "sh-05c8d253",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB19",
-        "name":  "Prism 12W",
-        "id":  "sh-13363a08",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB20",
-        "name":  "Prism 18W",
-        "id":  "sh-7e2f59d0",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB21",
-        "name":  "Glintless 12W",
-        "id":  "sh-c8bbf247",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB22",
-        "name":  "ORA 12W",
-        "id":  "sh-e60377ce",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB23",
-        "name":  "ORA 18W",
-        "id":  "sh-d36d89e5",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB24",
-        "name":  "RAY 12W",
-        "id":  "sh-b366f27f",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB25",
-        "name":  "Glow Lust 12W",
-        "id":  "sh-8035717d",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB26",
-        "name":  "Glow Lust 18W",
-        "id":  "sh-a3a6d12f",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB27",
-        "name":  "GLEAM 12W",
-        "id":  "sh-448b9c40",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB28",
-        "name":  "GLEAM 18W",
-        "id":  "sh-6941dd44",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB29",
-        "name":  "GLEAM 12W Gun Metal",
-        "id":  "sh-cb9b27b2",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB30",
-        "name":  "GLEAM 18W Gun Metal",
-        "id":  "sh-81544dd0",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB31",
-        "name":  "Deepcone pro 7W",
-        "id":  "sh-571edd8e",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB32",
-        "name":  "Deepcone pro 12W",
-        "id":  "sh-a59b3466",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB33",
-        "name":  "Deepcone pro 18W",
-        "id":  "sh-d52ac22e",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB34",
-        "name":  "DAZZEL 12W",
-        "id":  "sh-c803b5f5",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB35",
-        "name":  "DAZZEL 18W",
-        "id":  "sh-798afc2c",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB36",
-        "name":  "SPARKLE 12W",
-        "id":  "sh-a6c5a2c9",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB37",
-        "name":  "SPARKLE 18W",
-        "id":  "sh-a67e6ccd",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB38",
-        "name":  "Dimora 12W",
-        "id":  "sh-8f2df5c2",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB39",
-        "name":  "Softspill 7W",
-        "id":  "sh-1dc6bf65",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB40",
-        "name":  "Softspill 12W",
-        "id":  "sh-405884b0",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB41",
-        "name":  "Glow Max 12W",
-        "id":  "sh-dc1226f8",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB42",
-        "name":  "Trim Glow Trimless 7W",
-        "id":  "sh-eee9d177",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB43",
-        "name":  "Trim Glow Trimless 12W",
-        "id":  "sh-dacbd36a",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB44",
-        "name":  "ULTRA LOW 12W",
-        "id":  "sh-5a2d89c5",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB45",
-        "name":  "Glanza Curve 7W",
-        "id":  "sh-6500ee6b",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB46",
-        "name":  "Glanza Curve 12W",
-        "id":  "sh-0dba0413",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB47",
-        "name":  "Glanza Curve 18W",
-        "id":  "sh-a316c3fd",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB48",
-        "name":  "Jett Square 12W",
-        "id":  "sh-eba9edae",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB49",
-        "name":  "Low Dapper 12W",
-        "id":  "sh-ca3d556b",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB50",
-        "name":  "Extra Cone 12W",
-        "id":  "sh-bcefe75e",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB51",
-        "name":  "Dapper 7W",
-        "id":  "sh-2fdf7630",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB52",
-        "name":  "Dapper 12W",
-        "id":  "sh-ad37da06",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB53",
-        "name":  "Dapper 18W",
-        "id":  "sh-83454f36",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB54",
-        "name":  "Dapper Plus 12W",
-        "id":  "sh-9e5f9bee",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB55",
-        "name":  "Jett Spot 7W",
-        "id":  "sh-95ab143d",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB56",
-        "name":  "Jett Spot 12W",
-        "id":  "sh-ecda82b9",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB57",
-        "name":  "Deep Cone 7W",
-        "id":  "sh-9c78f230",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB58",
-        "name":  "Deep Cone 12W",
-        "id":  "sh-295ce972",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB59",
-        "name":  "Sigma Spot 12W",
-        "id":  "sh-675fe769",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB60",
-        "name":  "Flex Beam 12W",
-        "id":  "sh-54804d67",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB61",
-        "name":  "Insta Glow 7W",
-        "id":  "sh-534140a9",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB62",
-        "name":  "Insta Glow 12W",
-        "id":  "sh-3b443742",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB63",
-        "name":  "Insta Glow 18W",
-        "id":  "sh-7925e21a",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB64",
-        "name":  "Sharp Beam 7W",
-        "id":  "sh-5f0e91ff",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB65",
-        "name":  "Sharp Beam 12W",
-        "id":  "sh-47c93f72",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB66",
-        "name":  "Sharp Beam 18W",
-        "id":  "sh-34d0cde8",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB67",
-        "name":  "Prism Pro 12W With Honeycomb Filter",
-        "id":  "sh-40f6f2cd",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB68",
-        "name":  "Prism Pro 18W With Honeycomb Filter",
-        "id":  "sh-92858b07",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB69",
-        "name":  "Value COB 7W",
-        "id":  "sh-ea99c09e",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB70",
-        "name":  "Value COB 12W",
-        "id":  "sh-01cba25e",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB71",
-        "name":  "Value COB 18W",
-        "id":  "sh-df5e95b4",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB72",
-        "name":  "LUMINEX 12W",
-        "id":  "sh-2ca517a6",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB73",
-        "name":  "AuraGlow 12W",
-        "id":  "sh-0fae65d3",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB74",
-        "name":  "AuraGlow 12W",
-        "id":  "sh-3f6ace2f",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB75",
-        "name":  "AURA Pullout 12W",
-        "id":  "sh-8e23abdb",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB76",
-        "name":  "AURA Pullout 2 * 12W",
-        "id":  "sh-79a07921",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB77",
-        "name":  "Spot Lux 12W",
-        "id":  "sh-d9a3e541",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB78",
-        "name":  "Bright Pin 12W",
-        "id":  "sh-30aa5ecd",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB79",
-        "name":  "Vision pro 12W",
-        "id":  "sh-f5b3e7c9",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB80",
-        "name":  "Spot Flair 12W",
-        "id":  "sh-11b5a9cc",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB81",
-        "name":  "Vision Curve 12W",
-        "id":  "sh-b59f3e3e",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB82",
-        "name":  "Glide Trimless 7W",
-        "id":  "sh-eaebf593",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB83",
-        "name":  "Glide Trimless 12W",
-        "id":  "sh-b83a3a23",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB84",
-        "name":  "Glide Trimless 18W",
-        "id":  "sh-1811c371",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB85",
-        "name":  "Dot Curve 12W",
-        "id":  "sh-d6017fbb",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB86",
-        "name":  "Spot Dot 12W",
-        "id":  "sh-1e97e97c",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB87",
-        "name":  "Pin Point 7W",
-        "id":  "sh-c44fad0f",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB88",
-        "name":  "Flex Pin 7W",
-        "id":  "sh-b5dc091c",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB89",
-        "name":  "Glint Dot 12W",
-        "id":  "sh-069bd1bf",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB90",
-        "name":  "Pixel 7W",
-        "id":  "sh-e457bdf2",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB91",
-        "name":  "Linea Glow 10W",
-        "id":  "sh-43f39e24",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB92",
-        "name":  "Luma Line 15W",
-        "id":  "sh-198683fe",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB93",
-        "name":  "Glimmer 10W",
-        "id":  "sh-060b5188",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB94",
-        "name":  "Seam Line Trimeless 10W",
-        "id":  "sh-2d8017c8",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB95",
-        "name":  "Mini Laser Blade 10W",
-        "id":  "sh-5623af23",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CCTDIM-COB96",
-        "name":  "Mini Laser Blade 15W",
-        "id":  "sh-13c5fdaa",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CURM-1.2Z",
-        "name":  "ZigBee 1.2N.M Slidder Curtain Motor",
-        "id":  "sh-4afeb3a2",
-        "particulars":  "",
-        "category":  "Smart Curtains"
-    },
-    {
-        "code":  "DS-ECMT-10F",
-        "name":  "10 feet Expandable Curtain Center Opening Track Set",
-        "id":  "sh-ffc12e3b",
-        "particulars":  "",
-        "category":  "Smart Curtains"
-    },
-    {
-        "code":  "DS-ECMT-15F",
-        "name":  "15 feet Expandable Curtain Center Opening Track Set",
-        "id":  "sh-b7e78ce9",
-        "particulars":  "",
-        "category":  "Smart Curtains"
-    },
-    {
-        "code":  "DS-CMT-1F01",
-        "name":  "Customized Size Curtain Track Set",
-        "id":  "sh-ffdb8137",
-        "particulars":  "",
-        "category":  "Smart Curtains"
-    },
-    {
-        "code":  "DS-CMR-2CH",
-        "name":  "Curtain Motor Remote 2 Channel",
-        "id":  "sh-806d32f1",
-        "particulars":  "",
-        "category":  "Smart Curtains"
-    },
-    {
-        "code":  "DS-DL-B1",
-        "name":  "Edition B1 Smart Biometric Door Lock",
-        "id":  "sh-919bf376",
-        "particulars":  "",
-        "category":  "Smart Curtains"
-    },
-    {
-        "code":  "DS-DL-B2",
-        "name":  "Edition B2 Smart Biometric Door Lock",
-        "id":  "sh-3899fa9b",
-        "particulars":  "",
-        "category":  "Smart Curtains"
-    },
-    {
-        "code":  "DS-DL-S1ProBasic",
-        "name":  "Edition 1 Pro Basic Smart Biometric Door Lock",
-        "id":  "sh-6d34b7e6",
-        "particulars":  "",
-        "category":  "Smart Curtains"
-    },
-    {
-        "code":  "DS-DL-S1ProWIFI",
-        "name":  "Edition 1 Pro WiFi Smart Biometric Door Lock",
-        "id":  "sh-0e414455",
-        "particulars":  "",
-        "category":  "Smart Curtains"
-    },
-    {
-        "code":  "DS-DL-S1ProZigBee",
-        "name":  "Edition 1 Pro ZigBee Smart Biometric Door Lock",
-        "id":  "sh-f9c8ab84",
-        "particulars":  "",
-        "category":  "Smart Curtains"
-    },
-    {
-        "code":  "DS-DL-S1ProRXTX",
-        "name":  "Edition 1 Pro With RX-TX Combo Smart Biometric Door Lock",
-        "id":  "sh-6b8aa979",
-        "particulars":  "",
-        "category":  "Smart Curtains"
-    },
-    {
-        "code":  "DS-DL-S1Pro-G-Basic",
-        "name":  "Edition 1 Pro-G Basic Smart Biometric Door Lock",
-        "id":  "sh-2ae94f34",
-        "particulars":  "",
-        "category":  "Smart Curtains"
-    },
-    {
-        "code":  "DS-DL-S1Pro-G-WIFI",
-        "name":  "Edition 1 Pro-G WiFi Smart Biometric Door Lock",
-        "id":  "sh-797b228d",
-        "particulars":  "",
-        "category":  "Smart Curtains"
-    },
-    {
-        "code":  "DS-DL-S1Pro-G-ZigBee",
-        "name":  "Edition 1 Pro-G ZigBee Smart Biometric Door Lock",
-        "id":  "sh-ab84194a",
-        "particulars":  "",
-        "category":  "Smart Curtains"
-    },
-    {
-        "code":  "DS-DL-S1Pro-G-RXTX",
-        "name":  "Edition 1 Pro-G With RX-TX Combo Smart Biometric Door Lock",
-        "id":  "sh-d8e16236",
-        "particulars":  "",
-        "category":  "Smart Curtains"
-    },
-    {
-        "code":  "DS-WDL-S3",
-        "name":  "Edition 3 WiFi Smart Biometric Door Lock",
-        "id":  "sh-1453902f",
-        "particulars":  "",
-        "category":  "Smart Curtains"
-    },
-    {
-        "code":  "DS-ZDL-S3Z",
-        "name":  "Edition 3Z ZigBee Smart Biometric Door Lock",
-        "id":  "sh-705bb829",
-        "particulars":  "",
-        "category":  "Smart Curtains"
-    },
-    {
-        "code":  "DS-ZDL-S3Pro",
-        "name":  "Edition 3 pro WiFi-LE Smart Face Recognition Door Lock",
-        "id":  "sh-d550b0f6",
-        "particulars":  "",
-        "category":  "Smart Curtains"
-    },
-    {
-        "code":  "DS-ZDL-S4Lite",
-        "name":  "Edition 4 Lite WiFi-LE Smart Face Recognition Door Lock",
-        "id":  "sh-3b7fddc4",
-        "particulars":  "",
-        "category":  "Smart Curtains"
-    },
-    {
-        "code":  "DS-ZDL-S4",
-        "name":  "Edition 4 WiFi-LE Smart Face Recognition Door Lock",
-        "id":  "sh-b28e1185",
-        "particulars":  "",
-        "category":  "Smart Curtains"
-    },
-    {
-        "code":  "DS-ZDL-S4Curv",
-        "name":  "Edition 4 Curv WiFi-LE Smart Face Recognition Door Lock",
-        "id":  "sh-e7faa7bc",
-        "particulars":  "",
-        "category":  "Smart Curtains"
-    },
-    {
-        "code":  "DS-WDL-S5",
-        "name":  "Edition 5 WiFi-LE Smart Face Recognition Door Lock",
-        "id":  "sh-015c1464",
-        "particulars":  "",
-        "category":  "Smart Curtains"
-    },
-    {
-        "code":  "DS-WDL-S5Pro",
-        "name":  "Edition 5 Pro WiFi-LE Smart Face Recognition Door Lock",
-        "id":  "sh-6d7edc2b",
-        "particulars":  "",
-        "category":  "Smart Curtains"
-    },
-    {
-        "code":  "DS-WDL-S6",
-        "name":  "Edition 6 WiFi-LE Smart Face Recognition Door Lock",
-        "id":  "sh-36a0bc1f",
-        "particulars":  "",
-        "category":  "Smart Curtains"
-    },
-    {
-        "code":  "DS-WDL-S7",
-        "name":  "Edition 7 WiFi-LE Smart Face Recognition Door Lock",
-        "id":  "sh-1763dce8",
-        "particulars":  "",
-        "category":  "Smart Curtains"
-    },
-    {
-        "code":  "DS-GDL-GS1",
-        "name":  "WiFi Edition G1 Smart Biometric Glass Door Lock",
-        "id":  "sh-40dda2d2",
-        "particulars":  "",
-        "category":  "Smart Curtains"
-    },
-    {
-        "code":  "DS-WD1",
-        "name":  "WD1 Premium Pull Ring Design Fingerprint Smart Lock",
-        "id":  "sh-2c154587",
-        "particulars":  "",
-        "category":  "Smart Locks \u0026 Security"
-    },
-    {
-        "code":  "DS-WD2",
-        "name":  "WD2 Premium Rf ID \u0026 NFC Enabled Hidden Smart Lock",
-        "id":  "sh-3780a2ff",
-        "particulars":  "",
-        "category":  "Smart Locks \u0026 Security"
-    },
-    {
-        "code":  "DS-DB-DC02",
-        "name":  "Smart Battery Powered WiFi Video Doorbell",
-        "id":  "sh-4d5ea084",
-        "particulars":  "",
-        "category":  "Smart Curtains"
-    },
-    {
-        "code":  "DS-CPS-5INCH",
-        "name":  "Dsmartz Touch Screen Panel 5 Inch",
-        "id":  "sh-45b74188",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-CPS-6INCH",
-        "name":  "Dsmartz Touch Screen Panel 6 Inch",
-        "id":  "sh-2325a5cc",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-STAND",
-        "name":  "Rotating Doorlock Stand for Demo-?6,499",
-        "id":  "sh-604869e6",
-        "particulars":  "",
-        "category":  "Smart Curtains"
-    },
-    {
-        "code":  "DS-BATT",
-        "name":  "4200mah Lithium ion Battery Replacement",
-        "id":  "sh-a984131d",
-        "particulars":  "",
-        "category":  "Accessories"
-    },
-    {
-        "code":  "DS-RXTX",
-        "name":  "Rx-Tx Chip Solution",
-        "id":  "sh-8238bc96",
-        "particulars":  "",
-        "category":  "Accessories"
-    },
-    {
-        "code":  "DS-RFID",
-        "name":  "Smart IC Based RFID Card",
-        "id":  "sh-accf2504",
-        "particulars":  "",
-        "category":  "Smart Locks \u0026 Security"
-    },
-    {
-        "code":  "DS-MORTISE",
-        "name":  "Smart Lock Stainless Mortise Door Lock",
-        "id":  "sh-9638b001",
-        "particulars":  "",
-        "category":  "Smart Curtains"
-    },
-    {
-        "code":  "DS-BEZEL",
-        "name":  "Front Face Plate Metal Bezel",
-        "id":  "sh-c3412583",
-        "particulars":  "",
-        "category":  "Accessories"
-    },
-    {
-        "code":  "DS-GLASS",
-        "name":  "Touch panel Extra Glass",
-        "id":  "sh-ba4f15e7",
-        "particulars":  "",
-        "category":  "Lighting"
-    },
-    {
-        "code":  "DS-EXTBEZEL",
-        "name":  "Touch panel Extra Bezel",
-        "id":  "sh-4044341c",
-        "particulars":  "",
-        "category":  "Lighting"
-    }
+  {
+    "id": "azsw600-1-2m",
+    "code": "AZSW600-1.2M",
+    "series": "QUIK",
+    "name": "Single Pedestrian Gate Operator",
+    "category": "Swing Gate Operators",
+    "price": 41200,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/quik-single-pedestrian-gate-operator.jpg",
+    "particulars": [
+      "OPERATOR(AZSW600-1.2M) - 1 NO (INCLUDING +MOUNTING BRACKET Acc)",
+      "SMPS(AZSWSMPS600) - 1 No",
+      "TRANSMITTER(AZT600) - 2 NOS"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "OPERATOR(AZSW600-1.2M) - 1 NO (INCLUDING +MOUNTING BRACKET Acc)",
+          "SMPS(AZSWSMPS600) - 1 No",
+          "TRANSMITTER(AZT600) - 2 NOS"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsw1062-5-250kg-l",
+    "code": "AZSW1062.5/250KG-L",
+    "name": "Swing Gate Single Operator Left DC 2.5 Mtr 250 kg",
+    "category": "Swing Gate Operators",
+    "price": 49678,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/exterior.jpg",
+    "particulars": [
+      "AZSW1062.5/250KG-L - 1 No (Including Mounting bracket Acc)",
+      "Control Panel (AZSW229A) - 1 No",
+      "TRANSMITTER (AZ-T23B) - 2 Nos"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "AZSW1062.5/250KG-L - 1 No (Including Mounting bracket Acc)",
+          "Control Panel (AZSW229A) - 1 No",
+          "TRANSMITTER (AZ-T23B) - 2 Nos"
+        ]
+      }
+    ],
+    "series": "ICON"
+  },
+  {
+    "id": "azsw1063-300kg-l",
+    "code": "AZSW1063/300KG-L",
+    "name": "Swing Gate Single Operator Left DC 3 Mtr 300 kg",
+    "category": "Swing Gate Operators",
+    "price": 51970,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/exterior.jpg",
+    "particulars": [
+      "AZSW1063/300KG-L - 1 No (Including Mounting bracket Acc)",
+      "Control Panel (AZSW229A) - 1 No",
+      "TRANSMITTER (AZ-T23B) - 2 Nos"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "AZSW1063/300KG-L - 1 No (Including Mounting bracket Acc)",
+          "Control Panel (AZSW229A) - 1 No",
+          "TRANSMITTER (AZ-T23B) - 2 Nos"
+        ]
+      }
+    ],
+    "series": "ICON"
+  },
+  {
+    "id": "azsw1062-5-250kg-r",
+    "code": "AZSW1062.5/250KG-R",
+    "name": "Swing Gate Single Operator Right DC 2.5 Mtr 250 kg",
+    "category": "Swing Gate Operators",
+    "price": 49678,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/exterior.jpg",
+    "particulars": [
+      "AZSW1062.5/250KG-R - 1 No (Including Mounting bracket Acc)",
+      "Control Panel (AZSW229A) - 1 No",
+      "TRANSMITTER (AZ-T23B) - 2 Nos"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "AZSW1062.5/250KG-R - 1 No (Including Mounting bracket Acc)",
+          "Control Panel (AZSW229A) - 1 No",
+          "TRANSMITTER (AZ-T23B) - 2 Nos"
+        ]
+      }
+    ],
+    "series": "ICON"
+  },
+  {
+    "id": "azsw1063-300kg-r",
+    "code": "AZSW1063/300KG-R",
+    "name": "Swing Gate Single Operator Right DC 3 Mtr 300 kg",
+    "category": "Swing Gate Operators",
+    "price": 51970,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/exterior.jpg",
+    "particulars": [
+      "AZSW1063/300KG-R - 1 No (Including Mounting bracket Acc)",
+      "Control Panel (AZSW229A) - 1 No",
+      "TRANSMITTER (AZ-T23B) - 2 Nos"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "AZSW1063/300KG-R - 1 No (Including Mounting bracket Acc)",
+          "Control Panel (AZSW229A) - 1 No",
+          "TRANSMITTER (AZ-T23B) - 2 Nos"
+        ]
+      }
+    ],
+    "series": "ICON"
+  },
+  {
+    "id": "azsw110a-300kg-3mtr-1",
+    "code": "AZSW110A/300KG/3MTR/1",
+    "name": "Swing Gate Single Operator DC 3 Mtr 300 kg",
+    "category": "Swing Gate Operators",
+    "price": 52700,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/exterior.jpg",
+    "particulars": [
+      "AZSW110A/300KG/3MTR/1 OPERATOR KIT - 1 No (Including Mounting bracket Acc)",
+      "Control Panel (AZSWDC227A) - 1 No",
+      "TRANSMITTER (AZ-T23B) - 2 Nos"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "AZSW110A/300KG/3MTR/1 OPERATOR KIT - 1 No (Including Mounting bracket Acc)",
+          "Control Panel (AZSWDC227A) - 1 No",
+          "TRANSMITTER (AZ-T23B) - 2 Nos"
+        ]
+      }
+    ],
+    "series": "LINK"
+  },
+  {
+    "id": "azsw107b-4mtr-400kg-l",
+    "code": "AZSW107B/4MTR 400KG-L",
+    "name": "Swing Gate Articulator Single Operator Left DC 4 Mtr 400 Kg",
+    "category": "Swing Gate Operators",
+    "price": 59150,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/exterior.jpg",
+    "particulars": [
+      "Left AZSW107B/4MTR 400KG-L - 1 No (Including Mounting bracket + Arm - 2 Nos)",
+      "Control Panel (AZSWCP107B) - 1 No",
+      "TRANSMITTER (AZT31) - 2 Nos"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Left AZSW107B/4MTR 400KG-L - 1 No (Including Mounting bracket + Arm - 2 Nos)",
+          "Control Panel (AZSWCP107B) - 1 No",
+          "TRANSMITTER (AZT31) - 2 Nos"
+        ]
+      }
+    ],
+    "series": "LITE"
+  },
+  {
+    "id": "azsw107b-4mtr-400kg-r",
+    "code": "AZSW107B/4MTR 400KG-R",
+    "name": "Swing Gate Articulator Single Operator Right DC 4 Mtr 400 Kg",
+    "category": "Swing Gate Operators",
+    "price": 59150,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/exterior.jpg",
+    "particulars": [
+      "Right AZSW107B/4MTR 400KG-R - 1 No (Including Mounting bracket + Arm - 2 Nos)",
+      "Control Panel (AZSWCP107B) - 1 No",
+      "TRANSMITTER (AZT31) - 2 Nos"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Right AZSW107B/4MTR 400KG-R - 1 No (Including Mounting bracket + Arm - 2 Nos)",
+          "Control Panel (AZSWCP107B) - 1 No",
+          "TRANSMITTER (AZT31) - 2 Nos"
+        ]
+      }
+    ],
+    "series": "LITE"
+  },
+  {
+    "id": "azsw108a-400kg-1-kit",
+    "code": "AZSW108A/400KG 1 OPERATOR KIT",
+    "name": "Swing Gate Single Roller Operator 400 Kg",
+    "category": "Swing Gate Operators",
+    "price": 48200,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/exterior.jpg",
+    "particulars": [
+      "AZSW108A/400KG 1 OPERATOR KIT - 1 No",
+      "Control Panel (AZSWDC227A) - 1 No",
+      "TRANSMITTER (AZ-T23B) - 2 Nos"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "AZSW108A/400KG 1 OPERATOR KIT - 1 No",
+          "Control Panel (AZSWDC227A) - 1 No",
+          "TRANSMITTER (AZ-T23B) - 2 Nos"
+        ]
+      }
+    ],
+    "series": "ECO"
+  },
+  {
+    "id": "azsw108b-800kg-1-kit",
+    "code": "AZSW108B/800KG 1 OPERATOR KIT",
+    "name": "Swing Gate Single Roller Operator 800 Kg",
+    "category": "Swing Gate Operators",
+    "price": 55200,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/exterior.jpg",
+    "particulars": [
+      "AZSW108B/800KG 1 OPERATOR KIT - 1 No",
+      "Control Panel (AZSWDC227A) - 1 No",
+      "TRANSMITTER (AZ-T23B) - 2 Nos"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "AZSW108B/800KG 1 OPERATOR KIT - 1 No",
+          "Control Panel (AZSWDC227A) - 1 No",
+          "TRANSMITTER (AZ-T23B) - 2 Nos"
+        ]
+      }
+    ],
+    "series": "ECO"
+  },
+  {
+    "id": "azsw109a-1000kg-1-kit",
+    "code": "AZSW109A/1000KG 1 OPERATOR KIT",
+    "name": "Swing Gate Single Roller Operator 1000 kg",
+    "category": "Swing Gate Operators",
+    "price": 89200,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/exterior.jpg",
+    "particulars": [
+      "AZSW109A/1000KG 1 OPERATOR KIT - 1 No",
+      "Control Panel (AZSWDC227A) - 1 No",
+      "TRANSMITTER (AZ-T23B) - 2 Nos"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "AZSW109A/1000KG 1 OPERATOR KIT - 1 No",
+          "Control Panel (AZSWDC227A) - 1 No",
+          "TRANSMITTER (AZ-T23B) - 2 Nos"
+        ]
+      }
+    ],
+    "series": "ROBO"
+  },
+  {
+    "id": "azsw1062-5-250kg-2-kit",
+    "code": "AZSW1062.5/250KG/2 OPERATOR KIT",
+    "name": "Swing Gate Two Operator DC 2.5mtr 250+250kg = 500 kg Kit",
+    "category": "Swing Gate Operators",
+    "price": 71500,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/exterior.jpg",
+    "particulars": [
+      "AZSW1062.5/250KG Operator - 2 No (Including Mounting bracket Acc)",
+      "Control Panel (AZSW229A) - 1 No",
+      "TRANSMITTER (AZ-T23B) - 2 Nos",
+      "BOLT-Photocell (AZPC10A) - 1 pair",
+      "Gate Rubber Stopper (AZSWRS234) - 1 No"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "AZSW1062.5/250KG Operator - 2 No (Including Mounting bracket Acc)",
+          "Control Panel (AZSW229A) - 1 No",
+          "TRANSMITTER (AZ-T23B) - 2 Nos",
+          "BOLT-Photocell (AZPC10A) - 1 pair",
+          "Gate Rubber Stopper (AZSWRS234) - 1 No"
+        ]
+      }
+    ],
+    "series": "ICON"
+  },
+  {
+    "id": "azsw1063-300kg-2-kit",
+    "code": "AZSW1063/300KG/2 OPERATOR KIT",
+    "name": "Swing Gate Two Operator DC 3 mtr 300+300kg = 600 kgs Kit",
+    "category": "Swing Gate Operators",
+    "price": 74400,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/exterior.jpg",
+    "particulars": [
+      "AZSW1063/300KG Operator - 2 No (Including Mounting bracket Acc)",
+      "Control Panel (AZSW229A) - 1 No",
+      "TRANSMITTER (AZ-T23B) - 2 Nos",
+      "BOLT-Photocell (AZPC10A) - 1 pair",
+      "Gate Rubber Stopper (AZSWRS234) - 1 No"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "AZSW1063/300KG Operator - 2 No (Including Mounting bracket Acc)",
+          "Control Panel (AZSW229A) - 1 No",
+          "TRANSMITTER (AZ-T23B) - 2 Nos",
+          "BOLT-Photocell (AZPC10A) - 1 pair",
+          "Gate Rubber Stopper (AZSWRS234) - 1 No"
+        ]
+      }
+    ],
+    "series": "ICON"
+  },
+  {
+    "id": "azsw110a-3mtr-300kg-2-kit",
+    "code": "AZSW110A/3MTR/300KG 2 OPERATOR KIT",
+    "name": "Swing Gate Operator DC 3 mtr 300+300kg = 600 kgs Kit",
+    "category": "Swing Gate Operators",
+    "price": 73500,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/exterior.jpg",
+    "particulars": [
+      "AZSW110A/3MTR/300KG Operator - 2 No (Including Mounting bracket Acc)",
+      "Control Panel (AZSWDC227A) - 1 No",
+      "TRANSMITTER (AZ-T23B) - 2 Nos",
+      "BOLT-Photocell (AZPC10A) - 1 pair"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "AZSW110A/3MTR/300KG Operator - 2 No (Including Mounting bracket Acc)",
+          "Control Panel (AZSWDC227A) - 1 No",
+          "TRANSMITTER (AZ-T23B) - 2 Nos",
+          "BOLT-Photocell (AZPC10A) - 1 pair"
+        ]
+      }
+    ],
+    "series": "LINK"
+  },
+  {
+    "id": "azsw107b-2-kit",
+    "code": "AZSW107B/2 OPERATOR KIT",
+    "name": "Swing Gate Articulator Operator DC Kit",
+    "category": "Swing Gate Operators",
+    "price": 106500,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/exterior.jpg",
+    "particulars": [
+      "AZSW107B/2 OPERATOR - 2 No (Including Mounting bracket + Arm 2 Nos)",
+      "Control Panel (AZSWCP107B) - 1 No",
+      "TRANSMITTER (AZ-T31) - 2 Nos",
+      "BOLT-Photocell (AZPC10A) - 1 pair"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "AZSW107B/2 OPERATOR - 2 No (Including Mounting bracket + Arm 2 Nos)",
+          "Control Panel (AZSWCP107B) - 1 No",
+          "TRANSMITTER (AZ-T31) - 2 Nos",
+          "BOLT-Photocell (AZPC10A) - 1 pair"
+        ]
+      }
+    ],
+    "series": "LITE"
+  },
+  {
+    "id": "azsw108a-400kg-2-kit",
+    "code": "AZSW108A/400KG/2 OPERATOR KIT",
+    "name": "Swing Gate Roller Operator 400+400kg = 800Kgs - Kit",
+    "category": "Swing Gate Operators",
+    "price": 57200,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/exterior.jpg",
+    "particulars": [
+      "Operator - 2 No (Including Mounting bracket Acc)",
+      "Control Panel (AZSWDC227A) - 1 No",
+      "TRANSMITTER (AZ-T23B) - 2 Nos",
+      "BOLT-Photocell (AZPC10A) - 1 pair"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Operator - 2 No (Including Mounting bracket Acc)",
+          "Control Panel (AZSWDC227A) - 1 No",
+          "TRANSMITTER (AZ-T23B) - 2 Nos",
+          "BOLT-Photocell (AZPC10A) - 1 pair"
+        ]
+      }
+    ],
+    "series": "ECO"
+  },
+  {
+    "id": "azsw108b-800kg-2-kit",
+    "code": "AZSW108B/800KG/2 OPERATOR KIT",
+    "name": "Swing Gate Roller Operator 800+800kg = 1600Kgs - Kit",
+    "category": "Swing Gate Operators",
+    "price": 66175,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/exterior.jpg",
+    "particulars": [
+      "Operator - 2 No (Including Mounting bracket Acc)",
+      "Control Panel (AZSWDC227A) - 1 No",
+      "TRANSMITTER (AZ-T23B) - 2 Nos",
+      "BOLT-Photocell (AZPC10A) - 1 pair"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Operator - 2 No (Including Mounting bracket Acc)",
+          "Control Panel (AZSWDC227A) - 1 No",
+          "TRANSMITTER (AZ-T23B) - 2 Nos",
+          "BOLT-Photocell (AZPC10A) - 1 pair"
+        ]
+      }
+    ],
+    "series": "ECO"
+  },
+  {
+    "id": "azsw109a-1000kg-2-kit",
+    "code": "AZSW109A/1000KG/2 OPERATOR KIT",
+    "name": "Swing Gate Roller Operator 1000+1000kg = 2000Kgs - Kit",
+    "category": "Swing Gate Operators",
+    "price": 134000,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/exterior.jpg",
+    "particulars": [
+      "Operator - 2 No (Including Mounting bracket Acc)",
+      "Control Panel (AZSWDC227A) - 1 No",
+      "TRANSMITTER (AZ-T23B) - 2 Nos",
+      "BOLT-Photocell (AZPC10A) - 1 pair"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Operator - 2 No (Including Mounting bracket Acc)",
+          "Control Panel (AZSWDC227A) - 1 No",
+          "TRANSMITTER (AZ-T23B) - 2 Nos",
+          "BOLT-Photocell (AZPC10A) - 1 pair"
+        ]
+      }
+    ],
+    "series": "ROBO"
+  },
+  {
+    "id": "azsw111pgo",
+    "code": "AZSW111PGO",
+    "name": "Pedestrian Gate Operator 75KG",
+    "category": "Swing Gate Operators",
+    "price": 48724,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/exterior.jpg",
+    "particulars": [
+      "AZ-SW-111 PGO PEDESTRIAN 75KG",
+      "AZ-PGO CB-751 CONTROL BOARD + CONTROLLER POWER SUPPLY",
+      "AZ-PGO T-757 TRANSMITTER - 2 NOS",
+      "AZ-PGO-BBC-756 PEDESTRIAN BASE BEARING",
+      "AZ-PGO-BG-752 PEDESTRIAN BEARING",
+      "AZ-PGO BD 753 PEDESTRIAN BEAR SEAL",
+      "AZ-PGO-MC-754 PEDESTRIAN MOTOR CLAMP",
+      "AZ-PGO BC 755 PEDESTRIAN BASE CLAMP",
+      "FITTING ACCESSORIES"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "AZ-SW-111 PGO PEDESTRIAN 75KG",
+          "AZ-PGO CB-751 CONTROL BOARD + CONTROLLER POWER SUPPLY",
+          "AZ-PGO T-757 TRANSMITTER - 2 NOS",
+          "AZ-PGO-BBC-756 PEDESTRIAN BASE BEARING",
+          "AZ-PGO-BG-752 PEDESTRIAN BEARING",
+          "AZ-PGO BD 753 PEDESTRIAN BEAR SEAL",
+          "AZ-PGO-MC-754 PEDESTRIAN MOTOR CLAMP",
+          "AZ-PGO BC 755 PEDESTRIAN BASE CLAMP",
+          "FITTING ACCESSORIES"
+        ]
+      }
+    ],
+    "series": "GRID"
+  },
+  {
+    "id": "azt30a",
+    "code": "AZT30A",
+    "name": "IND TRANSMITTER",
+    "category": "Accessories",
+    "price": 1850,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/interior.jpg",
+    "particulars": [
+      "1 No Transmitter"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Transmitter"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azt23b",
+    "code": "AZT23B",
+    "name": "IND TRANSMITTER",
+    "category": "Accessories",
+    "price": 1850,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/interior.jpg",
+    "particulars": [
+      "1 No Transmitter"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Transmitter"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azt23g",
+    "code": "AZT23G",
+    "name": "IND TRANSMITTER",
+    "category": "Accessories",
+    "price": 1850,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/interior.jpg",
+    "particulars": [
+      "1 No Transmitter"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Transmitter"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "aztmb701a",
+    "code": "AZTMB701A",
+    "name": "Multi Brand Transmitter",
+    "category": "Accessories",
+    "price": 2350,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/interior.jpg",
+    "particulars": [
+      "1 No Transmitter"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Transmitter"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azpgot757",
+    "code": "AZPGOT757",
+    "name": "TRANSMITTER PG",
+    "category": "Accessories",
+    "price": 1850,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/interior.jpg",
+    "particulars": [
+      "1 No Transmitter"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Transmitter"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azt600",
+    "code": "AZT600",
+    "name": "TRANSMITTER SUITABLE FOR (AZSW600)",
+    "category": "Accessories",
+    "price": 1850,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/interior.jpg",
+    "particulars": [
+      "1 No Transmitter"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Transmitter"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azt31",
+    "code": "AZT31",
+    "name": "TRANSMITTER SUITABLE FOR (AZSW107B)",
+    "category": "Accessories",
+    "price": 1850,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/interior.jpg",
+    "particulars": [
+      "1 No Transmitter"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Transmitter"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azpc10a",
+    "code": "AZPC10A",
+    "name": "BOLT-Photocell",
+    "category": "Accessories",
+    "price": 3650,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/security.jpg",
+    "particulars": [
+      "1 Pair Photocell Sensors"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 Pair Photocell Sensors"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azpcwl11a",
+    "code": "AZPCWL11A",
+    "name": "BOLT-Photocell Wireless",
+    "category": "Accessories",
+    "price": 6188,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/security.jpg",
+    "particulars": [
+      "1 Pair Wireless Photocell Sensors"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 Pair Wireless Photocell Sensors"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azlpc12",
+    "code": "AZLPC12",
+    "name": "Laser Photocell",
+    "category": "Accessories",
+    "price": 10450,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/security.jpg",
+    "particulars": [
+      "1 No Laser Photocell Sensor"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Laser Photocell Sensor"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azir20",
+    "code": "AZIR20",
+    "name": "Infrared Photocell",
+    "category": "Accessories",
+    "price": 6540,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/security.jpg",
+    "particulars": [
+      "1 No Infrared Photocell"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Infrared Photocell"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azis4f20",
+    "code": "AZIS4F20",
+    "name": "Infrared Sensor 4 BEAM 20M",
+    "category": "Accessories",
+    "price": 11900,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/security.jpg",
+    "particulars": [
+      "1 Pair 4-Beam 20M Infrared Sensor"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 Pair 4-Beam 20M Infrared Sensor"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azis6f20",
+    "code": "AZIS6F20",
+    "name": "Infrared Sensor 6 BEAM 20M",
+    "category": "Accessories",
+    "price": 15900,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/security.jpg",
+    "particulars": [
+      "1 Pair 6-Beam 20M Infrared Sensor"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 Pair 6-Beam 20M Infrared Sensor"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azrfpc41a8m",
+    "code": "AZRFPC41A8M",
+    "name": "REFLECTIVE PHOTOCELL",
+    "category": "Accessories",
+    "price": 6150,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/security.jpg",
+    "particulars": [
+      "1 Pair Reflective Photocell"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 Pair Reflective Photocell"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsr519",
+    "code": "AZSR519",
+    "name": "Smart Receiver",
+    "category": "Accessories",
+    "price": 9550,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/interior.jpg",
+    "particulars": [
+      "1 No Smart Receiver"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Smart Receiver"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azst518",
+    "code": "AZST518",
+    "name": "Smart Tag",
+    "category": "Accessories",
+    "price": 6800,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/interior.jpg",
+    "particulars": [
+      "1 No Smart Tag"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Smart Tag"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azer141",
+    "code": "AZER141",
+    "name": "External Receiver (4 CHANNEL)",
+    "category": "Accessories",
+    "price": 6785,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/interior.jpg",
+    "particulars": [
+      "1 No 4-Channel External Receiver"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No 4-Channel External Receiver"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azrfwifi31a",
+    "code": "AZRFWIFI31A",
+    "name": "RF WIFI MODULE",
+    "category": "Accessories",
+    "price": 7500,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/interior.jpg",
+    "particulars": [
+      "1 No RF Wi-Fi Module"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No RF Wi-Fi Module"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azrer140",
+    "code": "AZRER140",
+    "name": "Long Range External Receiver",
+    "category": "Accessories",
+    "price": 11350,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/interior.jpg",
+    "particulars": [
+      "1 Pair Long Range External Receiver"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 Pair Long Range External Receiver"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azgsm30",
+    "code": "AZGSM30",
+    "name": "GSM MODULE 2G",
+    "category": "Accessories",
+    "price": 7515,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/interior.jpg",
+    "particulars": [
+      "1 No GSM Module 2G"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No GSM Module 2G"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azks15",
+    "code": "AZKS15",
+    "name": "KEYSWITCH",
+    "category": "Accessories",
+    "price": 3264,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/security.jpg",
+    "particulars": [
+      "1 No Keyswitch with Keys"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Keyswitch with Keys"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azwlkp17",
+    "code": "AZWLKP17",
+    "name": "WIRELESS KEY PAD",
+    "category": "Accessories",
+    "price": 8200,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/security.jpg",
+    "particulars": [
+      "1 No Wireless Keypad"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Wireless Keypad"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azpb16a",
+    "code": "AZPB16A",
+    "name": "PUSHBUTTON",
+    "category": "Accessories",
+    "price": 3100,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/interior.jpg",
+    "particulars": [
+      "1 No Pushbutton Switch"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Pushbutton Switch"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azpbip65",
+    "code": "AZPBIP65",
+    "name": "PUSHBUTTON WATERPROOF",
+    "category": "Accessories",
+    "price": 5225,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/security.jpg",
+    "particulars": [
+      "1 No IP65 Waterproof Pushbutton"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No IP65 Waterproof Pushbutton"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azpbk16b",
+    "code": "AZPBK16B",
+    "name": "PUSHBUTTON WITH KEY",
+    "category": "Accessories",
+    "price": 3900,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/security.jpg",
+    "particulars": [
+      "1 No Pushbutton with Key Lock"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Pushbutton with Key Lock"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azpb16c",
+    "code": "AZPB16C",
+    "name": "PUSHBUTTON",
+    "category": "Accessories",
+    "price": 2100,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/interior.jpg",
+    "particulars": [
+      "1 No Pushbutton Switch"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Pushbutton Switch"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azpb16e",
+    "code": "AZPB16E",
+    "name": "PCB PUSHBUTTON",
+    "category": "Accessories",
+    "price": 1400,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/interior.jpg",
+    "particulars": [
+      "1 No PCB Pushbutton"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No PCB Pushbutton"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azpb16f",
+    "code": "AZPB16F",
+    "name": "TWO BUTTON PUSHBUTTON",
+    "category": "Accessories",
+    "price": 960,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/interior.jpg",
+    "particulars": [
+      "1 No Two-Button Pushbutton"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Two-Button Pushbutton"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azpfac452",
+    "code": "AZPFAC452",
+    "name": "Finger Print & Password/Card",
+    "category": "Accessories",
+    "price": 15100,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/security.jpg",
+    "particulars": [
+      "1 No Fingerprint, Password & Card Access Reader"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Fingerprint, Password & Card Access Reader"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azfl19",
+    "code": "AZFL19",
+    "name": "FLASH LAMP",
+    "category": "Accessories",
+    "price": 4113,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/security.jpg",
+    "particulars": [
+      "1 No Warning Flash Lamp"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Warning Flash Lamp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azfl20",
+    "code": "AZFL20",
+    "name": "FLASH LAMP",
+    "category": "Accessories",
+    "price": 3482,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/security.jpg",
+    "particulars": [
+      "1 No Warning Flash Lamp"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Warning Flash Lamp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azaflac19a",
+    "code": "AZAFLAC19A",
+    "name": "ALARM FLASH LAMP AC",
+    "category": "Accessories",
+    "price": 2930,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/security.jpg",
+    "particulars": [
+      "1 No AC Alarm Flash Lamp"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No AC Alarm Flash Lamp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azaflcdc19b",
+    "code": "AZAFLDC19B",
+    "name": "ALARM FLASH LAMP DC",
+    "category": "Accessories",
+    "price": 2930,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/security.jpg",
+    "particulars": [
+      "1 No DC Alarm Flash Lamp"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No DC Alarm Flash Lamp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azflac21",
+    "code": "AZFLAC21",
+    "name": "FLASH LAMP",
+    "category": "Accessories",
+    "price": 3990,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/security.jpg",
+    "particulars": [
+      "1 No Flash Lamp"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Flash Lamp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsl12aadc",
+    "code": "AZSL12AADC",
+    "name": "SIGNAL LIGHT 24V",
+    "category": "Accessories",
+    "price": 23921,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/security.jpg",
+    "particulars": [
+      "1 No 24V Signal Light"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No 24V Signal Light"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsl12aac",
+    "code": "AZSL12AAC",
+    "name": "SIGNAL LIGHT 230V",
+    "category": "Accessories",
+    "price": 29900,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/security.jpg",
+    "particulars": [
+      "1 No 230V Signal Light"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No 230V Signal Light"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azswelbl32",
+    "code": "AZSWELBL32",
+    "name": "ELECTRONIC BOTTOM LOCK",
+    "category": "Accessories",
+    "price": 15100,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/security.jpg",
+    "particulars": [
+      "1 No Electronic Bottom Lock for Gates"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Electronic Bottom Lock for Gates"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azswelcl33",
+    "code": "AZSWELCL33",
+    "name": "ELECTRONIC CENTER LOCK",
+    "category": "Accessories",
+    "price": 18090,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/security.jpg",
+    "particulars": [
+      "1 No Electronic Center Lock for Gates"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Electronic Center Lock for Gates"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsw231a",
+    "code": "AZSW231A",
+    "name": "CONTROLLER - SUITABLE FOR AC (AZSW112, AZSW107)",
+    "category": "Accessories",
+    "price": 21111,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/interior.jpg",
+    "particulars": [
+      "1 No AC Controller Board (AZSW112, AZSW107)"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No AC Controller Board (AZSW112, AZSW107)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsw229a",
+    "code": "AZSW229A",
+    "name": "CONTROLLER - SUITABLE FOR (106-2.5, 106-3)",
+    "category": "Accessories",
+    "price": 24125,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/interior.jpg",
+    "particulars": [
+      "1 No Controller Board (106-2.5, 106-3)"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Controller Board (106-2.5, 106-3)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azswdc227a",
+    "code": "AZSWDC227A",
+    "name": "CONTROLLER - SUITABLE FOR (AZSW110A)",
+    "category": "Accessories",
+    "price": 24125,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/interior.jpg",
+    "particulars": [
+      "1 No Controller Board (AZSW110A)"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Controller Board (AZSW110A)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azswdc227b",
+    "code": "AZSWDC227B",
+    "name": "CONTROLLER (Transformer AZSWRTT 304 + PCB AZSWPCB580C) - SUITABLE FOR (AZSW108A)",
+    "category": "Accessories",
+    "price": 24125,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/interior.jpg",
+    "particulars": [
+      "Transformer AZSWRTT 304",
+      "PCB AZSWPCB580C",
+      "Suitable for AZSW108A"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Transformer AZSWRTT 304",
+          "PCB AZSWPCB580C",
+          "Suitable for AZSW108A"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azswdc227c",
+    "code": "AZSWDC227C",
+    "name": "CONTROLLER (Transformer AZSWRTT 304A + PCB AZSWPCB580C) - SUITABLE FOR (AZSW108B)",
+    "category": "Accessories",
+    "price": 24125,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/interior.jpg",
+    "particulars": [
+      "Transformer AZSWRTT 304A",
+      "PCB AZSWPCB580C",
+      "Suitable for AZSW108B"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Transformer AZSWRTT 304A",
+          "PCB AZSWPCB580C",
+          "Suitable for AZSW108B"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azswdc228",
+    "code": "AZSWDC228",
+    "name": "CONTROLLER (Transformer AZSWRTT 305 + PCB AZSWDPCB228) - SUITABLE (109A)",
+    "category": "Accessories",
+    "price": 24625,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/interior.jpg",
+    "particulars": [
+      "Transformer AZSWRTT 305",
+      "PCB AZSWDPCB228",
+      "Suitable for 109A"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Transformer AZSWRTT 305",
+          "PCB AZSWDPCB228",
+          "Suitable for 109A"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azswcp107b",
+    "code": "AZSWCP107B",
+    "name": "CONTROLLER (Transformer AZSWRTT 305B + PCB AZSWPCB107B) - SUITABLE FOR (107B)",
+    "category": "Accessories",
+    "price": 20657,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/interior.jpg",
+    "particulars": [
+      "Transformer AZSWRTT 305B",
+      "PCB AZSWPCB107B",
+      "Suitable for 107B"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Transformer AZSWRTT 305B",
+          "PCB AZSWPCB107B",
+          "Suitable for 107B"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azswpcb600",
+    "code": "AZSWPCB600",
+    "name": "PCB ONLY (SUITABLE FOR AZSW600)",
+    "category": "Accessories",
+    "price": 11500,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/interior.jpg",
+    "particulars": [
+      "1 No PCB Board for AZSW600"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No PCB Board for AZSW600"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azswsmps600",
+    "code": "AZSWSMPS600",
+    "name": "SMPS (SUITABLE FOR AZSW600)",
+    "category": "Accessories",
+    "price": 7900,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/interior.jpg",
+    "particulars": [
+      "1 No SMPS Power Supply for AZSW600"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No SMPS Power Supply for AZSW600"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azswdpcb200a",
+    "code": "AZSWDPCB200A",
+    "name": "PCB ONLY DIGITAL BOARD - ID200 SUITABLE (106-2.5, 106-3)",
+    "category": "Accessories",
+    "price": 12062,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/interior.jpg",
+    "particulars": [
+      "1 No Digital Board ID200 for (106-2.5, 106-3)"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Digital Board ID200 for (106-2.5, 106-3)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azswpcb580c",
+    "code": "AZSWPCB580C",
+    "name": "PCB ONLY (SUITABLE FOR 108A, 108B, 110A)",
+    "category": "Accessories",
+    "price": 12490,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/interior.jpg",
+    "particulars": [
+      "1 No PCB Board for (108A, 108B, 110A)"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No PCB Board for (108A, 108B, 110A)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azswdpcb228",
+    "code": "AZSWDPCB228",
+    "name": "PCB ONLY DC ANALOG BOARD - T90 SUITABLE FOR (109A)",
+    "category": "Accessories",
+    "price": 12562,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/interior.jpg",
+    "particulars": [
+      "1 No DC Analog Board T90 for 109A"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No DC Analog Board T90 for 109A"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azswacpcb231a",
+    "code": "AZSWACPCB231A",
+    "name": "PCB ONLY AC SUITABLE FOR (112, 107)",
+    "category": "Accessories",
+    "price": 16500,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/interior.jpg",
+    "particulars": [
+      "1 No AC PCB Board for (112, 107)"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No AC PCB Board for (112, 107)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azswpcb107b",
+    "code": "AZSWPCB107B",
+    "name": "PCB ONLY - K280 (SUITABLE FOR 107B)",
+    "category": "Accessories",
+    "price": 13393,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/interior.jpg",
+    "particulars": [
+      "1 No PCB Board K280 for 107B"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No PCB Board K280 for 107B"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azpgocb751",
+    "code": "AZPGOCB751",
+    "name": "PEDESTRIAN CONTROL BOARD (PCB) SUITABLE (AZSW111PGO)",
+    "category": "Accessories",
+    "price": 4500,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/interior.jpg",
+    "particulars": [
+      "1 No Pedestrian Control Board (PCB) for AZSW111PGO"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Pedestrian Control Board (PCB) for AZSW111PGO"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azswrs234",
+    "code": "AZSWRS234",
+    "name": "Gate Rubber Stopper",
+    "category": "Accessories",
+    "price": 1850,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/security.jpg",
+    "particulars": [
+      "1 No Gate Rubber Stopper"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Gate Rubber Stopper"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsegr206",
+    "code": "AZSEGR206",
+    "name": "RUBBER PROFILE (60*40)",
+    "category": "Accessories",
+    "price": 4086,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/security.jpg",
+    "particulars": [
+      "1 Meter Rubber Profile (60*40)"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 Meter Rubber Profile (60*40)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsegat106",
+    "code": "AZSEGAT106",
+    "name": "ALUMINIUM TRACK (60*40)",
+    "category": "Accessories",
+    "price": 2156,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/security.jpg",
+    "particulars": [
+      "1 No (2m) Aluminium Track (60*40)"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No (2m) Aluminium Track (60*40)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsest3",
+    "code": "AZSEST3",
+    "name": "Sensor Tape",
+    "category": "Accessories",
+    "price": 3518,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/security.jpg",
+    "particulars": [
+      "1 Meter Sensor Tape"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 Meter Sensor Tape"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsep206",
+    "code": "AZSEP206",
+    "name": "End Plug",
+    "category": "Accessories",
+    "price": 1135,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/security.jpg",
+    "particulars": [
+      "1 Pair End Plug"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 Pair End Plug"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azseep05",
+    "code": "AZSEEP05",
+    "name": "End Cap",
+    "category": "Accessories",
+    "price": 908,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/security.jpg",
+    "particulars": [
+      "1 Pair End Cap"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 Pair End Cap"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azhsdbes64b",
+    "code": "AZHSDBES64B",
+    "name": "SAFETY EDGE SENSOR STRIP",
+    "category": "Accessories",
+    "price": 8172,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/security.jpg",
+    "particulars": [
+      "1 No Safety Edge Sensor Strip"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Safety Edge Sensor Strip"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsegr304",
+    "code": "AZSEGR304",
+    "name": "RUBBER PROFILE (40*30)",
+    "category": "Accessories",
+    "price": 2338,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/security.jpg",
+    "particulars": [
+      "1 Meter Rubber Profile (40*30)"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 Meter Rubber Profile (40*30)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsegat113",
+    "code": "AZSEGAT113",
+    "name": "ALUMINIUM TRACK (40*30)",
+    "category": "Accessories",
+    "price": 1589,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/security.jpg",
+    "particulars": [
+      "1 No (2m/pc) Aluminium Track (40*30)"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No (2m/pc) Aluminium Track (40*30)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azseep113",
+    "code": "AZSEEP113",
+    "name": "End piece",
+    "category": "Accessories",
+    "price": 1135,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/security.jpg",
+    "particulars": [
+      "1 Pair End Piece"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 Pair End Piece"
+        ]
+      }
+    ]
+  }
 ]
