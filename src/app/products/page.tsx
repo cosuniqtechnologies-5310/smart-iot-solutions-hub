@@ -147,7 +147,7 @@ export default function ProductsPage() {
 
                         {/* Center Image Container - Guaranteed clear space above and below */}
                         <div className="flex-1 w-full flex items-center justify-center px-3 py-2 min-h-0 overflow-hidden">
-                          {product.image ? (
+                          {product.image && product.image !== "/images/products/" && !product.image.endsWith("/") ? (
                             <img
                               src={product.image}
                               alt={product.name}

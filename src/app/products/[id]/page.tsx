@@ -80,7 +80,7 @@ export default async function ProductPage({ params }: Props) {
 
               {/* Center Image Container - Guaranteed clear space above and below */}
               <div className="flex-1 w-full flex items-center justify-center p-4 min-h-0">
-                {product.image ? (
+                {product.image && product.image !== "/images/products/" && !product.image.endsWith("/") ? (
                   <img
                     src={product.image.startsWith("images/") ? `/${product.image}` : product.image}
                     alt={product.name}

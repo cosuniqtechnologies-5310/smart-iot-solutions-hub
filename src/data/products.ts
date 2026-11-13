@@ -961,6 +961,404 @@ export const products: Product[] = [
     ]
   },
   {
+    "id": "azsl97",
+    "code": "AZSL97",
+    "series": "UNIQ",
+    "name": "Sliding Gate Operator 800kg",
+    "category": "Sliding Gate Operators",
+    "price": 64900,
+    "priceNote": "+18% TAX EXTRA",
+    "image":"/images/products/sliding-gate-operator-800kg.png",
+    "particulars": [
+      "Operator only 24V DC operator AZSL97 - 1 No (Including control board + Spring limit + Base plate + Fixing Accessories)",
+      "TRANSMITTER (AZT23B) - 2 Nos"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Operator only 24V DC operator AZSL97 - 1 No (Including control board + Spring limit + Base plate + Fixing Accessories)",
+          "TRANSMITTER (AZT23B) - 2 Nos"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsl99b",
+    "code": "AZSL99B",
+    "series": "DC",
+    "name": "Sliding Gate Operator 800kg",
+    "category": "Sliding Gate Operators",
+    "price": 44500,
+    "priceNote": "+18% TAX EXTRA",
+    "image":"/images/products/sliding-gate-operator-600kg.png",
+    "particulars": [
+      "Operator only 24V DC Operator AZSL99B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+      "TRANSMITTER (AZT30A) - 2 Nos"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Operator only 24V DC Operator AZSL99B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+          "TRANSMITTER (AZT30A) - 2 Nos"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsl100b",
+    "code": "AZSL100B",
+    "series": "PRO",
+    "name": "Sliding Gate Operator 600kg",
+    "category": "Sliding Gate Operators",
+    "price": 40300,
+    "priceNote": "+18% TAX EXTRA",
+    "image":"/images/products/sliding-gate-operator-600kg.png",
+    "particulars": [
+      "Operator only 220V AC Operator AZSL100B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+      "TRANSMITTER (AZT30A) - 2 Nos"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Operator only 220V AC Operator AZSL100B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+          "TRANSMITTER (AZT30A) - 2 Nos"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsl101b",
+    "code": "AZSL101B",
+    "series": "PRO",
+    "name": "Sliding Gate Operator 1000kg",
+    "category": "Sliding Gate Operators",
+    "price": 42900,
+    "priceNote": "+18% TAX EXTRA",
+    "image":"/images/products/sliding-gate-operator-600kg.png",
+    "particulars": [
+      "Operator only 220V AC Operator AZSL101B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+      "TRANSMITTER (AZT30A) - 2 Nos"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Operator only 220V AC Operator AZSL101B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+          "TRANSMITTER (AZT30A) - 2 Nos"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsl102b",
+    "code": "AZSL102B",
+    "series": "PRO",
+    "name": "Sliding Gate Operator 1500kg",
+    "category": "Sliding Gate Operators",
+    "price": 51800,
+    "priceNote": "+18% TAX EXTRA",
+    "image":"/images/products/sliding-gate-operator-600kg.png",
+    "particulars": [
+      "Operator only 220V AC Operator AZSL102B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+      "TRANSMITTER (AZT30A) - 2 Nos"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Operator only 220V AC Operator AZSL102B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+          "TRANSMITTER (AZT30A) - 2 Nos"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsl1021b",
+    "code": "AZSL1021B",
+    "series": "PRO",
+    "name": "Sliding Gate Operator 2000kg",
+    "category": "Sliding Gate Operators",
+    "price": 63000,
+    "priceNote": "+18% TAX EXTRA",
+    "image":"/images/products/sliding-gate-operator-600kg.png",
+    "particulars": [
+      "Operator only 220V AC Operator AZSL1021B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+      "TRANSMITTER (AZT30A) - 2 Nos"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Operator only 220V AC Operator AZSL1021B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+          "TRANSMITTER (AZT30A) - 2 Nos"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsl103i",
+    "code": "AZSL103I",
+    "series": "POWER",
+    "name": "Industrial Sliding Gate Operator 2000kg",
+    "category": "Sliding Gate Operators",
+    "price": 106000,
+    "priceNote": "+18% TAX EXTRA",
+    "image":"/images/products/power-3000kg.png",
+    "particulars": [
+      "Operator Only 220V AC Operator AZSL103-I - 1 No (Including Operator + Control board + Base plate + Spring limit + Fixing Accessories)",
+      "TRANSMITTER (AZT23B) - 2 Nos",
+      "Industrial Use Intensive Operation"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Operator Only 220V AC Operator AZSL103-I - 1 No (Including Operator + Control board + Base plate + Spring limit + Fixing Accessories)",
+          "TRANSMITTER (AZT23B) - 2 Nos",
+          "Industrial Use Intensive Operation"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsl104i",
+    "code": "AZSL104I",
+    "series": "POWER",
+    "name": "Industrial Sliding Gate Operator 3000kg",
+    "category": "Sliding Gate Operators",
+    "price": 118850,
+    "priceNote": "+18% TAX EXTRA",
+    "image":"/images/products/power-3000kg.png",
+    "particulars": [
+      "Operator Only 220V AC Operator AZSL104-I - 1 No (Including Operator + Control board + Base plate + Spring limit + Fixing Accessories)",
+      "TRANSMITTER (AZT23B) - 2 Nos (Suitable Rack M6)",
+      "Industrial Use Intensive Operation"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Operator Only 220V AC Operator AZSL104-I - 1 No (Including Operator + Control board + Base plate + Spring limit + Fixing Accessories)",
+          "TRANSMITTER (AZT23B) - 2 Nos (Suitable Rack M6)",
+          "Industrial Use Intensive Operation"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsl105i",
+    "code": "AZSL105I",
+    "series": "POWER",
+    "name": "Industrial Sliding Gate Operator 4000kg",
+    "category": "Sliding Gate Operators",
+    "price": 137500,
+    "priceNote": "+18% TAX EXTRA",
+    "image":"/images/products/power-3000kg.png",
+    "particulars": [
+      "Operator Only 220V AC Operator AZSL105-I - 1 No (Including Operator + Control board + Base plate + Spring limit + Fixing Accessories)",
+      "TRANSMITTER (AZT23B) - 2 Nos (Suitable Rack M6)",
+      "Industrial Use Intensive Operation"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Operator Only 220V AC Operator AZSL105-I - 1 No (Including Operator + Control board + Base plate + Spring limit + Fixing Accessories)",
+          "TRANSMITTER (AZT23B) - 2 Nos (Suitable Rack M6)",
+          "Industrial Use Intensive Operation"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsl605i",
+    "code": "AZSL605I",
+    "series": "HULK",
+    "name": "Industrial Sliding Gate Operator 5000kg",
+    "category": "Sliding Gate Operators",
+    "price": 260000,
+    "priceNote": "+18% TAX EXTRA",
+    "image":"/images/products/power-3000kg.png",
+    "particulars": [
+      "Operator Only 220V AC Operator AZSL605-I - 1 No (Including Operator + Control board + Base plate + Spring limit + Fixing Accessories)",
+      "TRANSMITTER (AZT23B) - 2 Nos (Suitable Rack M6)",
+      "Industrial Use Intensive Operation"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Operator Only 220V AC Operator AZSL605-I - 1 No (Including Operator + Control board + Base plate + Spring limit + Fixing Accessories)",
+          "TRANSMITTER (AZT23B) - 2 Nos (Suitable Rack M6)",
+          "Industrial Use Intensive Operation"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsl606i",
+    "code": "AZSL606I",
+    "series": "HULK",
+    "name": "Industrial Sliding Gate Operator 6000kg",
+    "category": "Sliding Gate Operators",
+    "price": 290000,
+    "priceNote": "+18% TAX EXTRA",
+    "image":"/images/products/power-3000kg.png",
+    "particulars": [
+      "Operator Only 220V AC Operator AZSL606-I - 1 No (Including Operator + Control board + Base plate + Spring limit + Fixing Accessories)",
+      "TRANSMITTER (AZT23B) - 2 Nos (Suitable Rack M6)",
+      "Industrial Use Intensive Operation"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Operator Only 220V AC Operator AZSL606-I - 1 No (Including Operator + Control board + Base plate + Spring limit + Fixing Accessories)",
+          "TRANSMITTER (AZT23B) - 2 Nos (Suitable Rack M6)",
+          "Industrial Use Intensive Operation"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsl99b-kit",
+    "code": "AZSL99B/KIT",
+    "series": "DC",
+    "name": "Sliding Gate Operator Kit 800kg",
+    "category": "Sliding Gate Operators",
+    "price": 55200,
+    "priceNote": "+18% TAX EXTRA",
+    "image":"/images/products/pro-kg.png",
+    "particulars": [
+      "Operator 24V DC Operator AZSL99B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+      "TRANSMITTER (AZT30A) - 2 Nos",
+      "BOLT-Photocells (AZPC10A) - 1 Pair",
+      "GI Rack (AZ9MM) - 4 Nos"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Operator 24V DC Operator AZSL99B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+          "TRANSMITTER (AZT30A) - 2 Nos",
+          "BOLT-Photocells (AZPC10A) - 1 Pair",
+          "GI Rack (AZ9MM) - 4 Nos"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsl100b-kit",
+    "code": "AZSL100B/KIT",
+    "series": "PRO",
+    "name": "Sliding Gate Operator Kit 600kg",
+    "category": "Sliding Gate Operators",
+    "price": 50500,
+    "priceNote": "+18% TAX EXTRA",
+    "image":"/images/products/pro-kg.png",
+    "particulars": [
+      "Operator 220V AC Operator AZSL100B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+      "TRANSMITTER (AZT30A) - 2 Nos",
+      "BOLT-Photocells (AZPC10A) - 1 Pair",
+      "GI Rack (AZ9MM) - 4 Nos"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Operator 220V AC Operator AZSL100B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+          "TRANSMITTER (AZT30A) - 2 Nos",
+          "BOLT-Photocells (AZPC10A) - 1 Pair",
+          "GI Rack (AZ9MM) - 4 Nos"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsl101b-kit",
+    "code": "AZSL101B/KIT",
+    "series": "PRO",
+    "name": "Sliding Gate Operator Kit 1000kg",
+    "category": "Sliding Gate Operators",
+    "price": 53900,
+    "priceNote": "+18% TAX EXTRA",
+    "image":"/images/products/pro-kg.png",
+    "particulars": [
+      "Operator 220V AC Operator AZSL101B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+      "TRANSMITTER (AZT30A) - 2 Nos",
+      "BOLT-Photocells (AZPC10A) - 1 Pair",
+      "GI Rack (AZ9MM) - 4 Nos"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Operator 220V AC Operator AZSL101B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+          "TRANSMITTER (AZT30A) - 2 Nos",
+          "BOLT-Photocells (AZPC10A) - 1 Pair",
+          "GI Rack (AZ9MM) - 4 Nos"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsl102b-kit",
+    "code": "AZSL102B/KIT",
+    "series": "PRO",
+    "name": "Sliding Gate Operator Kit 1500kg",
+    "category": "Sliding Gate Operators",
+    "price": 63500,
+    "priceNote": "+18% TAX EXTRA",
+    "image":"/images/products/pro-kg.png",
+    "particulars": [
+      "Operator 220V AC Operator AZSL102B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+      "TRANSMITTER (AZT30A) - 2 Nos",
+      "BOLT-Photocells (AZPC10A) - 1 Pair",
+      "GI Rack (AZ12MM) - 4 Nos"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Operator 220V AC Operator AZSL102B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+          "TRANSMITTER (AZT30A) - 2 Nos",
+          "BOLT-Photocells (AZPC10A) - 1 Pair",
+          "GI Rack (AZ12MM) - 4 Nos"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsl1021b-kit",
+    "code": "AZSL1021B/KIT",
+    "series": "PRO",
+    "name": "Sliding Gate Operator Kit 2000kg",
+    "category": "Sliding Gate Operators",
+    "price": 75500,
+    "priceNote": "+18% TAX EXTRA",
+    "image":"/images/products/pro-kg.png",
+    "particulars": [
+      "Operator 220V AC Operator AZSL1021B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+      "TRANSMITTER (AZT30A) - 2 Nos",
+      "BOLT-Photocells (AZPC10A) - 1 Pair",
+      "GI Rack (AZ12MM) - 4 Nos"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Operator 220V AC Operator AZSL1021B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+          "TRANSMITTER (AZT30A) - 2 Nos",
+          "BOLT-Photocells (AZPC10A) - 1 Pair",
+          "GI Rack (AZ12MM) - 4 Nos"
+        ]
+      }
+    ]
+  },
+  {
     "id": "azt30a",
     "code": "AZT30A",
     "name": "IND Transmitter",
@@ -2992,6 +3390,365 @@ export const products: Product[] = [
         "title": "PARTICULARS",
         "items": [
           "1 No Stop Sign Board"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azslbb99b",
+    "code": "AZSLBB99B",
+    "name": "Battery Backup (Suitable for AZSL99B)",
+    "category": "Accessories",
+    "price": 2750,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No Battery Backup"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Battery Backup"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azslsp319",
+    "code": "AZSLSP319",
+    "name": "Solar Panel Kit (For SGO-DC)",
+    "category": "Accessories",
+    "price": 43130,
+    "priceNote": "+18% TAX EXTRA",
+    "image":"/images/products/solar-panel-kit.png",
+    "particulars": [
+      "1 No Solar Panel Kit"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Solar Panel Kit"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "az9mm",
+    "code": "AZ9MM",
+    "name": "GI Rack 9mm",
+    "category": "Accessories",
+    "price": 1900,
+    "priceNote": "+18% TAX EXTRA",
+    "image":"/images/products/rack.png",
+    "particulars": [
+      "1 No GI Rack (1 Meter)"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No GI Rack (1 Meter)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "az12mm",
+    "code": "AZ12MM",
+    "name": "GI Rack 12mm",
+    "category": "Accessories",
+    "price": 2350,
+    "priceNote": "+18% TAX EXTRA",
+    "image":"/images/products/rack.png",
+    "particulars": [
+      "1 No GI Rack (1 Meter)"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No GI Rack (1 Meter)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "az22mm",
+    "code": "AZ22MM",
+    "name": "GI Rack 22mm",
+    "category": "Accessories",
+    "price": 4300,
+    "priceNote": "+18% TAX EXTRA",
+    "image":"/images/products/rack.png",
+    "particulars": [
+      "1 No GI Rack (1 Meter)"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No GI Rack (1 Meter)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "az8mmss",
+    "code": "AZ8MMSS",
+    "name": "Stainless Steel Rack 8mm",
+    "category": "Accessories",
+    "price": 5450,
+    "priceNote": "+18% TAX EXTRA",
+    "image":"/images/products/rack.png",
+    "particulars": [
+      "1 No Stainless Steel Rack (1 Meter)"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Stainless Steel Rack (1 Meter)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "az30mmm6",
+    "code": "AZ30MMM6",
+    "name": "Rack 30mm M6",
+    "category": "Accessories",
+    "price": 5300,
+    "priceNote": "+18% TAX EXTRA",
+    "image":"/images/products/rack.png",
+    "particulars": [
+      "1 No M6 Rack (1 Meter)"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No M6 Rack (1 Meter)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "aznr25mm",
+    "code": "AZNR25MM",
+    "name": "Nylon Rack 25mm",
+    "category": "Accessories",
+    "price": 2015,
+    "priceNote": "+18% TAX EXTRA",
+    "image":"/images/products/rack.png",
+    "particulars": [
+      "1 No Nylon Rack (1 Meter)"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Nylon Rack (1 Meter)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azslpcb97",
+    "code": "AZSLPCB97",
+    "name": "Programming Control PCB (K100Q) (Suitable for AZSL97)",
+    "category": "Accessories",
+    "price": 12990,
+    "priceNote": "+18% TAX EXTRA",
+    "image":"/images/products/programming-control-k-100q.png",
+    "particulars": [
+      "1 No Programming Control PCB"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Programming Control PCB"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azslapcb300a",
+    "code": "AZSLAPCB300A",
+    "name": "Control Board AC (Only PCB) (Suitable for AZSL100A, AZSL101A, AZSL102A, AZSL1021A, AZSL103I)",
+    "category": "Accessories",
+    "price": 9800,
+    "priceNote": "+18% TAX EXTRA",
+    "image":"/images/products/control-board-ac-only-pcb.png",
+    "particulars": [
+      "1 No AC Control Board PCB"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No AC Control Board PCB"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsldpcb317a",
+    "code": "AZSLDPCB317A",
+    "name": "Control Board DC (Only PCB) (Suitable for AZSL98A, AZSL99A)",
+    "category": "Accessories",
+    "price": 11758,
+    "priceNote": "+18% TAX EXTRA",
+    "image":"/images/products/control-board-dc-only-pcb.png",
+    "particulars": [
+      "1 No DC Control Board PCB"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No DC Control Board PCB"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azslafpcb330",
+    "code": "AZSLAFPCB330",
+    "name": "Control Board AC Fast (Only PCB) (Suitable for AZSLF800A, AZSLF1500A, AZSLF2000A, AZSL104I, AZSL105I)",
+    "category": "Accessories",
+    "price": 18250,
+    "priceNote": "+18% TAX EXTRA",
+    "image":"/images/products/control-board-dc-only-pcb.png",
+    "particulars": [
+      "1 No AC Fast Control Board PCB"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No AC Fast Control Board PCB"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azslpcb500",
+    "code": "AZSLPCB500",
+    "name": "Control Board (Only PCB) (Suitable for AZSL605I, AZSL606I)",
+    "category": "Accessories",
+    "price": 72186,
+    "priceNote": "+18% TAX EXTRA",
+    "image":"/images/products/control-board-only-pcb-2.png",
+    "particulars": [
+      "1 No Control Board PCB"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Control Board PCB"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azslpcb300b",
+    "code": "AZSLPCB300B",
+    "name": "Control Board AC (Only PCB) (Suitable for AZSL100B, AZSL101B, AZSL102B, AZSL1021B)",
+    "category": "Accessories",
+    "price": 13166,
+    "priceNote": "+18% TAX EXTRA",
+    "image":"/images/products/control-board-ac-only-pcb-2.png",
+    "particulars": [
+      "1 No AC Control Board PCB"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No AC Control Board PCB"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azslpcb317b",
+    "code": "AZSLPCB317B",
+    "name": "Control Board DC (Only PCB) (Suitable for AZSL99B)",
+    "category": "Accessories",
+    "price": 13166,
+    "priceNote": "+18% TAX EXTRA",
+    "image":"/images/products/control-board-pcb-3.png",
+    "particulars": [
+      "1 No DC Control Board PCB"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No DC Control Board PCB"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azslgse332",
+    "code": "AZSLGSE332",
+    "name": "Gate Safety Edge Kit (60*40)",
+    "category": "Accessories",
+    "price": 19969,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/quik-single-pedestrian-gate-operator.png",
+    "particulars": [
+      "Rubber Profile (60*40) - AZSEGR206",
+      "Aluminium Track (60*40) - AZSEGAT106",
+      "Sensor Tape - AZSEST3",
+      "End Plug - AZSEP206",
+      "End Cap - AZSEEP05",
+      "Safety Edge Sensor Strip - AZHSDBES64B"
+    ],
+    "accordions": [
+      {
+        "title": "KIT INCLUDES",
+        "items": [
+          "Rubber Profile (60*40) - AZSEGR206",
+          "Aluminium Track (60*40) - AZSEGAT106",
+          "Sensor Tape - AZSEST3",
+          "End Plug - AZSEP206",
+          "End Cap - AZSEEP05",
+          "Safety Edge Sensor Strip - AZHSDBES64B"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azslgse333",
+    "code": "AZSLGSE333",
+    "name": "Gate Safety Edge Kit (40*30)",
+    "category": "Accessories",
+    "price": 17709,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/quik-single-pedestrian-gate-operator.png",
+    "particulars": [
+      "Rubber Profile (40*30) - AZSEGR304",
+      "Aluminium Track (40*30) - AZSEGAT113",
+      "Sensor Tape - AZSEST3",
+      "End Plug - AZSEP206",
+      "End Piece - AZSEEP113",
+      "Safety Edge Sensor Strip - AZHSDBES64B"
+    ],
+    "accordions": [
+      {
+        "title": "KIT INCLUDES",
+        "items": [
+          "Rubber Profile (40*30) - AZSEGR304",
+          "Aluminium Track (40*30) - AZSEGAT113",
+          "Sensor Tape - AZSEST3",
+          "End Plug - AZSEP206",
+          "End Piece - AZSEEP113",
+          "Safety Edge Sensor Strip - AZHSDBES64B"
         ]
       }
     ]

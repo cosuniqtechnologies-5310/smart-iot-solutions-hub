@@ -672,6 +672,7 @@
     "category": "Boom Barriers",
     "price": 98400,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/fence-hybrid.png",
     "particulars": [
       "BLDC BARRIER - AZBB115A",
       "FENCE BOOM 4.5 MTR - AZBFO3A4.5M",
@@ -696,6 +697,7 @@
     "category": "Boom Barriers",
     "price": 85000,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/rush-bldc-boom-barrier.png",
     "particulars": [
       "BLDC BARRIER - AZBBL18",
       "TELESCOPIC BOOM 6 MTR - AZBT01A6M",
@@ -722,6 +724,7 @@
     "category": "Boom Barriers",
     "price": 89900,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/rush-bldc-boom-barrier.png",
     "particulars": [
       "BLDC BARRIER - AZBBL18",
       "ARM OUT SQUARE BOOM 6 MTR - AZBA06A",
@@ -748,6 +751,7 @@
     "category": "Boom Barriers",
     "price": 98200,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/rush-bldc-boom-barrier.png",
     "particulars": [
       "BLDC BARRIER - AZBBL18",
       "LED BOOM 6 MTR - AZBL07A6M",
@@ -774,6 +778,7 @@
     "category": "Boom Barriers",
     "price": 109800,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/rush-bldc-boom-barrier.png",
     "particulars": [
       "BLDC BARRIER - AZBBL18",
       "FOLDING BOOM 4 MTR - AZBF05A90D",
@@ -800,6 +805,7 @@
     "category": "Boom Barriers",
     "price": 110500,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/rush-bldc-boom-barrier.png",
     "particulars": [
       "BLDC BARRIER - AZBBL18",
       "FOLDING BOOM 4 MTR - AZBF10A180D",
@@ -826,6 +832,7 @@
     "category": "Boom Barriers",
     "price": 107000,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/fence-bldc-boom-barrier-non-spring.png",
     "particulars": [
       "BLDC BARRIER - AZBBL18",
       "FENCE BOOM 4.5 MTR - AZBF03A4.5M",
@@ -850,6 +857,7 @@
     "category": "Boom Barriers",
     "price": 113200,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/star-fence-bldc-boom-barrier.png",
     "particulars": [
       "BLDC BARRIER - AZBB115",
       "FENCE BOOM 6MTR - AZBF036M",
@@ -874,6 +882,7 @@
     "category": "Boom Barriers",
     "price": 187000,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/8m-telescopic-bldc-boom-barrier.png",
     "particulars": [
       "BLDC BARRIER - AZBB119",
       "TELESCOPIC BOOM 8 MTR - AZBT088M (1+7 = 8M)",
@@ -897,6 +906,7 @@
     "code": "AZBBA117B/AZBA09A",
     "series": "ADD",
     "name": "Advertising BLDC Boom Barrier",
+    "image": "/images/products/advertising-bldc-boom.png",
     "category": "Boom Barriers",
     "price": 230000,
     "priceNote": "+18% TAX EXTRA",
@@ -915,6 +925,404 @@
         ]
       }
     ]
+  },
+  {
+    "id": "azsl97",
+    "code": "AZSL97",
+    "series": "UNIQ",
+    "name": "Sliding Gate Operator 800kg",
+    "category": "Sliding Gate Operators",
+    "price": 64900,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "Operator only 24V DC operator AZSL97 - 1 No (Including control board + Spring limit + Base plate + Fixing Accessories)",
+      "TRANSMITTER (AZT23B) - 2 Nos"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Operator only 24V DC operator AZSL97 - 1 No (Including control board + Spring limit + Base plate + Fixing Accessories)",
+          "TRANSMITTER (AZT23B) - 2 Nos"
+        ]
+      }
+    ],
+    "image": "/images/products/"
+  },
+  {
+    "id": "azsl99b",
+    "code": "AZSL99B",
+    "series": "DC",
+    "name": "Sliding Gate Operator 800kg",
+    "category": "Sliding Gate Operators",
+    "price": 44500,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "Operator only 24V DC Operator AZSL99B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+      "TRANSMITTER (AZT30A) - 2 Nos"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Operator only 24V DC Operator AZSL99B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+          "TRANSMITTER (AZT30A) - 2 Nos"
+        ]
+      }
+    ],
+    "image": "/images/products/"
+  },
+  {
+    "id": "azsl100b",
+    "code": "AZSL100B",
+    "series": "PRO",
+    "name": "Sliding Gate Operator 600kg",
+    "category": "Sliding Gate Operators",
+    "price": 40300,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "Operator only 220V AC Operator AZSL100B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+      "TRANSMITTER (AZT30A) - 2 Nos"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Operator only 220V AC Operator AZSL100B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+          "TRANSMITTER (AZT30A) - 2 Nos"
+        ]
+      }
+    ],
+    "image": "/images/products/"
+  },
+  {
+    "id": "azsl101b",
+    "code": "AZSL101B",
+    "series": "PRO",
+    "name": "Sliding Gate Operator 1000kg",
+    "category": "Sliding Gate Operators",
+    "price": 42900,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "Operator only 220V AC Operator AZSL101B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+      "TRANSMITTER (AZT30A) - 2 Nos"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Operator only 220V AC Operator AZSL101B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+          "TRANSMITTER (AZT30A) - 2 Nos"
+        ]
+      }
+    ],
+    "image": "/images/products/"
+  },
+  {
+    "id": "azsl102b",
+    "code": "AZSL102B",
+    "series": "PRO",
+    "name": "Sliding Gate Operator 1500kg",
+    "category": "Sliding Gate Operators",
+    "price": 51800,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "Operator only 220V AC Operator AZSL102B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+      "TRANSMITTER (AZT30A) - 2 Nos"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Operator only 220V AC Operator AZSL102B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+          "TRANSMITTER (AZT30A) - 2 Nos"
+        ]
+      }
+    ],
+    "image": "/images/products/"
+  },
+  {
+    "id": "azsl1021b",
+    "code": "AZSL1021B",
+    "series": "PRO",
+    "name": "Sliding Gate Operator 2000kg",
+    "category": "Sliding Gate Operators",
+    "price": 63000,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "Operator only 220V AC Operator AZSL1021B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+      "TRANSMITTER (AZT30A) - 2 Nos"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Operator only 220V AC Operator AZSL1021B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+          "TRANSMITTER (AZT30A) - 2 Nos"
+        ]
+      }
+    ],
+    "image": "/images/products/"
+  },
+  {
+    "id": "azsl103i",
+    "code": "AZSL103I",
+    "series": "POWER",
+    "name": "Industrial Sliding Gate Operator 2000kg",
+    "category": "Sliding Gate Operators",
+    "price": 106000,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "Operator Only 220V AC Operator AZSL103-I - 1 No (Including Operator + Control board + Base plate + Spring limit + Fixing Accessories)",
+      "TRANSMITTER (AZT23B) - 2 Nos",
+      "Industrial Use Intensive Operation"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Operator Only 220V AC Operator AZSL103-I - 1 No (Including Operator + Control board + Base plate + Spring limit + Fixing Accessories)",
+          "TRANSMITTER (AZT23B) - 2 Nos",
+          "Industrial Use Intensive Operation"
+        ]
+      }
+    ],
+    "image": "/images/products/"
+  },
+  {
+    "id": "azsl104i",
+    "code": "AZSL104I",
+    "series": "POWER",
+    "name": "Industrial Sliding Gate Operator 3000kg",
+    "category": "Sliding Gate Operators",
+    "price": 118850,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "Operator Only 220V AC Operator AZSL104-I - 1 No (Including Operator + Control board + Base plate + Spring limit + Fixing Accessories)",
+      "TRANSMITTER (AZT23B) - 2 Nos (Suitable Rack M6)",
+      "Industrial Use Intensive Operation"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Operator Only 220V AC Operator AZSL104-I - 1 No (Including Operator + Control board + Base plate + Spring limit + Fixing Accessories)",
+          "TRANSMITTER (AZT23B) - 2 Nos (Suitable Rack M6)",
+          "Industrial Use Intensive Operation"
+        ]
+      }
+    ],
+    "image": "/images/products/"
+  },
+  {
+    "id": "azsl105i",
+    "code": "AZSL105I",
+    "series": "POWER",
+    "name": "Industrial Sliding Gate Operator 4000kg",
+    "category": "Sliding Gate Operators",
+    "price": 137500,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "Operator Only 220V AC Operator AZSL105-I - 1 No (Including Operator + Control board + Base plate + Spring limit + Fixing Accessories)",
+      "TRANSMITTER (AZT23B) - 2 Nos (Suitable Rack M6)",
+      "Industrial Use Intensive Operation"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Operator Only 220V AC Operator AZSL105-I - 1 No (Including Operator + Control board + Base plate + Spring limit + Fixing Accessories)",
+          "TRANSMITTER (AZT23B) - 2 Nos (Suitable Rack M6)",
+          "Industrial Use Intensive Operation"
+        ]
+      }
+    ],
+    "image": "/images/products/"
+  },
+  {
+    "id": "azsl605i",
+    "code": "AZSL605I",
+    "series": "HULK",
+    "name": "Industrial Sliding Gate Operator 5000kg",
+    "category": "Sliding Gate Operators",
+    "price": 260000,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "Operator Only 220V AC Operator AZSL605-I - 1 No (Including Operator + Control board + Base plate + Spring limit + Fixing Accessories)",
+      "TRANSMITTER (AZT23B) - 2 Nos (Suitable Rack M6)",
+      "Industrial Use Intensive Operation"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Operator Only 220V AC Operator AZSL605-I - 1 No (Including Operator + Control board + Base plate + Spring limit + Fixing Accessories)",
+          "TRANSMITTER (AZT23B) - 2 Nos (Suitable Rack M6)",
+          "Industrial Use Intensive Operation"
+        ]
+      }
+    ],
+    "image": "/images/products/"
+  },
+  {
+    "id": "azsl606i",
+    "code": "AZSL606I",
+    "series": "HULK",
+    "name": "Industrial Sliding Gate Operator 6000kg",
+    "category": "Sliding Gate Operators",
+    "price": 290000,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "Operator Only 220V AC Operator AZSL606-I - 1 No (Including Operator + Control board + Base plate + Spring limit + Fixing Accessories)",
+      "TRANSMITTER (AZT23B) - 2 Nos (Suitable Rack M6)",
+      "Industrial Use Intensive Operation"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Operator Only 220V AC Operator AZSL606-I - 1 No (Including Operator + Control board + Base plate + Spring limit + Fixing Accessories)",
+          "TRANSMITTER (AZT23B) - 2 Nos (Suitable Rack M6)",
+          "Industrial Use Intensive Operation"
+        ]
+      }
+    ],
+    "image": "/images/products/"
+  },
+  {
+    "id": "azsl99b-kit",
+    "code": "AZSL99B/KIT",
+    "series": "DC",
+    "name": "Sliding Gate Operator Kit 800kg",
+    "category": "Sliding Gate Operators",
+    "price": 55200,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "Operator 24V DC Operator AZSL99B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+      "TRANSMITTER (AZT30A) - 2 Nos",
+      "BOLT-Photocells (AZPC10A) - 1 Pair",
+      "GI Rack (AZ9MM) - 4 Nos"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Operator 24V DC Operator AZSL99B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+          "TRANSMITTER (AZT30A) - 2 Nos",
+          "BOLT-Photocells (AZPC10A) - 1 Pair",
+          "GI Rack (AZ9MM) - 4 Nos"
+        ]
+      }
+    ],
+    "image": "/images/products/"
+  },
+  {
+    "id": "azsl100b-kit",
+    "code": "AZSL100B/KIT",
+    "series": "PRO",
+    "name": "Sliding Gate Operator Kit 600kg",
+    "category": "Sliding Gate Operators",
+    "price": 50500,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "Operator 220V AC Operator AZSL100B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+      "TRANSMITTER (AZT30A) - 2 Nos",
+      "BOLT-Photocells (AZPC10A) - 1 Pair",
+      "GI Rack (AZ9MM) - 4 Nos"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Operator 220V AC Operator AZSL100B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+          "TRANSMITTER (AZT30A) - 2 Nos",
+          "BOLT-Photocells (AZPC10A) - 1 Pair",
+          "GI Rack (AZ9MM) - 4 Nos"
+        ]
+      }
+    ],
+    "image": "/images/products/"
+  },
+  {
+    "id": "azsl101b-kit",
+    "code": "AZSL101B/KIT",
+    "series": "PRO",
+    "name": "Sliding Gate Operator Kit 1000kg",
+    "category": "Sliding Gate Operators",
+    "price": 53900,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "Operator 220V AC Operator AZSL101B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+      "TRANSMITTER (AZT30A) - 2 Nos",
+      "BOLT-Photocells (AZPC10A) - 1 Pair",
+      "GI Rack (AZ9MM) - 4 Nos"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Operator 220V AC Operator AZSL101B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+          "TRANSMITTER (AZT30A) - 2 Nos",
+          "BOLT-Photocells (AZPC10A) - 1 Pair",
+          "GI Rack (AZ9MM) - 4 Nos"
+        ]
+      }
+    ],
+    "image": "/images/products/"
+  },
+  {
+    "id": "azsl102b-kit",
+    "code": "AZSL102B/KIT",
+    "series": "PRO",
+    "name": "Sliding Gate Operator Kit 1500kg",
+    "category": "Sliding Gate Operators",
+    "price": 63500,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "Operator 220V AC Operator AZSL102B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+      "TRANSMITTER (AZT30A) - 2 Nos",
+      "BOLT-Photocells (AZPC10A) - 1 Pair",
+      "GI Rack (AZ12MM) - 4 Nos"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Operator 220V AC Operator AZSL102B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+          "TRANSMITTER (AZT30A) - 2 Nos",
+          "BOLT-Photocells (AZPC10A) - 1 Pair",
+          "GI Rack (AZ12MM) - 4 Nos"
+        ]
+      }
+    ],
+    "image": "/images/products/"
+  },
+  {
+    "id": "azsl1021b-kit",
+    "code": "AZSL1021B/KIT",
+    "series": "PRO",
+    "name": "Sliding Gate Operator Kit 2000kg",
+    "category": "Sliding Gate Operators",
+    "price": 75500,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "Operator 220V AC Operator AZSL1021B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+      "TRANSMITTER (AZT30A) - 2 Nos",
+      "BOLT-Photocells (AZPC10A) - 1 Pair",
+      "GI Rack (AZ12MM) - 4 Nos"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "Operator 220V AC Operator AZSL1021B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
+          "TRANSMITTER (AZT30A) - 2 Nos",
+          "BOLT-Photocells (AZPC10A) - 1 Pair",
+          "GI Rack (AZ12MM) - 4 Nos"
+        ]
+      }
+    ],
+    "image": "/images/products/"
   },
   {
     "id": "azt30a",
@@ -2199,6 +2607,7 @@
     "category": "Accessories",
     "price": 2000,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/bldc-transmitter-1.png",
     "particulars": [
       "1 No Transmitter"
     ],
@@ -2218,6 +2627,7 @@
     "category": "Accessories",
     "price": 3100,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/bldc-transmitter-2.png",
     "particulars": [
       "1 No Transmitter"
     ],
@@ -2237,6 +2647,7 @@
     "category": "Accessories",
     "price": 2610,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/transmitter-boom.png",
     "particulars": [
       "1 No Transmitter"
     ],
@@ -2256,6 +2667,7 @@
     "category": "Accessories",
     "price": 4990,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/loop-detector.png",
     "particulars": [
       "1 No Single Channel Loop Detector"
     ],
@@ -2275,6 +2687,7 @@
     "category": "Accessories",
     "price": 11350,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/loop-detector.png",
     "particulars": [
       "1 No Double Channel Loop Detector"
     ],
@@ -2294,6 +2707,7 @@
     "category": "Accessories",
     "price": 4020,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/vhoolder-silveer.png",
     "particulars": [
       "1 No V-Holder"
     ],
@@ -2313,6 +2727,7 @@
     "category": "Accessories",
     "price": 5020,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/vholder-gold.png",
     "particulars": [
       "1 No V-Holder"
     ],
@@ -2332,6 +2747,7 @@
     "category": "Accessories",
     "price": 1990,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/telescope-boom.png",
     "particulars": [
       "1 No Mobile Stand"
     ],
@@ -2351,6 +2767,7 @@
     "category": "Accessories",
     "price": 14382,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/telescope-boom.png",
     "particulars": [
       "1 No 6m Telescopic Boom"
     ],
@@ -2370,6 +2787,7 @@
     "category": "Accessories",
     "price": 10700,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/telescope-boom.png",
     "particulars": [
       "1 No 4m Telescopic Boom"
     ],
@@ -2389,6 +2807,7 @@
     "category": "Accessories",
     "price": 57400,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/folding-boom.png",
     "particulars": [
       "1 No 6m 90° Folding Boom"
     ],
@@ -2408,6 +2827,7 @@
     "category": "Accessories",
     "price": 36000,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/led-boom-6mtr.png",
     "particulars": [
       "1 No 6m LED Boom"
     ],
@@ -2427,6 +2847,7 @@
     "category": "Accessories",
     "price": 17900,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/arm-out-hybrid-bldc-boom.png",
     "particulars": [
       "1 No 4m Round Boom"
     ],
@@ -2446,6 +2867,7 @@
     "category": "Accessories",
     "price": 43800,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/two-fence-boom.png",
     "particulars": [
       "1 No 4.5m Fence Boom"
     ],
@@ -2465,6 +2887,7 @@
     "category": "Accessories",
     "price": 58200,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/two-fence-boom.png",
     "particulars": [
       "1 No 6m Fence Boom"
     ],
@@ -2484,6 +2907,7 @@
     "category": "Accessories",
     "price": 15900,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/bldc-control-board.png",
     "particulars": [
       "1 No Control Board"
     ],
@@ -2503,6 +2927,7 @@
     "category": "Accessories",
     "price": 18500,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/bldc-control-board.png",
     "particulars": [
       "1 No Control Board"
     ],
@@ -2522,6 +2947,7 @@
     "category": "Accessories",
     "price": 2230,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/arrow-indication-light.png",
     "particulars": [
       "1 No Arrow Indication LED Light"
     ],
@@ -2541,6 +2967,7 @@
     "category": "Accessories",
     "price": 24800,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/telescope-boom.png",
     "particulars": [
       "1 No 6m Telescopic Boom"
     ],
@@ -2560,6 +2987,7 @@
     "category": "Accessories",
     "price": 39500,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/led-boom-6mtr.png",
     "particulars": [
       "1 No 6m LED Boom"
     ],
@@ -2579,6 +3007,7 @@
     "category": "Accessories",
     "price": 43800,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/two-fence-boom.png",
     "particulars": [
       "1 No 4.5m Two Fence Boom"
     ],
@@ -2598,6 +3027,7 @@
     "category": "Accessories",
     "price": 46800,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/folding-boom.png",
     "particulars": [
       "1 No 4m 90° Folding Boom"
     ],
@@ -2617,6 +3047,7 @@
     "category": "Accessories",
     "price": 48200,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/folding-boom.png",
     "particulars": [
       "1 No 4m 180° Folding Boom"
     ],
@@ -2636,6 +3067,7 @@
     "category": "Accessories",
     "price": 38800,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/telescope-boom.png",
     "particulars": [
       "1 No 8m Telescopic Boom"
     ],
@@ -2655,6 +3087,7 @@
     "category": "Accessories",
     "price": 89700,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/advertisement-boom.png",
     "particulars": [
       "1 No 2.8m Advertisement Boom"
     ],
@@ -2674,6 +3107,7 @@
     "category": "Accessories",
     "price": 25500,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/arm-out-square-boom-6mtr.png",
     "particulars": [
       "1 No 6m Square Boom"
     ],
@@ -2693,6 +3127,7 @@
     "category": "Accessories",
     "price": 21200,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/controller-1.png",
     "particulars": [
       "1 No Controller"
     ],
@@ -2712,6 +3147,7 @@
     "category": "Accessories",
     "price": 35866,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/controller-suitable-for-azbb119a.png",
     "particulars": [
       "1 No Controller"
     ],
@@ -2731,6 +3167,7 @@
     "category": "Accessories",
     "price": 21200,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/controller-suitable-for-azbb115a.png",
     "particulars": [
       "1 No Controller"
     ],
@@ -2750,6 +3187,7 @@
     "category": "Accessories",
     "price": 17500,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/power-failure-module.png",
     "particulars": [
       "1 No Auto Opening Module"
     ],
@@ -2769,6 +3207,7 @@
     "category": "Accessories",
     "price": 6200,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/battery-backup-module.png",
     "particulars": [
       "1 No Battery Backup Module"
     ],
@@ -2788,6 +3227,7 @@
     "category": "Accessories",
     "price": 6900,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/power-supply-24v-10a.png",
     "particulars": [
       "1 No 24V 8A Power Supply"
     ],
@@ -2807,6 +3247,7 @@
     "category": "Accessories",
     "price": 7500,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/power-supply-24v-10a.png",
     "particulars": [
       "1 No 24V 20.8A Power Supply"
     ],
@@ -2826,6 +3267,7 @@
     "category": "Accessories",
     "price": 6900,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/power-supply-12v-15a.png",
     "particulars": [
       "1 No 12V 15A Power Supply"
     ],
@@ -2845,6 +3287,7 @@
     "category": "Accessories",
     "price": 7500,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/power-supply-24v-10a.png",
     "particulars": [
       "1 No 24V 10A Power Supply"
     ],
@@ -2864,6 +3307,7 @@
     "category": "Accessories",
     "price": 10450,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/led-strip-6-meter.png",
     "particulars": [
       "6 Mtr (1 No) LED Strip"
     ],
@@ -2883,6 +3327,7 @@
     "category": "Accessories",
     "price": 4450,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/edge-rubber.png",
     "particulars": [
       "3 Mtr Edge Rubber"
     ],
@@ -2902,6 +3347,7 @@
     "category": "Accessories",
     "price": 450,
     "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/stop-sign-board.png",
     "particulars": [
       "1 No Stop Sign Board"
     ],
@@ -2913,5 +3359,365 @@
         ]
       }
     ]
+  },
+  {
+    "id": "azslbb99b",
+    "code": "AZSLBB99B",
+    "name": "Battery Backup (Suitable for AZSL99B)",
+    "category": "Accessories",
+    "price": 2750,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No Battery Backup"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Battery Backup"
+        ]
+      }
+    ],
+    "image": "/images/products/"
+  },
+  {
+    "id": "azslsp319",
+    "code": "AZSLSP319",
+    "name": "Solar Panel Kit (For SGO-DC)",
+    "category": "Accessories",
+    "price": 43130,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No Solar Panel Kit"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Solar Panel Kit"
+        ]
+      }
+    ],
+    "image": "/images/products/"
+  },
+  {
+    "id": "az9mm",
+    "code": "AZ9MM",
+    "name": "GI Rack 9mm",
+    "category": "Accessories",
+    "price": 1900,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No GI Rack (1 Meter)"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No GI Rack (1 Meter)"
+        ]
+      }
+    ],
+    "image": "/images/products/"
+  },
+  {
+    "id": "az12mm",
+    "code": "AZ12MM",
+    "name": "GI Rack 12mm",
+    "category": "Accessories",
+    "price": 2350,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No GI Rack (1 Meter)"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No GI Rack (1 Meter)"
+        ]
+      }
+    ],
+    "image": "/images/products/"
+  },
+  {
+    "id": "az22mm",
+    "code": "AZ22MM",
+    "name": "GI Rack 22mm",
+    "category": "Accessories",
+    "price": 4300,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No GI Rack (1 Meter)"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No GI Rack (1 Meter)"
+        ]
+      }
+    ],
+    "image": "/images/products/"
+  },
+  {
+    "id": "az8mmss",
+    "code": "AZ8MMSS",
+    "name": "Stainless Steel Rack 8mm",
+    "category": "Accessories",
+    "price": 5450,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No Stainless Steel Rack (1 Meter)"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Stainless Steel Rack (1 Meter)"
+        ]
+      }
+    ],
+    "image": "/images/products/"
+  },
+  {
+    "id": "az30mmm6",
+    "code": "AZ30MMM6",
+    "name": "Rack 30mm M6",
+    "category": "Accessories",
+    "price": 5300,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No M6 Rack (1 Meter)"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No M6 Rack (1 Meter)"
+        ]
+      }
+    ],
+    "image": "/images/products/"
+  },
+  {
+    "id": "aznr25mm",
+    "code": "AZNR25MM",
+    "name": "Nylon Rack 25mm",
+    "category": "Accessories",
+    "price": 2015,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No Nylon Rack (1 Meter)"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Nylon Rack (1 Meter)"
+        ]
+      }
+    ],
+    "image": "/images/products/"
+  },
+  {
+    "id": "azslpcb97",
+    "code": "AZSLPCB97",
+    "name": "Programming Control PCB (K100Q) (Suitable for AZSL97)",
+    "category": "Accessories",
+    "price": 12990,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No Programming Control PCB"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Programming Control PCB"
+        ]
+      }
+    ],
+    "image": "/images/products/"
+  },
+  {
+    "id": "azslapcb300a",
+    "code": "AZSLAPCB300A",
+    "name": "Control Board AC (Only PCB) (Suitable for AZSL100A, AZSL101A, AZSL102A, AZSL1021A, AZSL103I)",
+    "category": "Accessories",
+    "price": 9800,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No AC Control Board PCB"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No AC Control Board PCB"
+        ]
+      }
+    ],
+    "image": "/images/products/"
+  },
+  {
+    "id": "azsldpcb317a",
+    "code": "AZSLDPCB317A",
+    "name": "Control Board DC (Only PCB) (Suitable for AZSL98A, AZSL99A)",
+    "category": "Accessories",
+    "price": 11758,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No DC Control Board PCB"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No DC Control Board PCB"
+        ]
+      }
+    ],
+    "image": "/images/products/"
+  },
+  {
+    "id": "azslafpcb330",
+    "code": "AZSLAFPCB330",
+    "name": "Control Board AC Fast (Only PCB) (Suitable for AZSLF800A, AZSLF1500A, AZSLF2000A, AZSL104I, AZSL105I)",
+    "category": "Accessories",
+    "price": 18250,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No AC Fast Control Board PCB"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No AC Fast Control Board PCB"
+        ]
+      }
+    ],
+    "image": "/images/products/"
+  },
+  {
+    "id": "azslpcb500",
+    "code": "AZSLPCB500",
+    "name": "Control Board (Only PCB) (Suitable for AZSL605I, AZSL606I)",
+    "category": "Accessories",
+    "price": 72186,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No Control Board PCB"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Control Board PCB"
+        ]
+      }
+    ],
+    "image": "/images/products/"
+  },
+  {
+    "id": "azslpcb300b",
+    "code": "AZSLPCB300B",
+    "name": "Control Board AC (Only PCB) (Suitable for AZSL100B, AZSL101B, AZSL102B, AZSL1021B)",
+    "category": "Accessories",
+    "price": 13166,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No AC Control Board PCB"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No AC Control Board PCB"
+        ]
+      }
+    ],
+    "image": "/images/products/"
+  },
+  {
+    "id": "azslpcb317b",
+    "code": "AZSLPCB317B",
+    "name": "Control Board DC (Only PCB) (Suitable for AZSL99B)",
+    "category": "Accessories",
+    "price": 13166,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "1 No DC Control Board PCB"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No DC Control Board PCB"
+        ]
+      }
+    ],
+    "image": "/images/products/"
+  },
+  {
+    "id": "azslgse332",
+    "code": "AZSLGSE332",
+    "name": "Gate Safety Edge Kit (60*40)",
+    "category": "Accessories",
+    "price": 19969,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "Rubber Profile (60*40) - AZSEGR206",
+      "Aluminium Track (60*40) - AZSEGAT106",
+      "Sensor Tape - AZSEST3",
+      "End Plug - AZSEP206",
+      "End Cap - AZSEEP05",
+      "Safety Edge Sensor Strip - AZHSDBES64B"
+    ],
+    "accordions": [
+      {
+        "title": "KIT INCLUDES",
+        "items": [
+          "Rubber Profile (60*40) - AZSEGR206",
+          "Aluminium Track (60*40) - AZSEGAT106",
+          "Sensor Tape - AZSEST3",
+          "End Plug - AZSEP206",
+          "End Cap - AZSEEP05",
+          "Safety Edge Sensor Strip - AZHSDBES64B"
+        ]
+      }
+    ],
+    "image": "/images/products/"
+  },
+  {
+    "id": "azslgse333",
+    "code": "AZSLGSE333",
+    "name": "Gate Safety Edge Kit (40*30)",
+    "category": "Accessories",
+    "price": 17709,
+    "priceNote": "+18% TAX EXTRA",
+    "particulars": [
+      "Rubber Profile (40*30) - AZSEGR304",
+      "Aluminium Track (40*30) - AZSEGAT113",
+      "Sensor Tape - AZSEST3",
+      "End Plug - AZSEP206",
+      "End Piece - AZSEEP113",
+      "Safety Edge Sensor Strip - AZHSDBES64B"
+    ],
+    "accordions": [
+      {
+        "title": "KIT INCLUDES",
+        "items": [
+          "Rubber Profile (40*30) - AZSEGR304",
+          "Aluminium Track (40*30) - AZSEGAT113",
+          "Sensor Tape - AZSEST3",
+          "End Plug - AZSEP206",
+          "End Piece - AZSEEP113",
+          "Safety Edge Sensor Strip - AZHSDBES64B"
+        ]
+      }
+    ],
+    "image": "/images/products/"
   }
 ]
