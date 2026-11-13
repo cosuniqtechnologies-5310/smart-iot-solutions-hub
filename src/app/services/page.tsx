@@ -47,7 +47,7 @@ export default function ServicesPage() {
                 {/* Residential Portal */}
                 <div className="group relative rounded-3xl overflow-hidden shadow-[0_15px_40px_rgba(0,0,0,0.06)] border border-gray-100 bg-white flex flex-col h-[700px]">
                     <div className="h-[55%] relative overflow-hidden">
-                        <img src="/images/products/exterior.jpg" alt="Residential Automation" className="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000 ease-in-out" />
+                        <img src="/images/sol_luxury_villa.jpg" alt="Residential Automation" className="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000 ease-in-out" />
                     </div>
                     
                     <div className="h-[45%] p-10 flex flex-col bg-white relative z-20">
@@ -81,7 +81,7 @@ export default function ServicesPage() {
                 {/* Commercial Portal */}
                 <div className="group relative rounded-3xl overflow-hidden shadow-[0_15px_40px_rgba(0,0,0,0.06)] border border-gray-100 bg-white flex flex-col h-[700px]">
                     <div className="h-[55%] relative overflow-hidden">
-                        <img src="/images/products/interior.jpg" alt="Commercial Automation" className="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000 ease-in-out" />
+                        <img src="/images/sol_office.jpg" alt="Commercial Automation" className="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000 ease-in-out" />
                     </div>
                     
                     <div className="h-[45%] p-10 flex flex-col bg-white relative z-20">

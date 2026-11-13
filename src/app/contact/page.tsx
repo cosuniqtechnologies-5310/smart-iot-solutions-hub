@@ -78,7 +78,7 @@ export default function ContactPage() {
 
                     {/* Fills the white space beautifully */}
                     <div className="mt-4 relative rounded-2xl overflow-hidden shadow-xl h-[200px] border border-gray-100 group">
-                        <img src="/images/products/interior.jpg" alt="Our Experience Center" className="absolute inset-0 w-full h-full object-cover group-hover:scale-110 transition-transform duration-1000 ease-[cubic-bezier(0.25,0.46,0.45,0.94)]" />
+                        <img src="/images/sol_office.jpg" alt="Our Experience Center" className="absolute inset-0 w-full h-full object-cover group-hover:scale-110 transition-transform duration-1000 ease-[cubic-bezier(0.25,0.46,0.45,0.94)]" />
                         <div className="absolute inset-0 bg-gradient-to-t from-[#0c121e]/90 via-[#0c121e]/40 to-transparent"></div>
                         <div className="absolute bottom-0 left-0 p-5">
                             <div className="inline-flex items-center gap-1.5 bg-white/20 backdrop-blur-md px-2.5 py-1 rounded-full text-[0.55rem] font-bold uppercase tracking-widest text-white border border-white/20 mb-2 w-max">

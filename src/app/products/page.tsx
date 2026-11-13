@@ -36,6 +36,12 @@ export default function ProductsPage() {
     "Networking & Routers"
   ] as const;
 
+  // Hide categories that have 0 products (only show All Products and categories with >= 1 product)
+  const activeCategories = categories.filter(category => {
+    if (category === "All Products") return true;
+    return products.some(p => p.category === category);
+  });
+
   const [selectedCategory, setSelectedCategory] = useState<string>("All Products");
 
   const filteredProducts = selectedCategory === "All Products" 
@@ -84,25 +90,31 @@ export default function ProductsPage() {
                   Categories
                 </h3>
                 <ul className="space-y-2">
-                  {categories.map(category => (
-                    <li key={category}>
-                      <button 
-                        onClick={() => setSelectedCategory(category)}
-                        className={`w-full text-left px-4 py-2.5 rounded-lg text-sm transition-all duration-200 font-medium ${
-                          selectedCategory === category 
-                            ? "bg-[#d0a353]/10 text-[#d0a353] border border-[#d0a353]/20 font-bold" 
-                            : "text-gray-600 hover:bg-gray-50 hover:text-gray-900 border border-transparent"
-                        }`}
-                      >
-                        {category}
-                        {category !== "All Products" && (
-                          <span className="float-right text-[10px] bg-gray-100 text-gray-500 px-2 py-0.5 rounded-full">
-                            {products.filter(p => p.category === category).length}
-                          </span>
-                        )}
-                      </button>
-                    </li>
-                  ))}
+                  {activeCategories.map(category => {
+                    const count = category === "All Products" 
+                      ? products.length 
+                      : products.filter(p => p.category === category).length;
+
+                    return (
+                      <li key={category}>
+                        <button 
+                          onClick={() => setSelectedCategory(category)}
+                          className={`w-full text-left px-4 py-2.5 rounded-lg text-sm transition-all duration-200 font-medium ${
+                            selectedCategory === category 
+                              ? "bg-[#d0a353]/10 text-[#d0a353] border border-[#d0a353]/20 font-bold" 
+                              : "text-gray-600 hover:bg-gray-50 hover:text-gray-900 border border-transparent"
+                          }`}
+                        >
+                          {category}
+                          {category !== "All Products" && count > 0 && (
+                            <span className="float-right text-[10px] bg-gray-100 text-gray-500 px-2 py-0.5 rounded-full">
+                              {count}
+                            </span>
+                          )}
+                        </button>
+                      </li>
+                    );
+                  })}
                 </ul>
                 
                 <div className="mt-10 p-5 bg-gradient-to-br from-[#0c121e] to-[#1a202c] rounded-xl text-center border border-[#d0a353]/30 relative overflow-hidden">
