@@ -968,7 +968,7 @@ export const products: Product[] = [
     "category": "Sliding Gate Operators",
     "price": 64900,
     "priceNote": "+18% TAX EXTRA",
-    "image":"/images/products/sliding-gate-operator-800kg.png",
+    "image": "/images/products/sliding-gate-operator-800kg.png",
     "particulars": [
       "Operator only 24V DC operator AZSL97 - 1 No (Including control board + Spring limit + Base plate + Fixing Accessories)",
       "TRANSMITTER (AZT23B) - 2 Nos"
@@ -991,7 +991,7 @@ export const products: Product[] = [
     "category": "Sliding Gate Operators",
     "price": 44500,
     "priceNote": "+18% TAX EXTRA",
-    "image":"/images/products/sliding-gate-operator-600kg.png",
+    "image": "/images/products/sliding-gate-operator-600kg.png",
     "particulars": [
       "Operator only 24V DC Operator AZSL99B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
       "TRANSMITTER (AZT30A) - 2 Nos"
@@ -1014,7 +1014,7 @@ export const products: Product[] = [
     "category": "Sliding Gate Operators",
     "price": 40300,
     "priceNote": "+18% TAX EXTRA",
-    "image":"/images/products/sliding-gate-operator-600kg.png",
+    "image": "/images/products/sliding-gate-operator-600kg.png",
     "particulars": [
       "Operator only 220V AC Operator AZSL100B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
       "TRANSMITTER (AZT30A) - 2 Nos"
@@ -1037,7 +1037,7 @@ export const products: Product[] = [
     "category": "Sliding Gate Operators",
     "price": 42900,
     "priceNote": "+18% TAX EXTRA",
-    "image":"/images/products/sliding-gate-operator-600kg.png",
+    "image": "/images/products/sliding-gate-operator-600kg.png",
     "particulars": [
       "Operator only 220V AC Operator AZSL101B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
       "TRANSMITTER (AZT30A) - 2 Nos"
@@ -1060,7 +1060,7 @@ export const products: Product[] = [
     "category": "Sliding Gate Operators",
     "price": 51800,
     "priceNote": "+18% TAX EXTRA",
-    "image":"/images/products/sliding-gate-operator-600kg.png",
+    "image": "/images/products/sliding-gate-operator-600kg.png",
     "particulars": [
       "Operator only 220V AC Operator AZSL102B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
       "TRANSMITTER (AZT30A) - 2 Nos"
@@ -1083,7 +1083,7 @@ export const products: Product[] = [
     "category": "Sliding Gate Operators",
     "price": 63000,
     "priceNote": "+18% TAX EXTRA",
-    "image":"/images/products/sliding-gate-operator-600kg.png",
+    "image": "/images/products/sliding-gate-operator-600kg.png",
     "particulars": [
       "Operator only 220V AC Operator AZSL1021B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
       "TRANSMITTER (AZT30A) - 2 Nos"
@@ -1106,7 +1106,7 @@ export const products: Product[] = [
     "category": "Sliding Gate Operators",
     "price": 106000,
     "priceNote": "+18% TAX EXTRA",
-    "image":"/images/products/power-3000kg.png",
+    "image": "/images/products/power-3000kg.png",
     "particulars": [
       "Operator Only 220V AC Operator AZSL103-I - 1 No (Including Operator + Control board + Base plate + Spring limit + Fixing Accessories)",
       "TRANSMITTER (AZT23B) - 2 Nos",
@@ -1131,7 +1131,7 @@ export const products: Product[] = [
     "category": "Sliding Gate Operators",
     "price": 118850,
     "priceNote": "+18% TAX EXTRA",
-    "image":"/images/products/power-3000kg.png",
+    "image": "/images/products/power-3000kg.png",
     "particulars": [
       "Operator Only 220V AC Operator AZSL104-I - 1 No (Including Operator + Control board + Base plate + Spring limit + Fixing Accessories)",
       "TRANSMITTER (AZT23B) - 2 Nos (Suitable Rack M6)",
@@ -1156,7 +1156,7 @@ export const products: Product[] = [
     "category": "Sliding Gate Operators",
     "price": 137500,
     "priceNote": "+18% TAX EXTRA",
-    "image":"/images/products/power-3000kg.png",
+    "image": "/images/products/power-3000kg.png",
     "particulars": [
       "Operator Only 220V AC Operator AZSL105-I - 1 No (Including Operator + Control board + Base plate + Spring limit + Fixing Accessories)",
       "TRANSMITTER (AZT23B) - 2 Nos (Suitable Rack M6)",
@@ -1181,7 +1181,7 @@ export const products: Product[] = [
     "category": "Sliding Gate Operators",
     "price": 260000,
     "priceNote": "+18% TAX EXTRA",
-    "image":"/images/products/power-3000kg.png",
+    "image": "/images/products/power-3000kg.png",
     "particulars": [
       "Operator Only 220V AC Operator AZSL605-I - 1 No (Including Operator + Control board + Base plate + Spring limit + Fixing Accessories)",
       "TRANSMITTER (AZT23B) - 2 Nos (Suitable Rack M6)",
@@ -1206,7 +1206,7 @@ export const products: Product[] = [
     "category": "Sliding Gate Operators",
     "price": 290000,
     "priceNote": "+18% TAX EXTRA",
-    "image":"/images/products/power-3000kg.png",
+    "image": "/images/products/power-3000kg.png",
     "particulars": [
       "Operator Only 220V AC Operator AZSL606-I - 1 No (Including Operator + Control board + Base plate + Spring limit + Fixing Accessories)",
       "TRANSMITTER (AZT23B) - 2 Nos (Suitable Rack M6)",
@@ -1231,7 +1231,7 @@ export const products: Product[] = [
     "category": "Sliding Gate Operators",
     "price": 55200,
     "priceNote": "+18% TAX EXTRA",
-    "image":"/images/products/pro-kg.png",
+    "image": "/images/products/pro-kg.png",
     "particulars": [
       "Operator 24V DC Operator AZSL99B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
       "TRANSMITTER (AZT30A) - 2 Nos",
@@ -1258,7 +1258,7 @@ export const products: Product[] = [
     "category": "Sliding Gate Operators",
     "price": 50500,
     "priceNote": "+18% TAX EXTRA",
-    "image":"/images/products/pro-kg.png",
+    "image": "/images/products/pro-kg.png",
     "particulars": [
       "Operator 220V AC Operator AZSL100B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
       "TRANSMITTER (AZT30A) - 2 Nos",
@@ -1285,7 +1285,7 @@ export const products: Product[] = [
     "category": "Sliding Gate Operators",
     "price": 53900,
     "priceNote": "+18% TAX EXTRA",
-    "image":"/images/products/pro-kg.png",
+    "image": "/images/products/pro-kg.png",
     "particulars": [
       "Operator 220V AC Operator AZSL101B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
       "TRANSMITTER (AZT30A) - 2 Nos",
@@ -1312,7 +1312,7 @@ export const products: Product[] = [
     "category": "Sliding Gate Operators",
     "price": 63500,
     "priceNote": "+18% TAX EXTRA",
-    "image":"/images/products/pro-kg.png",
+    "image": "/images/products/pro-kg.png",
     "particulars": [
       "Operator 220V AC Operator AZSL102B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
       "TRANSMITTER (AZT30A) - 2 Nos",
@@ -1339,7 +1339,7 @@ export const products: Product[] = [
     "category": "Sliding Gate Operators",
     "price": 75500,
     "priceNote": "+18% TAX EXTRA",
-    "image":"/images/products/pro-kg.png",
+    "image": "/images/products/pro-kg.png",
     "particulars": [
       "Operator 220V AC Operator AZSL1021B - 1 No (including Operator + control board + Base plate + Magnet limit + Fixing Accessories)",
       "TRANSMITTER (AZT30A) - 2 Nos",
@@ -1354,6 +1354,172 @@ export const products: Product[] = [
           "TRANSMITTER (AZT30A) - 2 Nos",
           "BOLT-Photocells (AZPC10A) - 1 Pair",
           "GI Rack (AZ12MM) - 4 Nos"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsld207-2m-kit",
+    "code": "AZSLD207/2M/KIT",
+    "series": "FLOW",
+    "name": "Flow - Sliding Glass Door Operator 2M Kit",
+    "category": "Sliding Glass Door Operators",
+    "price": 50500,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/flow-slliding-door.png",
+    "particulars": [
+      "OPERATOR - AZSLDMTR424",
+      "CONTROLLER - AZSLDCU423",
+      "BELT CONNECTOR - AZSLDCMP426",
+      "BELT - AZSLDBT409",
+      "IDLE PULLEY",
+      "ALUMINIUM GUIDE RAIL 2M",
+      "MOUNTING BRACKET",
+      "PUSH BUTTON - 2 Nos"
+    ],
+    "accordions": [
+      {
+        "title": "KIT INCLUDES",
+        "items": [
+          "OPERATOR - AZSLDMTR424",
+          "CONTROLLER - AZSLDCU423",
+          "BELT CONNECTOR - AZSLDCMP426",
+          "BELT - AZSLDBT409",
+          "IDLE PULLEY",
+          "ALUMINIUM GUIDE RAIL 2M",
+          "MOUNTING BRACKET",
+          "PUSH BUTTON - 2 Nos"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsld200-2-5mtr-kit",
+    "code": "AZSLD200/2.5MTR/KIT",
+    "series": "GRO",
+    "name": "Gro - Sliding Glass Door Operator 2.5Mtr Kit",
+    "category": "Sliding Glass Door Operators",
+    "price": 60600,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/gro-sliding-glass-door-operator.png",
+    "particulars": [
+      "SLIDING DOOR OPERATOR - AZSLDMTR424",
+      "CONTROLLER - AZSLDCU423",
+      "IDLE PULLEY",
+      "HANGER - 2 NOS",
+      "GLASS CLAMP AZSLDGHC411 - 2 NOS",
+      "BELT BRACKET - 2 NOS",
+      "STOPPER - 2 NOS",
+      "BELT",
+      "TERMINAL SWITCH",
+      "2.5MTR ALUMINIUM GUIDE RAIL & HANGER",
+      "PUSH BUTTON - 2 NOS"
+    ],
+    "accordions": [
+      {
+        "title": "KIT INCLUDES",
+        "items": [
+          "SLIDING DOOR OPERATOR - AZSLDMTR424",
+          "CONTROLLER - AZSLDCU423",
+          "IDLE PULLEY",
+          "HANGER - 2 NOS",
+          "GLASS CLAMP AZSLDGHC411 - 2 NOS",
+          "BELT BRACKET - 2 NOS",
+          "STOPPER - 2 NOS",
+          "BELT",
+          "TERMINAL SWITCH",
+          "2.5MTR ALUMINIUM GUIDE RAIL & HANGER",
+          "PUSH BUTTON - 2 NOS"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsld201f-4-2m-kit",
+    "code": "AZSLD201F/4.2M/KIT",
+    "series": "ZOOM",
+    "name": "Zoom - Sliding Glass Door Operator 4.2M Kit",
+    "category": "Sliding Glass Door Operators",
+    "price": 120750,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/zoom-sliding-glass-door-operator.png",
+    "particulars": [
+      "SLIDING DOOR OPERATOR - AZSLDMTRE410F",
+      "CONTROLLER - AZSLDCU408F",
+      "POWER SUPPLY UNIT - AZSLDPSU409F",
+      "IDLE PULLEY - AZSLDBHCE414F",
+      "HANGER - 2 NOS - AZSLDGDWE412F",
+      "GLASS CLAMP 1M - AZSLDGHTE411F - 2 NOS",
+      "BELT BRACKET - AZSLDGCE415F - 2 NOS",
+      "STOPPER - AZSLDSTP413F - 2 NOS",
+      "TOOTHED BELT - AZSLDBT405F",
+      "TERMINAL SWITCH",
+      "4.2MTR ALUMINIUM GUIDE RAIL & HANGER",
+      "MICROWAVE SENSOR (AZMW98A) - 2 NOS",
+      "SINGLE BEAM PHOTOCELL (AZSLDSBP71) - 1 NO"
+    ],
+    "accordions": [
+      {
+        "title": "KIT INCLUDES",
+        "items": [
+          "SLIDING DOOR OPERATOR - AZSLDMTRE410F",
+          "CONTROLLER - AZSLDCU408F",
+          "POWER SUPPLY UNIT - AZSLDPSU409F",
+          "IDLE PULLEY - AZSLDBHCE414F",
+          "HANGER - 2 NOS - AZSLDGDWE412F",
+          "GLASS CLAMP 1M - AZSLDGHTE411F - 2 NOS",
+          "BELT BRACKET - AZSLDGCE415F - 2 NOS",
+          "STOPPER - AZSLDSTP413F - 2 NOS",
+          "TOOTHED BELT - AZSLDBT405F",
+          "TERMINAL SWITCH",
+          "4.2MTR ALUMINIUM GUIDE RAIL & HANGER",
+          "MICROWAVE SENSOR (AZMW98A) - 2 NOS",
+          "SINGLE BEAM PHOTOCELL (AZSLDSBP71) - 1 NO"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsld201f-6m-kit",
+    "code": "AZSLD201F/6M/KIT",
+    "series": "ZOOM",
+    "name": "Zoom - Sliding Glass Door Operator 6M Kit",
+    "category": "Sliding Glass Door Operators",
+    "price": 138334,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/zoom-sliding-glass-door-2.png",
+    "particulars": [
+      "SLIDING DOOR OPERATOR - AZSLDMTRE410F",
+      "CONTROLLER - AZSLDCU408F",
+      "POWER SUPPLY UNIT - AZSLDPSU409F",
+      "IDLE PULLEY - AZSLDBHCE414F",
+      "HANGER - 2 NOS - AZSLDGDWE412F",
+      "GLASS CLAMP 1M - AZSLDGHTE411F - 2 NOS",
+      "BELT BRACKET - AZSLDGCE415F - 2 NOS",
+      "STOPPER - AZSLDSTP413F - 2 NOS",
+      "TOOTHED BELT - AZSLDBT405F",
+      "TERMINAL SWITCH",
+      "6MTR ALUMINIUM GUIDE RAIL & HANGER",
+      "MICROWAVE SENSOR (AZMW98A) - 2 NOS",
+      "SINGLE BEAM PHOTOCELL (AZSLDSBP71) - 1 NO"
+    ],
+    "accordions": [
+      {
+        "title": "KIT INCLUDES",
+        "items": [
+          "SLIDING DOOR OPERATOR - AZSLDMTRE410F",
+          "CONTROLLER - AZSLDCU408F",
+          "POWER SUPPLY UNIT - AZSLDPSU409F",
+          "IDLE PULLEY - AZSLDBHCE414F",
+          "HANGER - 2 NOS - AZSLDGDWE412F",
+          "GLASS CLAMP 1M - AZSLDGHTE411F - 2 NOS",
+          "BELT BRACKET - AZSLDGCE415F - 2 NOS",
+          "STOPPER - AZSLDSTP413F - 2 NOS",
+          "TOOTHED BELT - AZSLDBT405F",
+          "TERMINAL SWITCH",
+          "6MTR ALUMINIUM GUIDE RAIL & HANGER",
+          "MICROWAVE SENSOR (AZMW98A) - 2 NOS",
+          "SINGLE BEAM PHOTOCELL (AZSLDSBP71) - 1 NO"
         ]
       }
     ]
@@ -1921,7 +2087,7 @@ export const products: Product[] = [
   {
     "id": "azpfac452",
     "code": "AZPFAC452",
-    "name": "Finger Print & Password/Card",
+    "name": "Finger Print & Password IP68",
     "category": "Accessories",
     "price": 15100,
     "priceNote": "+18% TAX EXTRA",
@@ -3411,7 +3577,8 @@ export const products: Product[] = [
           "1 No Battery Backup"
         ]
       }
-    ]
+    ],
+    "image": "/images/products/"
   },
   {
     "id": "azslsp319",
@@ -3420,7 +3587,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 43130,
     "priceNote": "+18% TAX EXTRA",
-    "image":"/images/products/solar-panel-kit.png",
+    "image": "/images/products/solar-panel-kit.png",
     "particulars": [
       "1 No Solar Panel Kit"
     ],
@@ -3440,7 +3607,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 1900,
     "priceNote": "+18% TAX EXTRA",
-    "image":"/images/products/rack.png",
+    "image": "/images/products/rack.png",
     "particulars": [
       "1 No GI Rack (1 Meter)"
     ],
@@ -3460,7 +3627,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 2350,
     "priceNote": "+18% TAX EXTRA",
-    "image":"/images/products/rack.png",
+    "image": "/images/products/rack.png",
     "particulars": [
       "1 No GI Rack (1 Meter)"
     ],
@@ -3480,7 +3647,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 4300,
     "priceNote": "+18% TAX EXTRA",
-    "image":"/images/products/rack.png",
+    "image": "/images/products/rack.png",
     "particulars": [
       "1 No GI Rack (1 Meter)"
     ],
@@ -3500,7 +3667,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 5450,
     "priceNote": "+18% TAX EXTRA",
-    "image":"/images/products/rack.png",
+    "image": "/images/products/rack.png",
     "particulars": [
       "1 No Stainless Steel Rack (1 Meter)"
     ],
@@ -3520,7 +3687,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 5300,
     "priceNote": "+18% TAX EXTRA",
-    "image":"/images/products/rack.png",
+    "image": "/images/products/rack.png",
     "particulars": [
       "1 No M6 Rack (1 Meter)"
     ],
@@ -3540,7 +3707,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 2015,
     "priceNote": "+18% TAX EXTRA",
-    "image":"/images/products/rack.png",
+    "image": "/images/products/rack.png",
     "particulars": [
       "1 No Nylon Rack (1 Meter)"
     ],
@@ -3560,7 +3727,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 12990,
     "priceNote": "+18% TAX EXTRA",
-    "image":"/images/products/programming-control-k-100q.png",
+    "image": "/images/products/programming-control-k-100q.png",
     "particulars": [
       "1 No Programming Control PCB"
     ],
@@ -3580,7 +3747,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 9800,
     "priceNote": "+18% TAX EXTRA",
-    "image":"/images/products/control-board-ac-only-pcb.png",
+    "image": "/images/products/control-board-ac-only-pcb.png",
     "particulars": [
       "1 No AC Control Board PCB"
     ],
@@ -3600,7 +3767,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 11758,
     "priceNote": "+18% TAX EXTRA",
-    "image":"/images/products/control-board-dc-only-pcb.png",
+    "image": "/images/products/control-board-dc-only-pcb.png",
     "particulars": [
       "1 No DC Control Board PCB"
     ],
@@ -3620,7 +3787,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 18250,
     "priceNote": "+18% TAX EXTRA",
-    "image":"/images/products/control-board-dc-only-pcb.png",
+    "image": "/images/products/control-board-dc-only-pcb.png",
     "particulars": [
       "1 No AC Fast Control Board PCB"
     ],
@@ -3640,7 +3807,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 72186,
     "priceNote": "+18% TAX EXTRA",
-    "image":"/images/products/control-board-only-pcb-2.png",
+    "image": "/images/products/control-board-only-pcb-2.png",
     "particulars": [
       "1 No Control Board PCB"
     ],
@@ -3660,7 +3827,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 13166,
     "priceNote": "+18% TAX EXTRA",
-    "image":"/images/products/control-board-ac-only-pcb-2.png",
+    "image": "/images/products/control-board-ac-only-pcb-2.png",
     "particulars": [
       "1 No AC Control Board PCB"
     ],
@@ -3680,7 +3847,7 @@ export const products: Product[] = [
     "category": "Accessories",
     "price": 13166,
     "priceNote": "+18% TAX EXTRA",
-    "image":"/images/products/control-board-pcb-3.png",
+    "image": "/images/products/control-board-pcb-3.png",
     "particulars": [
       "1 No DC Control Board PCB"
     ],
@@ -3749,6 +3916,306 @@ export const products: Product[] = [
           "End Plug - AZSEP206",
           "End Piece - AZSEEP113",
           "Safety Edge Sensor Strip - AZHSDBES64B"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azmw98a",
+    "code": "AZMW98A",
+    "name": "Microwave Sensor",
+    "category": "Accessories",
+    "price": 6100,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/microwave-sensor.png",
+    "particulars": [
+      "1 No Microwave Sensor"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Microwave Sensor"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azris99a",
+    "code": "AZRIS99A",
+    "name": "Radar & Infrared Sensor",
+    "category": "Accessories",
+    "price": 22000,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/radar-infrared-sensor.png",
+    "particulars": [
+      "1 No Radar & Infrared Sensor"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Radar & Infrared Sensor"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsldtls73",
+    "code": "AZSLDTLS73",
+    "name": "Wired Touchless Sensor",
+    "category": "Accessories",
+    "price": 4860,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/wired-touchless-sensor.png",
+    "particulars": [
+      "1 No Wired Touchless Sensor"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Wired Touchless Sensor"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsldpbwl70a",
+    "code": "AZSLDPBWL70A",
+    "name": "Wireless Push Button & Receiver",
+    "category": "Accessories",
+    "price": 14251,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/wireless-push-button-receiver.png",
+    "particulars": [
+      "1 No Wireless Push Button & Receiver"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Wireless Push Button & Receiver"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azswdks430",
+    "code": "AZSWDKS430",
+    "name": "Key Switch",
+    "category": "Accessories",
+    "price": 9715,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/keyswitch-1.png",
+    "particulars": [
+      "1 No Key Switch"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Key Switch"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azfs92",
+    "code": "AZFS92",
+    "name": "Foot Sensor",
+    "category": "Accessories",
+    "price": 12300,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/foot-sensor.png",
+    "particulars": [
+      "1 No Foot Sensor"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Foot Sensor"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsldsbp71",
+    "code": "AZSLDSBP71",
+    "name": "Single Beam Sensor",
+    "category": "Accessories",
+    "price": 5850,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/single-beam-sensor.png",
+    "particulars": [
+      "1 No Single Beam Sensor"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Single Beam Sensor"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azslddb75",
+    "code": "AZSLDDB75",
+    "name": "Double Beam Photocell",
+    "category": "Accessories",
+    "price": 7300,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/single-beam-sensor.png",
+    "particulars": [
+      "1 No Double Beam Photocell"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Double Beam Photocell"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azlsec46",
+    "code": "AZLSEC46",
+    "name": "Light Curtain Sensor",
+    "category": "Accessories",
+    "price": 24900,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/light-curtain-sensor.png",
+    "particulars": [
+      "1 No Light Curtain Sensor"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Light Curtain Sensor"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azcgt98",
+    "code": "AZCGT98",
+    "name": "Glass Clamp 1M Top (12mm Glass)",
+    "category": "Accessories",
+    "price": 10160,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/glass-clamp-1m-top.png",
+    "particulars": [
+      "1 No Glass Clamp 1M Top (Glass Size 12mm)"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Glass Clamp 1M Top (Glass Size 12mm)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azcgb99",
+    "code": "AZCGB99",
+    "name": "Glass Clamp 1M Bottom (12mm Glass)",
+    "category": "Accessories",
+    "price": 6570,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/glass-clamp-1m-bottom.png",
+    "particulars": [
+      "1 No Glass Clamp 1M Bottom (Glass Size 12mm)"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Glass Clamp 1M Bottom (Glass Size 12mm)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azgas100",
+    "code": "AZGAS100",
+    "name": "Aluminium Strip 2.5M (12mm Glass)",
+    "category": "Accessories",
+    "price": 1700,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/aluminium-strip-2.5m.png",
+    "particulars": [
+      "1 No Aluminium Strip 2.5M (Glass Size 12mm)"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Aluminium Strip 2.5M (Glass Size 12mm)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azgrs101",
+    "code": "AZGRS101",
+    "name": "Rubber Strip 2.5M (12mm Glass)",
+    "category": "Accessories",
+    "price": 3600,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/rubber-strip-2.5m.png",
+    "particulars": [
+      "1 No Rubber Strip 2.5M (Glass Size 12mm)"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Rubber Strip 2.5M (Glass Size 12mm)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsldghte411-sl201e-1mtr",
+    "code": "AZSLDGHTE411(SL201E)1MTR",
+    "name": "Glass Holder Track (SL201E) 1Mtr",
+    "category": "Accessories",
+    "price": 6475,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/glass-holder-track.png",
+    "particulars": [
+      "1 No Glass Holder Track (SL201E) 1Mtr"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Glass Holder Track (SL201E) 1Mtr"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsldghte411-sl201e-1-5mtr",
+    "code": "AZSLDGHTE411(SL201E)1.5MTR",
+    "name": "Glass Holder Track (SL201E) 1.5Mtr",
+    "category": "Accessories",
+    "price": 8421,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/glass-holder-track.png",
+    "particulars": [
+      "1 No Glass Holder Track (SL201E) 1.5Mtr"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Glass Holder Track (SL201E) 1.5Mtr"
         ]
       }
     ]

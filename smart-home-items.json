@@ -1325,6 +1325,172 @@
     "image": "/images/products/"
   },
   {
+    "id": "azsld207-2m-kit",
+    "code": "AZSLD207/2M/KIT",
+    "series": "FLOW",
+    "name": "Flow - Sliding Glass Door Operator 2M Kit",
+    "category": "Sliding Glass Door Operators",
+    "price": 50500,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/",
+    "particulars": [
+      "OPERATOR - AZSLDMTR424",
+      "CONTROLLER - AZSLDCU423",
+      "BELT CONNECTOR - AZSLDCMP426",
+      "BELT - AZSLDBT409",
+      "IDLE PULLEY",
+      "ALUMINIUM GUIDE RAIL 2M",
+      "MOUNTING BRACKET",
+      "PUSH BUTTON - 2 Nos"
+    ],
+    "accordions": [
+      {
+        "title": "KIT INCLUDES",
+        "items": [
+          "OPERATOR - AZSLDMTR424",
+          "CONTROLLER - AZSLDCU423",
+          "BELT CONNECTOR - AZSLDCMP426",
+          "BELT - AZSLDBT409",
+          "IDLE PULLEY",
+          "ALUMINIUM GUIDE RAIL 2M",
+          "MOUNTING BRACKET",
+          "PUSH BUTTON - 2 Nos"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsld200-2-5mtr-kit",
+    "code": "AZSLD200/2.5MTR/KIT",
+    "series": "GRO",
+    "name": "Gro - Sliding Glass Door Operator 2.5Mtr Kit",
+    "category": "Sliding Glass Door Operators",
+    "price": 60600,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/",
+    "particulars": [
+      "SLIDING DOOR OPERATOR - AZSLDMTR424",
+      "CONTROLLER - AZSLDCU423",
+      "IDLE PULLEY",
+      "HANGER - 2 NOS",
+      "GLASS CLAMP AZSLDGHC411 - 2 NOS",
+      "BELT BRACKET - 2 NOS",
+      "STOPPER - 2 NOS",
+      "BELT",
+      "TERMINAL SWITCH",
+      "2.5MTR ALUMINIUM GUIDE RAIL & HANGER",
+      "PUSH BUTTON - 2 NOS"
+    ],
+    "accordions": [
+      {
+        "title": "KIT INCLUDES",
+        "items": [
+          "SLIDING DOOR OPERATOR - AZSLDMTR424",
+          "CONTROLLER - AZSLDCU423",
+          "IDLE PULLEY",
+          "HANGER - 2 NOS",
+          "GLASS CLAMP AZSLDGHC411 - 2 NOS",
+          "BELT BRACKET - 2 NOS",
+          "STOPPER - 2 NOS",
+          "BELT",
+          "TERMINAL SWITCH",
+          "2.5MTR ALUMINIUM GUIDE RAIL & HANGER",
+          "PUSH BUTTON - 2 NOS"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsld201f-4-2m-kit",
+    "code": "AZSLD201F/4.2M/KIT",
+    "series": "ZOOM",
+    "name": "Zoom - Sliding Glass Door Operator 4.2M Kit",
+    "category": "Sliding Glass Door Operators",
+    "price": 120750,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/",
+    "particulars": [
+      "SLIDING DOOR OPERATOR - AZSLDMTRE410F",
+      "CONTROLLER - AZSLDCU408F",
+      "POWER SUPPLY UNIT - AZSLDPSU409F",
+      "IDLE PULLEY - AZSLDBHCE414F",
+      "HANGER - 2 NOS - AZSLDGDWE412F",
+      "GLASS CLAMP 1M - AZSLDGHTE411F - 2 NOS",
+      "BELT BRACKET - AZSLDGCE415F - 2 NOS",
+      "STOPPER - AZSLDSTP413F - 2 NOS",
+      "TOOTHED BELT - AZSLDBT405F",
+      "TERMINAL SWITCH",
+      "4.2MTR ALUMINIUM GUIDE RAIL & HANGER",
+      "MICROWAVE SENSOR (AZMW98A) - 2 NOS",
+      "SINGLE BEAM PHOTOCELL (AZSLDSBP71) - 1 NO"
+    ],
+    "accordions": [
+      {
+        "title": "KIT INCLUDES",
+        "items": [
+          "SLIDING DOOR OPERATOR - AZSLDMTRE410F",
+          "CONTROLLER - AZSLDCU408F",
+          "POWER SUPPLY UNIT - AZSLDPSU409F",
+          "IDLE PULLEY - AZSLDBHCE414F",
+          "HANGER - 2 NOS - AZSLDGDWE412F",
+          "GLASS CLAMP 1M - AZSLDGHTE411F - 2 NOS",
+          "BELT BRACKET - AZSLDGCE415F - 2 NOS",
+          "STOPPER - AZSLDSTP413F - 2 NOS",
+          "TOOTHED BELT - AZSLDBT405F",
+          "TERMINAL SWITCH",
+          "4.2MTR ALUMINIUM GUIDE RAIL & HANGER",
+          "MICROWAVE SENSOR (AZMW98A) - 2 NOS",
+          "SINGLE BEAM PHOTOCELL (AZSLDSBP71) - 1 NO"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsld201f-6m-kit",
+    "code": "AZSLD201F/6M/KIT",
+    "series": "ZOOM",
+    "name": "Zoom - Sliding Glass Door Operator 6M Kit",
+    "category": "Sliding Glass Door Operators",
+    "price": 138334,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/",
+    "particulars": [
+      "SLIDING DOOR OPERATOR - AZSLDMTRE410F",
+      "CONTROLLER - AZSLDCU408F",
+      "POWER SUPPLY UNIT - AZSLDPSU409F",
+      "IDLE PULLEY - AZSLDBHCE414F",
+      "HANGER - 2 NOS - AZSLDGDWE412F",
+      "GLASS CLAMP 1M - AZSLDGHTE411F - 2 NOS",
+      "BELT BRACKET - AZSLDGCE415F - 2 NOS",
+      "STOPPER - AZSLDSTP413F - 2 NOS",
+      "TOOTHED BELT - AZSLDBT405F",
+      "TERMINAL SWITCH",
+      "6MTR ALUMINIUM GUIDE RAIL & HANGER",
+      "MICROWAVE SENSOR (AZMW98A) - 2 NOS",
+      "SINGLE BEAM PHOTOCELL (AZSLDSBP71) - 1 NO"
+    ],
+    "accordions": [
+      {
+        "title": "KIT INCLUDES",
+        "items": [
+          "SLIDING DOOR OPERATOR - AZSLDMTRE410F",
+          "CONTROLLER - AZSLDCU408F",
+          "POWER SUPPLY UNIT - AZSLDPSU409F",
+          "IDLE PULLEY - AZSLDBHCE414F",
+          "HANGER - 2 NOS - AZSLDGDWE412F",
+          "GLASS CLAMP 1M - AZSLDGHTE411F - 2 NOS",
+          "BELT BRACKET - AZSLDGCE415F - 2 NOS",
+          "STOPPER - AZSLDSTP413F - 2 NOS",
+          "TOOTHED BELT - AZSLDBT405F",
+          "TERMINAL SWITCH",
+          "6MTR ALUMINIUM GUIDE RAIL & HANGER",
+          "MICROWAVE SENSOR (AZMW98A) - 2 NOS",
+          "SINGLE BEAM PHOTOCELL (AZSLDSBP71) - 1 NO"
+        ]
+      }
+    ]
+  },
+  {
     "id": "azt30a",
     "code": "AZT30A",
     "name": "IND Transmitter",
@@ -1887,7 +2053,7 @@
   {
     "id": "azpfac452",
     "code": "AZPFAC452",
-    "name": "Finger Print & Password/Card",
+    "name": "Finger Print & Password IP68",
     "category": "Accessories",
     "price": 15100,
     "priceNote": "+18% TAX EXTRA",
@@ -3719,5 +3885,305 @@
       }
     ],
     "image": "/images/products/"
+  },
+  {
+    "id": "azmw98a",
+    "code": "AZMW98A",
+    "name": "Microwave Sensor",
+    "category": "Accessories",
+    "price": 6100,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/",
+    "particulars": [
+      "1 No Microwave Sensor"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Microwave Sensor"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azris99a",
+    "code": "AZRIS99A",
+    "name": "Radar & Infrared Sensor",
+    "category": "Accessories",
+    "price": 22000,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/",
+    "particulars": [
+      "1 No Radar & Infrared Sensor"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Radar & Infrared Sensor"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsldtls73",
+    "code": "AZSLDTLS73",
+    "name": "Wired Touchless Sensor",
+    "category": "Accessories",
+    "price": 4860,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/",
+    "particulars": [
+      "1 No Wired Touchless Sensor"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Wired Touchless Sensor"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsldpbwl70a",
+    "code": "AZSLDPBWL70A",
+    "name": "Wireless Push Button & Receiver",
+    "category": "Accessories",
+    "price": 14251,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/",
+    "particulars": [
+      "1 No Wireless Push Button & Receiver"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Wireless Push Button & Receiver"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azswdks430",
+    "code": "AZSWDKS430",
+    "name": "Key Switch",
+    "category": "Accessories",
+    "price": 9715,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/",
+    "particulars": [
+      "1 No Key Switch"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Key Switch"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azfs92",
+    "code": "AZFS92",
+    "name": "Foot Sensor",
+    "category": "Accessories",
+    "price": 12300,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/",
+    "particulars": [
+      "1 No Foot Sensor"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Foot Sensor"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsldsbp71",
+    "code": "AZSLDSBP71",
+    "name": "Single Beam Sensor",
+    "category": "Accessories",
+    "price": 5850,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/",
+    "particulars": [
+      "1 No Single Beam Sensor"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Single Beam Sensor"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azslddb75",
+    "code": "AZSLDDB75",
+    "name": "Double Beam Photocell",
+    "category": "Accessories",
+    "price": 7300,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/",
+    "particulars": [
+      "1 No Double Beam Photocell"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Double Beam Photocell"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azlsec46",
+    "code": "AZLSEC46",
+    "name": "Light Curtain Sensor",
+    "category": "Accessories",
+    "price": 24900,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/",
+    "particulars": [
+      "1 No Light Curtain Sensor"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Light Curtain Sensor"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azcgt98",
+    "code": "AZCGT98",
+    "name": "Glass Clamp 1M Top (12mm Glass)",
+    "category": "Accessories",
+    "price": 10160,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/",
+    "particulars": [
+      "1 No Glass Clamp 1M Top (Glass Size 12mm)"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Glass Clamp 1M Top (Glass Size 12mm)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azcgb99",
+    "code": "AZCGB99",
+    "name": "Glass Clamp 1M Bottom (12mm Glass)",
+    "category": "Accessories",
+    "price": 6570,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/",
+    "particulars": [
+      "1 No Glass Clamp 1M Bottom (Glass Size 12mm)"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Glass Clamp 1M Bottom (Glass Size 12mm)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azgas100",
+    "code": "AZGAS100",
+    "name": "Aluminium Strip 2.5M (12mm Glass)",
+    "category": "Accessories",
+    "price": 1700,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/",
+    "particulars": [
+      "1 No Aluminium Strip 2.5M (Glass Size 12mm)"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Aluminium Strip 2.5M (Glass Size 12mm)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azgrs101",
+    "code": "AZGRS101",
+    "name": "Rubber Strip 2.5M (12mm Glass)",
+    "category": "Accessories",
+    "price": 3600,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/",
+    "particulars": [
+      "1 No Rubber Strip 2.5M (Glass Size 12mm)"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Rubber Strip 2.5M (Glass Size 12mm)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsldghte411-sl201e-1mtr",
+    "code": "AZSLDGHTE411(SL201E)1MTR",
+    "name": "Glass Holder Track (SL201E) 1Mtr",
+    "category": "Accessories",
+    "price": 6475,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/",
+    "particulars": [
+      "1 No Glass Holder Track (SL201E) 1Mtr"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Glass Holder Track (SL201E) 1Mtr"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azsldghte411-sl201e-1-5mtr",
+    "code": "AZSLDGHTE411(SL201E)1.5MTR",
+    "name": "Glass Holder Track (SL201E) 1.5Mtr",
+    "category": "Accessories",
+    "price": 8421,
+    "priceNote": "+18% TAX EXTRA",
+    "image": "/images/products/",
+    "particulars": [
+      "1 No Glass Holder Track (SL201E) 1.5Mtr"
+    ],
+    "accordions": [
+      {
+        "title": "PARTICULARS",
+        "items": [
+          "1 No Glass Holder Track (SL201E) 1.5Mtr"
+        ]
+      }
+    ]
   }
 ]
